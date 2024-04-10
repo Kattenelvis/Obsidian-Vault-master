@@ -1,0 +1,31 @@
+
+
+
+Idea: For every non-deterministic world which ends up in sequence $\{s_1,\dots s_n\}$ there exists a deterministic world which just applies that sequence. 
+
+
+
+
+Conceivability vs Maximally consistent sets
+
+Idea: If PWs are just MCS's, then it's just a branch of logic, not a branch of metaphysics. 
+
+Idea: Conceivability is too subjective. 
+
+
+
+
+
+
+[What is the criteria for nearest possible worlds? : r/askphilosophy (reddit.com)](https://www.reddit.com/r/askphilosophy/comments/4jyqgr/what_is_the_criteria_for_nearest_possible_worlds/)
+"Yeah, this is an extremely deep problem that gets relatively little attention considering how significant it is. As far as I know, there's no widely agreed upon metric for "closeness" here. Lewis himself sort of gestures at it but, as [u/MaceWumpus](https://www.reddit.com/user/MaceWumpus/) said, the criteria he gives aren't really all that satisfactory. Some people (myself included) think that this is a pretty good reason to avoid taking possible worlds talk very seriously, especially in cases where the content of an argument strongly depends on whether or not some possible world or another is "more similar" to ours than another possible world.
+
+It can be really tempting to use something straightforward like [phase space distance](https://en.wikipedia.org/wiki/Phase_space) as our metric. Maybe, that is, two possible worlds are "close" to the extent that their paths through some physical state space are close together. This has some intuitive appeal: if two possible worlds have very different state space trajectories then their constituent particles (or whatever) are in very different places at comparable times, and if their paths match then most of their constituent particles are in the same place at comparable times. Intuitively, it seems like two worlds that are close together in a physical state space ought to necessarily be very similar to one another, and two worlds that are far apart in state space ought to be very different.
+
+Unfortunately, things are not this simple. In particular, this suggestion assumes that the state space can be neatly divided into continuously connected macrostates, and that it is not possible for a single macrostate’s volume to be distributed across a number of isolated regions. It assumes, that is, that simple distance in state-space is always going to be the best measure of _qualitative similarity_ between two states. This is manifestly not the case. State space conservation theorems (e.g. [Liouville's theorem](https://en.wikipedia.org/wiki/Liouville%27s_theorem_(Hamiltonian))) demand only that overall _density_ be conserved over time--they say nothing about how the volumes are _distributed_. As a simple analogue, suppose you’re making a measurement (in familiar, everyday space) and decide to round the outcome of your measurement to the nearest half inch. It’s clear that this decision might have consequences ranging from completely innocuous to horribly disastrous, depending on the circumstances in which you’re making your measurement. If you’re reporting your height to the DMV to get a new driver’s license, the half-inch rounding is inconsequential; if you’re a neurosurgeon preparing to make the first incision, however, that same half-inch is likely to be the difference between a successful operation and a well-deserved malpractice lawsuit (not to mention patient death). Something very similar is true in state space: while a very short distance between two states tells you that those states are similar in some respect, whether or not they’re _similar enough_—similar in the way that matters—is another matter entirely. Judging the second sort of similarity involves considering a whole host of other factors, none of which can be straightforwardly discerned from information about state space distance, no matter how precise that information is.
+
+Let’s distinguish, then, between two related but distinct concepts: the quantitative notion of ‘distance’ and the qualitative notion of ‘similarity’. Information about the distance between two states tells us something about the formal structure of the model used to generate the space but, by itself, won’t reveal the presence of any sensible way to group those states into regions that share predictively useful behaviors in common. Without an independent measure of how to group regions of a state space together such that the states inside those regions are similar to one another, we have no way of guaranteeing that just because two [worldlines](https://en.wikipedia.org/wiki/World_line) are close together, those worlds are going to be _similar_ in the ways that matter to us.
+
+The choice of what to count as an interesting macrostate—and so what to count as a "significant difference" between two possible worlds—is a perspectival and value-relative decision. The question or whether one microstate is similar to another is not just a question of whether those microstates are close to one another in the sense of being _proximal_ in a given state space, but also a question of whether or not they fall into volumes corresponding to _similar_ macrostates. The answer to the question of which microstates are "relevantly similar" to one another such that they can appropriately be grouped together into a single macrostate is _extremely_ non-trivial to discern, and depends on what our predictive goals are, what sorts of measurement tools we have access to, and also on the whole host of evaluative considerations.
+
+The upshot of this is that there's unlikely to be a single all-things-considered "best" way of defining a distance metric between possible worlds, since the structure of that metric is going to depend directly on what kinds of difference we think are important or interesting. This, in turn, is highly situational and perspectival: the kind of differences that might count as important in one case (or for one person) might be virtually irrelevant in another. There is no best metric--or, rather, there are _very many_ best metrics, each reflecting a different set of priorities, values, and pragmatic choices."

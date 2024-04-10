@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"type":"text","text":"Hiiii :3","id":"d1b01089a7318965","x":-212,"y":-114,"width":250,"height":60},
+		{"type":"file","file":"Pasted image 20230706234049.png","id":"044d301086a0c5ab","x":120,"y":-208,"width":399,"height":189},
+		{"type":"file","file":"Ontological Independence.md","id":"109d895d8a3c0b90","x":-287,"y":80,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"2ee1249791426ea7","fromNode":"109d895d8a3c0b90","fromSide":"top","toNode":"d1b01089a7318965","toSide":"bottom"},
+		{"id":"38e6694bd4ce9bb4","fromNode":"d1b01089a7318965","fromSide":"right","toNode":"044d301086a0c5ab","toSide":"left"},
+		{"id":"306af56a43d747f9","fromNode":"109d895d8a3c0b90","fromSide":"right","toNode":"044d301086a0c5ab","toSide":"bottom"}
+	]
+}

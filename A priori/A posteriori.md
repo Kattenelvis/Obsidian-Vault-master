@@ -1,0 +1,6 @@
+First a couple of preliminary points:  
+
+1.  The terms a priori and a posteriori are really a bit outdated. A more modern way of phrasing this would be in terms of knowledge that is programmed into a person's DNA, versus knowledge that is acquired by interaction with the environment, i.e., "nature" versus "nurture".
+2.  It is essential to make a distinction between semantic and procedural knowledge, that is, between knowing that and knowing how. Semantic knowledge is knowledge of facts, for example, knowing that the sun is going to rise tomorrow. Procedural knowledge is knowledge of how to perform a task, for example, knowing how to walk.
+
+With those distinctions in mind, the answer as I see it is that it is unlikely that any semantic knowledge is a priori, because you can't have semantic knowledge in any meaningful sense without having any way to express it. However, a certain amount of procedural knowledge must necessarily be a priori. At the very least is it necessary to start out knowing how to learn, that is, knowing how to acquire knowledge. As a matter of fact it's likely that we start out with a lot more procedural knowledge than that, but knowing how to learn is the absolute minimum.

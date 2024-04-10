@@ -1,0 +1,14 @@
+
+
+This field of study lowkey sucks. Here are my reasons why:
+
+1. "Nothing human makes it out of the near future". Anthropology studies something that will with a very high probability no longer exist within the next 300 years. Whether or not this will be due to some kind of apocalypse (via nuclear exchange, worldwide engineered pandemic, or misaligned AI) or via transcendence (biological and/or technological transhumanism). There will be 0 homo sapiens by the year 2324 most likely. Studying something that temporary seems like a vain effort.
+   
+2. Other fields, such as economics, decision theory, social choice theory, and game theory, studies more generalized agent behavior and strategy that likely still applies post-transcendence (or even post-apocalypse, given how biological life likely still remains in most cases). Some agent $A$ can then have properties such as a preference relation $R$ where $R$ can be transitive (or not) or can be complete (or not) etc. With 4 axioms you get the Neuman-Morgenstern theorem of expected utility theory. You study strategies in games, such as tit-for-tat or always cooperate in the prisoners dilemma. In economics, you study distributions of scarce resources (for example, intergenerational welfare economics). Given the finitude of the future time-cone of all agents in the universe, this makes it much more ethically relevant (assuming sufficiently low time-cost).
+   
+3. Anthropology is under the terrible grip of cultural relativism. These ideologies are extremely destructive to any academic field, including anthropology. By failing to consider the fact that some cultures are actually worse than others, then we fall into the trap of not considering how just because a civilization is "tribal" it implies that any social norm, no matter how much harm it causes, is still "good". No, I say, some cultures are worse than others. Keep in mind this does not imply "western culture" always have better norms, sometimes it's the other way around as has been found in studies where people in tribal societies have vastly lower rates of depression and anxiety, so it seems like they may have better norms in some circumstances. But until anthropology goes back to its positivistic roots, I will not be rooting for it.
+
+
+Anthropology does have one redeeming feature: It saves information in a compressed format about tribal civilizations such that the entropic forces of thermodynamic doesn't erase all information about them. This can be interesting to save, even post-singularity (especially if there's some non-zero probability that we value knowledge for the sake of knowledge, even if that knowledge isn't used for moral-value maximization).
+
+Also, cyborg anthropology is kinda cool atleast. Cyborg feminism here we gooo!

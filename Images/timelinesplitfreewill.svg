@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="12.191 563.498 990 423.333" xmlns:latexdraw="http://latexdraw.sourceforge.net/namespaces/latexdraw" version="1.1" baseProfile="full">
+    <g>
+        <g latexdraw:type="rectangle" id="id125366871">
+            <rect x="33.19111111111111" y="584.4977777777767" width="947.9999999999992" height="381.3333333333344" latexdraw:borderPos="outer" stroke="black" stroke-width="2.0" fill="white"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id625396142">
+            <polyline points="111.0286057274875,790.4125968148559 532.1397168385993,788.1903745926344 598.8063835052651,707.079263481523 836.5841612830432,705.9681523704116 891.0286057274883,658.1903745926326 " stroke="black" stroke-width="2.0" fill="none" latexdraw:rotationAngle="-6.938893903907228E-18"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id1140097914">
+            <polyline points="834.4514129683012,705.966590597547 890.0069685238568,740.4110350419915 " stroke="black" stroke-width="2.0" fill="none" latexdraw:rotationAngle="-6.938893903907228E-18"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id2048052332">
+            <polyline points="529.0086482730064,791.4416048041959 533.437066716583,789.5614532301825 612.535755320448,870.29039833786 860.485574049235,870.3360910168535 917.7368299187625,919.1278652214203 " stroke="black" stroke-width="2.0" fill="none" latexdraw:rotationAngle="6.28767096428207"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id372166840">
+            <polyline points="860.7257483863991,870.4811894552805 919.6866463119601,836.4347138654209 " stroke="black" stroke-width="2.0" fill="none" latexdraw:rotationAngle="6.314432716888188"/>
+        </g>
+        <g latexdraw:type="rectangle" id="id919976309">
+            <rect x="631.0069685238567" y="851.4110350419916" width="212.44444444444468" height="32.44444444444446" latexdraw:borderPos="outer" stroke="#6680e6" stroke-width="2.0" fill="none"/>
+        </g>
+        <g latexdraw:type="rectangle" id="id1588439953">
+            <rect x="632.1180796349679" y="693.6332572642132" width="195.77777777777771" height="28.000000000000455" latexdraw:borderPos="outer" stroke="#6680e6" stroke-width="2.0" fill="none"/>
+        </g>
+        <g latexdraw:type="circle" id="id1282406747">
+            <circle cx="834.4514129683015" cy="702.6332572642134" r="9.0" latexdraw:borderPos="outer" stroke="yellow" stroke-width="2.0" fill="none"/>
+        </g>
+        <g latexdraw:type="circle" id="id1251064264">
+            <circle cx="856.6736351905233" cy="868.1888128197695" r="11.222222222222626" latexdraw:borderPos="outer" stroke="yellow" stroke-width="2.0" fill="none"/>
+        </g>
+        <g latexdraw:type="text" id="id1380823816" fill="black" latexdraw:position="b">
+            <text x="122.2291907460785" y="732.6332572642139">Pre-Deliberation</text>
+        </g>
+        <g latexdraw:type="text" id="id1855923813" fill="black" latexdraw:position="bl">
+            <text x="610.6666666666674" y="775.7500000000005">Deliberation</text>
+        </g>
+        <g latexdraw:type="text" id="id522540790" fill="black" latexdraw:position="bl">
+            <text x="821.3333333333335" y="773.0833333333335">Action</text>
+        </g>
+    </g>
+    <defs/>
+    <metadata>
+        <latexdraw:metadata>
+            <latexdraw:centreHoriz>false</latexdraw:centreHoriz>
+            <latexdraw:positionVert/>
+            <latexdraw:zoom>0.49999999999999994</latexdraw:zoom>
+            <latexdraw:vpx>0.393</latexdraw:vpx>
+            <latexdraw:vpy>0.448</latexdraw:vpy>
+        </latexdraw:metadata>
+    </metadata>
+</svg>

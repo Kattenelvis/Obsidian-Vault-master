@@ -1,0 +1,15 @@
+
+Moral truths are not metaphysical, but are in agreements with rational agents (such as obligations)
+
+
+"Kant’s charge is directed against all previous moral doctrines, but his arguments specifically address sentimentalism and ‘dogmatic rationalism’. Sentimentalism, championed by Francis Hutcheson, David Hume, and Adam Smith, holds that ethical judgments stem from sentiments and regards reason as incapable of moving us to action on its own. According to the sentimentalist, the role of reason is solely instrumental. That is, reason merely finds the means to satisfy an agent’s ends, and it is not capable of indicating which ends are worth pursuing. This claim exposes sentimentalism as a “heteronomous” doctrine, which fails to establish the objectivity of moral obligations. This is because sentimentalism treats moral obligations as conditional upon our interests, and thus as having limited authority."
+
+"Kant raises the same objection against dogmatic rationalism, championed by Christian Wolff and Gottfried Wilhelm Leibniz, which holds that there are real moral truths that we apprehend by rational insight (Kant _G_ 4: 443; Rawls 2000: 50, 228). This view appears to be an intuitionist form of moral realism according to which reason recognizes objective values or moral ends that exist prior to and independently of our reasoning and of the kinds of agents that we are. In discovering such ends, moral agents do not actively exercise reasoning; they are as passive as in sensory perception. For Kant, dogmatic rationalism fails to secure the conclusion that moral obligations have unconditional authority over us (Kant _G_, 4: 441). This is because, for dogmatic rationalism, moral truths guide us only on the condition that we have a corresponding desire to be guided by what is rational (Rawls 1980: 343–46; Rawls 1989: 510–13)."
+
+
+"Skepticism is avoided only if reason is accounted as autonomous, and its authority does not derive from anything outside it."
+$Aut(PrReason)\rightarrow \neg Scep(PrReason)\wedge\neg\exists x (\neg (x=PrReason)\wedge Aut(x)) \rightarrow Sc(x)$
+
+"Reason is autonomous if its authority rests on its proper activity, rather than being derived from elements of the world outside of reason. Thus, the norm governing the activity of reason must be internal to reason, rather than dependent on any given value, interest, or desire. That is to say that reason is a “self-legislative activity” (Kant _G_ 4: §2), and its legislative activity is governed by a norm, which Kant calls the ‘**Categorical Imperative**.’"
+
+"The Categorical Imperative expresses the autonomy of reason and is its governing principle. It is not a mere decision-procedure to determine what to do, but the ‘constitutive norm’ of reason, that is, the basic standard of rationality in thinking and acting"

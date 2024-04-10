@@ -1,0 +1,7 @@
+[Glanzberg, 2006 - Quantifiers.pdf](file:///C:/Users/offic/Downloads/Glanzberg,%202006%20-%20Quantifiers.pdf)
+
+"In spite of all this complexity, the study of quantification in natural language has made remarkable progress. Starting with a seminal trio of papers from the early 1980s, Barwise and Cooper (1981), Higginbotham and May (1981), and Keenan and Stavi (1986), quantification in natural language has been investigated extensively by philosophers, logicians, and linguists."
+
+Generalized quantifier theory "Keenan and Westerst˚ahl (1997) and Westerst˚ahl (1989)."
+
+"For instance, we might propose that the contribution of everything to (1b) is the property of being among everything. There are a number of problems with this idea. One might raise metaphysical concerns about properties, or about whether properties can be the denotations of terms the way individuals can be the denotations of names (hence, the more neutral term semantic value might be more apt). But there are also some more immediate semantic problems which make this proposal fail. First, it leaves mysterious how the truth conditions of a sentence like (1b) could be determined. If both the subject everything and the predicate weighs 180 lbs. contribute properties, we lack an account of how to combine them to determine a truth value."

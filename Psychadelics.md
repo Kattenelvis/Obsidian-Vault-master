@@ -1,0 +1,2 @@
+https://effectindex.com/effects
+

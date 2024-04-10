@@ -1,0 +1,1 @@
+Idea: That God would not lie about the existence of the external world prooves the external world is a bad argument. Take an approach inspired by Berkley, it could be that there is no external world, but God doesn't encessarily give this information to people. If God would never decieve, how come we're wrong at all. 

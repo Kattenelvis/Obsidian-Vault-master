@@ -1,0 +1,4 @@
+"Most logics of necessity, obligation, knowledge, and belief make use of opera- tors, rather than predicates, to avoid very well known difficulties. Montague (1963), Thomason (1980) and Cross (2001) have shown just how easily contradictions can appear when first order logic is supplemented with any of the usual rules or axioms governing 'syntactical* modal predicates, or indeed with what seem to be very much weaker versions of them. In a well-known passage, Montague remarks (1963, 294): . . .if necessity is to be treated syntactically, that is, as a predicate of sentences, as Carnap and Quine have urged, then virtually all of modal logic, even the weak system SI."
+-The logic of quinean revisability
+
+[[Modality]]

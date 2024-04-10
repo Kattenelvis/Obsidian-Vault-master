@@ -1,0 +1,1 @@
+[[Abelard]] killed them off lol also [[Platonism]]

@@ -1,0 +1,5 @@
+
+Computation on mentalese thought-tokens that follow a lookup table, supposidely full with empirical evidence (I have not found a source yet, but I don't doubt that it's plausible).
+
+
+"Another naturalistic movement in the twentieth century was the “scientific philosophy” of the logical positivists. However, its leaders, such as Carnap and Reichenbach, followed Frege in rejecting the relevance of empirical psychology to epistemological issues and in basing their theories on formal logic. If human thinking employed the apparatus of symbolic logic, then there would be little difference between logical naturalism and cognitive naturalism. But there is abundant evidence that thought requires mental representations such as concepts and images, and computational procedures such as spreading activation and pattern matching, that go beyond the kinds of structures and inference allowed in the logical framework. Frege would have said, so much the worse for psychology, but the failure of the logicist approach to epistemology does not permit such arrogance."

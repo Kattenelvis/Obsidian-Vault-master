@@ -1,0 +1,3 @@
+"single sentence can summarize the complexities of modern artificial intelligence: Machine learning systems use computing power to execute algorithms that learn from data. Everything national security policymakers truly need to know about a technology that seems simultaneously trendy, powerful, and mysterious is captured in those 13 words. They specify a paradigm for modern AI—machine learning—in which machines draw their own insights from data, unlike the human-driven expert systems of the past."
+
+"The same sentence also introduces the AI triad of algorithms, data, and computing power."

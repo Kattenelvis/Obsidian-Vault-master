@@ -1,0 +1,7 @@
+[https://plato.stanford.edu/entries/wittgenstein-atomism/#DisLogAto](https://plato.stanford.edu/entries/wittgenstein-atomism/#DisLogAto)
+
+TLDR: Basically in Tractatus, elementary propositions (aka atomic propositions) are logically independent, meaning that the truth value of an elementary proposition does not contradict (or can be deduced from or entailed by) another elementary proposition. An elementary proposition can not be logically analyzed further. (e.g. This proposition "Snow is white and the sky is blue" is not elementary as it consists of 2 elementary propositions)
+
+However, suppose that _a_ is a point in the visual field. Consider the propositions _P_: “_a_ is blue at _t_” and _Q_: “_a_ is red at _t_” (supposing “red” and “blue” to refer to determinate shades). It is clear that _P_ and _Q_ cannot both be true; and yet, on the face of it, it seems that this incompatibility (or “exclusion” in Wittgenstein’s parlance) is not a _logical_ impossibility (like "a is red at t" vs "a is not red at t"). Wittgenstein initially dismissed this problem by drawing an analogy that a particle (in physics) cannot at the same time have two velocities, or particles in different places at the same time cannot be identical, for it is excluded by the logical structure of the concept "particle".
+
+Frank Ramsey observed that the analysis fails to reveal logical impossibility as the fact that one and the same particle cannot be (wholly) in two places at the same time still looks very much like a synthetic _a priori_ truth.
