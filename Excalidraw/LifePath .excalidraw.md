@@ -36,6 +36,8 @@ Breaks, Entertainment ^lmedgPbv
 
 High Life Satisfaction ^i7HPSwbI
 
+Active in Local Politics ^3n0nIWiY
+
 %%
 # Drawing
 ```json
@@ -1175,44 +1177,33 @@ High Life Satisfaction ^i7HPSwbI
 			]
 		},
 		{
-			"id": "pzo2uqHmcwEGDfzQThhcO",
 			"type": "arrow",
-			"x": 357.38893212494173,
-			"y": 72.38485986280364,
-			"width": 381.6666666666667,
-			"height": 330.83333333333326,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 89,
+			"versionNonce": 625721438,
+			"isDeleted": false,
+			"id": "pzo2uqHmcwEGDfzQThhcO",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 357.38893212494173,
+			"y": 72.38485986280364,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 381.6666666666667,
+			"height": 330.83333333333326,
+			"seed": 1778139074,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1778139074,
-			"version": 89,
-			"versionNonce": 625721438,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1705589491755,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					381.6666666666667,
-					330.83333333333326
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "An8BGEHO",
 				"focus": -0.9540714977218424,
@@ -1223,8 +1214,57 @@ High Life Satisfaction ^i7HPSwbI
 				"focus": -0.9112762452614085,
 				"gap": 1.2499999999995453
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					381.6666666666667,
+					330.83333333333326
+				]
+			]
+		},
+		{
+			"id": "3n0nIWiY",
+			"type": "text",
+			"x": 19.055598791608247,
+			"y": 240.71819319613695,
+			"width": 197.861328125,
+			"height": 23,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1177696424,
+			"version": 334,
+			"versionNonce": 947412136,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713261329518,
+			"link": null,
+			"locked": false,
+			"text": "Active in Local Politics",
+			"rawText": "Active in Local Politics",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Active in Local Politics",
+			"lineHeight": 1.15,
+			"isFrameName": false
 		}
 	],
 	"appState": {
@@ -1242,8 +1282,8 @@ High Life Satisfaction ^i7HPSwbI
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 298.86106787505815,
-		"scrollY": 492.719306803863,
+		"scrollX": 491.3610678750585,
+		"scrollY": 345.21930680386305,
 		"zoom": {
 			"value": 1.2000000000000002
 		},

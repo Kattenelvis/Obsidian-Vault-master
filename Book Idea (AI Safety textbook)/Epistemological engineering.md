@@ -10,6 +10,22 @@
 - Divine Omniscience, achievable engineering goal?
 
 
+The following 3 chapters will go over the following:
+
+This chapter: Knowing machines
+Nest chapter: Rational agential machines
+Chapter after that: How to align knowing, rational agental machines to good values.
+
+
+So how do we know things? How does any agent know anything? 
+
+John Locke was first to believe that only a few rules were needed to formalise learning [citation]. Well alright, a sterotyped version of him. This may include inductive and deductive reasoning. With these two, formalised, the idea is that any agent can learn everything there is to know. There were no innate information, only what can be learnt.
+
+However, with modern technology, we can obviously start testing empirically if this really is the case. If it turns out a ruleset $R$ is what's needed for general intelligence, then clearly we'd just setup a machine with $R$ as its Turing machine specification and let it learn until it becomes a general intelligence. 
+
+
+
+
 
 Meno's Paradox: The AI needs some knowledge to gain knowledge. Some structure exists before!
 
@@ -248,3 +264,110 @@ Imagine a superintelligence that does not have any phenomenal consciousness, but
 This means that the number of possible worlds in which the superintelligence exists in are only those worlds which allows the superintelligence. Thus, it's able to put a credence of 0 on worlds with no superintelligence. Then, given that it can experiment on it's own thought process and how thoughts leads to other thoughts, it can figure out causality and laws. This is without any experiments.
 
 Perhaps, although this is of course highly speculative, it may be able to derive the laws of physics to limit the number of possible worlds even more, which may lead to discovering the conditions of the big bang and atleast approximating which one's would have the highest probability of yielding a superintelligence. This in itself, without any sight, smell, or hearing, it can derive that humans exist and all of the safety procedures that was put in place for the humans. This is potentially dangerous for the control problem, and may increase the likelihood of deception.
+
+
+
+
+
+- Logic and History of AI
+	- Good old AI paradigm
+		- Narrow: Word2Vec, Mini-world agents
+		- Cyc, databases, formal ontology
+		- General: Gödel machines, AIXI
+	- Why didn't it work?
+		- Frame Problem (HAI?)
+		- Modal Fusion systems have to high time-complexity
+	- Current AI models
+		- Statistical Learning
+		- Neural Networks and Backpropagation 
+		- Reinforcement Learning
+		- Transformer architecture
+		- Generative Adversarial Networks, Diffusion models, LLMs
+	- Frontiers
+		- Corrigible, Explainable, Truthful, Interpretable and Aligned AI
+		- Resurrection for GOAI? Neural logic
+
+
+
+## Representation AI
+
+Let's say you want to represent the external world. Representations stores properties about objects, such that for all object $x$ with $\{P_1x,\dots P_nx\}$ aswell as relational properties with other objects $\{R_1(x_1,\dots x_n),\dots R_m(x_{k},\dots x_w)\}$. 
+
+Example of such ontology may be "The cat is on the mat" or $OnMat(Cat, Mat)$ and that the AI is merely preloaded with this kind of "common sense" knowledge of the world. 
+
+
+But this leads to the frame problem. Given any problem, there's likely many objects involved, and as such is very slow in being able to bring up the relevant properties and relations. 
+
+We can fix this!
+
+
+
+
+
+Mereology
+
+Axiomatizing folk-physics (the book by ladyman has a reference to this). Ladyman argues that metaphysicians often end up not utilizing physics correctly at all, and saying false things about it constantly (such as saying "space-time points" etc.). But what if we formalized and axioamtized notions of folk-physics and let a robot reason about space-time, even if fundamental physics says it may be reducible?
+
+
+
+# General Seed AI systems
+
+## AIXI
+![[Pasted image 20240204125552.png]]
+
+Insert the slide from my phil of science professor with the lecture on events and laws which compress the information.
+
+[Artificial Intelligence > The AIXI Architecture (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/artificial-intelligence/aixi.html)
+
+uncomputable bro. If weh ad access to hypercomputation, it seems like we could run an AIXI until it figures out an optimal solution for maximising utility. So while we have argued that [hypercomputation is likely not nomonologically possible], if anyone ever finds closed timelike curves, stay on the lookout for anyone trying to implement an AIXI model into it. 
+
+
+
+## Gödel Machine
+
+Somewhat self-referential kekw.
+
+## Modal Fusion Systems
+So for instance in modal logic one can simply state that $Kp$ to mean that "it is known that $p$". This can be amended in multi-agent epistemic logic with things like $K_1p\wedge \neg K_2p$ in which case agent 1 knows p but agent 2 doesn't know p. 
+
+With fusion logics, one can state the typical JBT definition of knowledge by fusing it with doxastic and justification logic. [Fusion systems]
+
+$$Kp \leftrightarrow (Bp\wedge Jp \wedge p)$$
+If we merely a priori reason about what justifies belief, we could simply build an AI that way? This is not entirely possible, because what makes something justificatory is more of an empirical question than something that can be reasoned from armchair philosophy. 
+
+
+
+
+
+## Neural Networks
+
+
+Activation level RHLF
+
+Multi layered
+
+Deep Neural Networks
+
+
+
+## Reinforcement Learning
+
+Pavlov famously ... dogs bell
+
+Well we have the same thing now with AI. This kind of agent model takes action, receives feedback/reward from the environment based on those actions, and revises one's action strategy accordingly
+
+Mathematically speaking:
+$A={R, A}$
+environment state-action pairs
+utility goes brrr
+
+
+A simple model is the multi-armed bandit
+(insert that here)
+
+
+Woaw!
+
+
+
+

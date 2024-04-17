@@ -157,3 +157,45 @@ Truth-maximiser and whether or not a happiness-maximiser would also need to be a
 
 # Satisfisers AI that doesn't try to hard.
 	They have an easy time becoming maximisers though due to gaining more utility by increasing it's credence that it is satisficing. 
+
+
+
+
+# Ontology change --> Value change
+
+Cite that paper here
+
+Let's say you value flowers. More flower = more good. Here's a tulip 🌷. But what about venus fly trap? Mushroom? Edge-cases and fuzziness of objects and object demarcation for familial resemblences on what counts as flower or not can change.
+
+$O_1 \rightarrow O_2$
+
+As such, what is valued can drift over time. Value drift as a due to ontology shift is plausible. 
+
+
+
+
+# Corrigibility, Explainability, Truthful, Interpretable AI
+
+In recent years, in AI safety research there have been a rise in research programs aimed at creating AI that is corrigible (machine unlearning) explainable (explain why it takes actions or says something, giving justification) truthful (and honest) and interpretable. 
+
+
+
+## Truthful
+
+For instance, by building an truth maximiser, one may be able to achieve building an [oracle]. 
+
+Perhaps truthful AI, accompanied by deontic logic, should be forced to be honest (a kantian maxim enforced on the bot). 
+
+
+
+AI research converging upon the transformer architecture [Transformer (machine learning model) - Wikipedia](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model))
+
+
+# Orthogonality Thesis
+
+If Orthogonality thesis is true:
+We should submit to its higher values. Humanities values would then clearly be, below the true values. 
+
+Atleast if moral realism is true, and motivational internalism is true. 
+
+Given that I would give a low probability on them, I'd say that it's not looking good for this prospect. 

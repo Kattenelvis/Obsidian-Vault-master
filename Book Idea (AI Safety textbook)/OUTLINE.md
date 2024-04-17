@@ -8,6 +8,8 @@ Potential title: Philosophy of AI from first principles
 
 Potential title: Computation, AI and Transhumanist philosophy from first principles
 
+Potential title: Computation, AI and Alignment from first principles
+
 Random thought: The microwave represents everything good about humanity
 
 Outline ideas (ordering/prerequisites of chapters)

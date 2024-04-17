@@ -12,10 +12,6 @@
 
 
 
-# Junk, Gunk and Funk
-
-Is the universe infinitely large/infinitely divisible? If tey are atleast one of them, that spells some trouble for computational physics. 
-
 
 
 # Physical Realization of Computation
@@ -102,17 +98,51 @@ Examples, such as hydrologic and woodlogic
 Hadamard gate
 ![[Pasted image 20240216235344.png]]
 
+
+# Implementing Hypercomputers
+
+
+"Some authors have questioned whether the mainstream quantum computing paradigm is general enough and, if not, whether some aspects of quantum mechanics may be exploited to design a quantum hypercomputer (Nielsen 1997, Calude and Pavlov 2002). The most prominent proposal for a quantum hypercomputer is due to Tien Kieu (2002, 2003, 2004, 2005). He argues that an appropriately constructed quantum system can decide whether an arbitrary Diophantine equation has an integral solution—a problem which is known to be unsolvable by TMs. Kieu’s method involves encoding a specific instance of the problem in an appropriate Hamiltonian, which represents the total energy of a quantum system. Kieu shows that such a system can dynamically evolve over time into an energy ground state that encodes the desired solution. Unfortunately, Kieu’s scheme does not appear to be workable. For one thing, it requires infinite precision in setting up and maintaining the system (Hodges 2005). For another, Kieu does not provide a successful criterion for knowing _when_ the system has evolved into the solution state, and the problem of determining when the solution state is reached is Turing-uncomputable (Smith 2006b, Hagar and Korolev 2007). Thus, operating Kieu’s proposed hypercomputer would require already possessing hypercomputational powers."
+
+
+But it seems given current physics that it is impossible:
+
+Closed timelike curves can build a hypercomputer!
+
+CTC's are nomonologically impossible:
+
+Gödel metric [insert Gödel story here, no Gödel, no spinningfound!]
+
+Generalized Entropy
+
+
+# Computonium
+
+A configuration of matter that is the most efficient for computation. See: Hedonium
+
+
+
 # Computational Universe?
 
 
-
-
-CUH
+CUH Tegmark
 
 Do not use planc length as an argument that the universe is discrete, it is merely at that point where uncertianty reaches a breaking point in our ability to uilize QM. Smaller theories may still be the case. 
 
 
-Cellullar automata
+Cellullar automata interpretation of QM
+
+Wolfram Physics and Computational Quantum Gravity
+
+
+# Junk, Gunk and Funk
+
+In metaphysics, the idea of whether or not space or time is divisible forever or discrete at some step has been a major topic of discussion ever since the ancient Greeks[source]. It turns out to be relevant for the question on whether or not the universe is computational.
+
+Is the universe infinitely large/infinitely divisible? If tey are atleast one of them, that spells some trouble for computational physics. 
+
+Analog computation vs Digital Computation
+
 
 
 # Simulation Hypothesis
@@ -146,27 +176,5 @@ Our actions may be shaped by this. If there's a non-zero percent probability of 
 Omega point cosmology (OPC) is a very wild, out-there idea that has recieved a lot of criticism. I believe it has a very low probability of being true, but is worth investigating anyways just because of how mind-boggingly insanse the idea is. 
 
 
+![[Pasted image 20240414231023.png]]
 
-
-
-# Computonium
-
-A configuration of matter that is the most efficient for computation. See: Hedonium
-
-
-
-# Implementing Hypercomputers
-
-
-"Some authors have questioned whether the mainstream quantum computing paradigm is general enough and, if not, whether some aspects of quantum mechanics may be exploited to design a quantum hypercomputer (Nielsen 1997, Calude and Pavlov 2002). The most prominent proposal for a quantum hypercomputer is due to Tien Kieu (2002, 2003, 2004, 2005). He argues that an appropriately constructed quantum system can decide whether an arbitrary Diophantine equation has an integral solution—a problem which is known to be unsolvable by TMs. Kieu’s method involves encoding a specific instance of the problem in an appropriate Hamiltonian, which represents the total energy of a quantum system. Kieu shows that such a system can dynamically evolve over time into an energy ground state that encodes the desired solution. Unfortunately, Kieu’s scheme does not appear to be workable. For one thing, it requires infinite precision in setting up and maintaining the system (Hodges 2005). For another, Kieu does not provide a successful criterion for knowing _when_ the system has evolved into the solution state, and the problem of determining when the solution state is reached is Turing-uncomputable (Smith 2006b, Hagar and Korolev 2007). Thus, operating Kieu’s proposed hypercomputer would require already possessing hypercomputational powers."
-
-
-But it seems given current physics that it is impossible:
-
-Closed timelike curves can build a hypercomputer!
-
-CTC's are nomonologically impossible:
-
-Gödel metric [insert Gödel story here, no Gödel, no spinningfound!]
-
-Generalized Entropy

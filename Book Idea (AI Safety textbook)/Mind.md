@@ -201,6 +201,16 @@ Microtubles may not be able to carry entangled information well after all, due t
 ## Phenomenal Consciousness
 
 
+Formal Phenomenology?
+
+
+### Is it important if AI has phenomenal consciousness or not?
+
+
+
+Hitler could've been a philosophical zombie and still capable of all evildoings that he did. As such, we'll get more into capabilities and not delve too deep into the phenomenal consciousness of it. 
+
+
 
 ## Intentional Consciousness
 
@@ -251,6 +261,8 @@ But what if you did it like the Ship of Theseus? The idea here is to slowly repl
 This idea seems to be the more risk-averse approach, as it assumes fewer number of philosophical assumptions regarding identity continuity and mental combination. So it's the more risk-free option, without too much of a cost (especially compared to the benefits of mind uploading) and the one I would advocate for.
 
 ## Metaphysics of consciousness?
+
+![[Worldscomputationalmind.excalidraw]]
 
 
 4 major viewpoints

@@ -154,3 +154,18 @@ Experimentally, in 1957, left and right ARE different:
 "Counterintuitively, this symmetry (parity symmetry) is indeed violated, for certain lawlike processes (namely, those involving the so-called weak interaction). What we find is that electrons (or beta particles) in a beta decay process will preferentially be shot out of the South side (relative to a strong magnetic field) than the North side. The original experiment was carried out with Cobalt-60 atoms."
 
 
+
+
+# 4.3
+
+
+Twin Paradox. Both space farer and earth being will think the other one aged more than themselves. It seems like ourselves are stationary while the other one is traveling at near the speed of light, such that time dilation occurrs for the other one but not oneself. 
+
+Resolution is by considering the acceleration and change in inertial reference frame from the space-farer. At the point of acceleration the relative "now" compared to earth will be immediately "skipped" assuming infinite acceleration (or really rapidly assuming finite acceleration).
+
+But the problem is when you consider the possible topologies of space. Space could be shaped in such a way where going in one direction lends you back to where you started. A doughnut toplogy. Now how does it work, without any acceleration point if someone just travels in one direction?
+
+"So here is an asymmetry: there are non-trivial (topological) differences in the quads’ trajectories. This causes differences in their frames and is already enough to dissolve the paradox."
+
+Flaten out the square, tile the plane, calculate the length of worldlines (longer paths means less ageing).![[Pasted image 20240411225200.png]]
+
