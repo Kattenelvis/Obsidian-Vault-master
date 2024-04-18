@@ -1,14 +1,46 @@
 
+Liú's artikel kritiserar experimentel filosofi (X-phi) genom en kritik riktad mot användningen av vissa koncept inom medvetandefilosofi där lekmän ej är utbildade inom konceptet. 
+
+Det är så kallade ad-hoc concept. Ett exempel är vid en kontext där det finns en äcklig människa man inte gillar och säger "Den är ett svin". Detta indikerar ett slags ad-hoc concept som baserar sig på det bosktavliga innebörden av "svin" dvs ett djur som är lortigt. Detta är en semantisk bredning av ett koncept, för fler objekt än vad det vardagliga konceptet täcker räknas med. 
+
+S vet hur det är för X att Y gör $\phi$. 
+
+T.ex jag har tillgång på något sätt hur det är för en pappa att för sin son flyttar ut i skogen. Men i det flesta fall är X=Y. Som t.ex jag har tillgång till hur det är för en fladdermus att den själv flyger. I de flesta exempel är det fallet att x=y, men ibland går dom i från varandra t.ex "sjukvårdare vet hur det är för sjukhus att vara fulla med patienter"
+
+Liú påstår att inom medvetandefilosofi så är "what it is like" (WIIL) concept ad-hoc. Det vardaliga fallet så brukar konceptet t.ex användas i meningar som "Han vet hur det är att vara i Malmö". Att veta "hur det är att" är på så sätt ett bredare koncept än hur det är inom filosofi. Därför argumenterar Liú att I detta fall så blir WIIL_p  en semantic narrowing av WIIL i allmänhet. 
+
+Liú går sedan in på hur WIIL är problematiskt för X-phi.
+
 1) Add hoc concepts exist
 2) Philosophical concepts are sometimes ad-hoc (such as 'what it is like')
-3) Philosophical concepts are problematic for experimental philosophy
+3) Ad-hoc philosophical concepts are problematic for experimental philosophy
+
+Så lekmän bildar sina WIIL koncept on the spot och är ej tränade i medvetandefilosofi för den rätta kontexten. Fenomenalt medvetande är inte ett koncept de flesta lekmän har. När olika test utförs av experimentella filosofer så skapas det ett ad-hoc concept utanför dess vanliga kontext inom medvetandefilosofi on the fly. 
+
+Ett empiriskt exempel på detta är hur filosofer och lekmän svarar gällande frågor om hurvida robotar vet hur det är att se färgen röd eller smärta. Filosofer lutade i allmänhet lika mycket åt nej  på båda, medans lekmän ansåg att robotar kan se rött men ej känna smärta. Om detta är fallet, kan det vara så att lekmän saknar koncept om fenomenalt medvetande, och istället hänvisar till någon slags perception istället.
+
+Det finns 4 sätt ad-hoc koncept det kan bli fel. 
+1. Man kan vara ignorant om konceptet och dess lexikala innebörd samt encyclopedisk kunskap. 
+2. Den som yttrar påståendet kan säga fel eller ha fel (gorrilla istället för banjo). 
+3. Avsaknanden av kontextuel information. 
+4. Avsaknaden av konversationell feedback.
+
+På så sätt blir flera inferenser som X-filosofer gör problematiska. T.ex
+
+1. Lekmän har inte filosofers koncept K
+2. Lekmän har inte filsofers intuition N
+3. filsofiska koncept baserade på K och N är problematiska 
+
+Men om lekmän har koncept K och intuitioner N medans filosofer har koncept K_p och intuitioner N_p så blir det problematiskt att dra en sådan inferens. 
+
+
+
 
 "Carston (2002, p. 322) introduces ad hoc concepts as follows: This term is used to refer to concepts that are constructed pragmatically by a hearer in the process of utterance comprehension. The idea is that speakers can use a lexically encoded concept to communicate a distinct non-lexicalized (atomic1) concept, which resembles the encoded one in that it shares elements of its logical and encyclopaedic entries, and that hearers can pragmatically infer the intended concept on the basis of the encoded one. The description of such concepts as ‘ad hoc’ reflects the fact that they are not linguistically given, but are constructed online (on the fly) in response to specific expectations of relevance raised in specific contexts"
 
 
 There is some way for S to know what is is like for x that y is phi-ing
 
-I de flesta exempel är det fallet att x=y, men ibland går dom i från varandra t.ex "sjukvårdare vet hur det är för sjukhus att vara fulla med patienter"
 
 Sanningskonditions är när det finns en kontext c sådant att 
 
