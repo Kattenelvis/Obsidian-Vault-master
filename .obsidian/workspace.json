@@ -153,14 +153,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Liú.md",
+                "file": "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd2040009565ff5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book Idea (AI Safety textbook)/Alignment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -189,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "orthogonalit",
+                "query": "delve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Liú.md",
+                "file": "Book Idea (AI Safety textbook)/Alignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Liú.md",
+                "file": "Book Idea (AI Safety textbook)/Alignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Liú.md"
+                "file": "Book Idea (AI Safety textbook)/Alignment.md"
               }
             }
           },
@@ -309,37 +321,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8cf17f2f48a8968",
+  "active": "cd2040009565ff5b",
   "lastOpenFiles": [
+    "Singularity.md",
+    "Intelligence.md",
+    "Aromanticism.md",
+    "Pasted image 20240419214824.png",
+    "Dutch Book Arguments.md",
+    "Social Construction.md",
+    "Book Idea (AI Safety textbook)/Rationality.md",
+    "Book Idea (AI Safety textbook)/Mind.md",
+    "Book Idea (AI Safety textbook)/Epistemological engineering.md",
+    "Epistemological engineering.md",
+    "Book Idea (AI Safety textbook)/Mathematics & Computability.md",
+    "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
+    "Book Idea (AI Safety textbook)/Phil of Science.md",
+    "Book Idea (AI Safety textbook)/Political Philosophy.md",
+    "Turing Machines.md",
+    "Book Idea (AI Safety textbook)/Law.md",
+    "Book Idea (AI Safety textbook)/Introduction.md",
+    "Book Idea (AI Safety textbook)/Language.md",
+    "Book Idea (AI Safety textbook)/Economics.md",
+    "Book Idea (AI Safety textbook)/OUTLINE.md",
+    "Alignment.md",
+    "School/Phil of Physics notes.md",
+    "School/Liú.md",
     "Philosophy of Religion.md",
     "Essay Competition Automating Philosophical Reasoning.md",
     "Life Path.md",
     "Excalidraw/LifePath .excalidraw.md",
-    "Book Idea (AI Safety textbook)/Alignment.md",
-    "Book Idea (AI Safety textbook)/Epistemological engineering.md",
-    "Book Idea (AI Safety textbook)/Economics.md",
-    "Book Idea (AI Safety textbook)/Introduction.md",
-    "Book Idea (AI Safety textbook)/Ethics.md",
-    "Book Idea (AI Safety textbook)/Mathematics & Computability.md",
-    "Book Idea (AI Safety textbook)/Language.md",
-    "Book Idea (AI Safety textbook)/Law.md",
-    "Book Idea (AI Safety textbook)/Mind.md",
-    "Book Idea (Philosophy)/6. Transhumanism, AGI, ASI, alignment.md",
-    "Inner Alignment.md",
-    "Alignment.md",
-    "Book Idea (Philosophy)/3. Formal Phenomenology.md",
-    "Book Idea (AI Safety textbook)/OUTLINE.md",
-    "School/Liú.md",
-    "Penrose Shadows of Mind Notes.md",
-    "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
     "Pasted image 20240414231023.png",
-    "Book Idea (AI Safety textbook)/Logic and History of AI.md",
-    "Book Idea (AI Safety textbook)/Phil of Science.md",
-    "Excalidraw/Worldscomputationalmind.excalidraw.md",
     "Pasted image 20240412145234.png",
-    "School/Phil of Physics notes.md",
     "Pasted image 20240411225200.png",
-    "Supervenience.md",
     "Pasted image 20240404140318.png",
     "Pasted image 20240404133217.png",
     "Pasted image 20240402122909.png",
@@ -347,7 +360,6 @@
     "Pasted image 20240324212255.png",
     "Pasted image 20240323145639.png",
     "Pasted image 20240322182305.png",
-    "Pasted image 20240322132140.png",
     "AI Governance",
     "1. Defeating scepticism and establishing the logical description of the world.pdf",
     "Other ideas",

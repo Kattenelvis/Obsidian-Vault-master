@@ -3,7 +3,9 @@ AI's are computational. But what really is computation?
 
 This chapter is more technical than the average chapter. This chapter will be technical, but will be useful for many future chapters.
 
+The intuitive notion of a computation is that of a some *starting symbols*  with some *symbol manipulation system* which transforms those symbols into new symbols. This seemingly simple idea has extremely deep consequences, and has is foundational for entire fields of study and parts of every field of study (to some extent atleast). 
 
+How this idea works more formally is what will be explicated in this chapter. We will also dive into results which shape this field into something truly spectacular. 
 
 ## Foundations of computation/Grammar
 
@@ -31,18 +33,29 @@ $cb$
 
 And it terminates.
 
+Whether or not an algorithm terminates or not turns out to be very important for computer science in general, and we'll explore it in the multiple future sections.
 
 ## Finite state machines 
 
+One way to represent state changes is with a finite state machine. They are generally visualized as many circles with various arrows going between the circles, as a kind of labeled directed graph with 2 special nodes and where the labeling can repeat.
 
-a --> b
+-->a --> (b)
 
-They can be used to generate a vocabulary, and the finish states determine correctly formed formula
-
-
+Here, state a is the starting node, and b is the final node. If some input ends at b, it terminates as "yes". Otherwise no. 
 
 
-Indeterministic
+They can be used to generate a language, and the finish states determine correctly formed formula.
+
+
+#### Indeterministic
+
+They can also be non-deterministic, probabilistic and quantum. Each with their own QUIRKS. 
+
+a -->b
+   --> c
+
+Same input from a to b and c. How is this resolved? Generally by going over all of the options.
+
 
 ## Push down automata
 
@@ -55,11 +68,23 @@ More complicated rule set
 
 Multiple formalisms
 
+TAPE
+
+
+
 
 
 ## Example Algorithms (AI related?)
 
 
+
+
+# Church-Turing Thesis
+
+It has been postulated that the intuitive notion of "computability" by a human is all there is to computability. There have been a few empirical reasons to believe this, for instance finding many different equivalent notions of computability, from Turing machines, the lambda calculus, and the recursive functions. 
+
+Church's Thesis has since found to be provable from other axioms 
+[A Natural Axiomatization of Computability and Proof of Church's Thesis Author(s): Nachum Dershowitz and Yuri Gurevich]
 
 
 
@@ -70,6 +95,8 @@ Multiple formalisms
 "The above result should not be confused with the common claim that computers can compute _anything_. This claim is false: another important result of computability theory is that most functions are _not_ computable by TMs (and hence, by digital computers). TMs compute functions defined over denumerable domains, such as strings of letters from a finite alphabet. There are uncountably many such functions. But there are only countably many TMs; you can enumerate TMs by listing each TM specification (which is some finite string). Since an uncountable infinity is much larger than a countable one, it follows that TMs (and hence digital computers) can compute only a tiny portion of all functions (over denumerable domains, such as natural numbers or strings of letters)."
 [Computation in Physical Systems (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/ENTRIES/computation-physicalsystems/)
 
+
+Finite bounded TM's can still simulate larger ones
 
 
 ## Undecidability, Halting Problem and the limits of computation
@@ -117,6 +144,7 @@ Idea: Similar to the Continuum hypothesis, given that we don't see sets between 
 If hypercomputers existed however, we'd just use brute force algorithms and even do uncomputable algorithms such as AIXI. Of course, how to align an AIXI would still have to be debated, but it would be really easy to have vastly smarter-than-human intelligence.
 
 
+[Zeno machine - Wikipedia](https://en.wikipedia.org/wiki/Zeno_machine)
 
 
 
@@ -133,8 +161,12 @@ As such, the lambda calculus has a correspondence with first order intuitionisti
 
 
 
+# Metalogic
 
-# Gödel
+## Compactness
+
+## Completeness
+## Incompleteness Theorems
 
 This won't be brought up until the chapter in [[Mind]], so it's safe to skip this chapter for now if you wanna read about physical realizability of computation. 
 
@@ -195,4 +227,14 @@ Entropy $H$.
 
 Opposite of uncertianty, unknown systems
 Entropy in Physics
+
+
+
+# Formalism
+
+Theorem proovers, math is bad, people rush through and fail often. Sometimes for decades.
+
+If this happends to proofs regarding AI safety, we could put all of humanity into danger.
+
+We have to apply rigirious use of theorem prooving machines before for safety standards!
 

@@ -1,3 +1,7 @@
 https://journals.sagepub.com/doi/abs/10.1177/0956797618774253?journalCode=pssa&journalCode=pssa
 
 Seems that more education leads to more intelligence, fluid intelligence may not peak at age 25!
+
+[1202.6177.pdf (arxiv.org)](https://arxiv.org/pdf/1202.6177.pdf)
+"In [LH07b] intelligence has been defined as the ability to achieve goals in a wide range of environments. It has been argued that this is a very suitable character ization, implicitly capturing most, if not all traits of rational intelligence, such as reasoning, creativity, generalization, pattern recognition, problem solving, mem orization, planning, learning, self-preservation, and many others. Furthermore, this definition has been rigorously formalized in mathematical terms. It is non anthropocentric, wide-range, general, unbiased, fundamental, objective, complete, and universal. It is the most comprehensive formal definition of intelligence so far. It assigns a real number Υ between zero and one to every agent, namely the to-be-expected performance averaged over all environments/problems the agent po tentially has to deal with, with an Ockham’s razor inspired prior weight for each environment. Furthermore there is a maximally intelligent agent, called AIXI, w.r.t. this measure. The precise formal definitions and details can be found in [LH07b], but do not matter for our purpose. This paper also contains a comprehensive justi f ication and defense of this approach."
+

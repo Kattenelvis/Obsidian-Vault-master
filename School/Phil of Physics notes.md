@@ -169,3 +169,34 @@ But the problem is when you consider the possible topologies of space. Space cou
 
 Flaten out the square, tile the plane, calculate the length of worldlines (longer paths means less ageing).![[Pasted image 20240411225200.png]]
 
+
+
+# 4.4 The hole argument
+
+
+A lack of matter/energy in some region allows for an underdetermination in topology choice. A diffeomorphism can be made. This makes GR indeterministic, as a set of initial conditions (with a hole?) lead to different time-evolutions given different diffeomorphisms.
+
+So that's quite the schock given Putnam's earlier argument for fatalism given SR. 
+
+
+
+
+As we will see in §5.3, having multiple possible futures from some initial conditions amounts to indeterminism, and so it appears as though general relativity itself is indeterministic. For example, by running the initial state through the equations of general relativity (the laws), we might generate the world represented by the model ℳ, g, T or we might generate the world ℳ, *g, *T (where is a diffeomorphism, of which we have infinitely many to choose from, and * an operation that drags fields, such as g and T, around over the points of the manifold).
+
+
+# 5.1
+
+
+A finite disc world with a force that contracts objects as they approach the radius such that they don't notice it will measure an hyperbolic infinite world. But Fleincaré might posulate an theory that is underdetermined by that one: Forces that squish everything approaching the edge and is finite/euclidean. 
+
+
+Spherical worlds are the same. You might return to where you started, or it was just so happened to be duplicated. 
+
+"Reichenbach ([39], §17) has also extended this to other scientific facts at the basis of our theories, such as the uniformity of time (relating to the metric of time), which is based on the idea that we stipulate (by a ‘coordinative definition’) that, e.g. a pendulum’s swings cover equal periods of time– this is based on the fact that we can’t compare successive durations, there is simply no way to test such a thing:"
+
+We may have to chose some convention based on simplicity, pragmatic utility etc. when it comes to the geometry of space and time. Do we have to accept anti-realism about geometry at all? Not so fast, we can claim that there is some true, non-inditerminate geometry and time. But that this is unkowable. 
+
+"Another escape from anti-realism is to argue that, as with units, we know that there aren’t really two separate ‘theories of the world’ being offered: one and the same physical content is represented by both systems. This suggests treating a theory as a kind of equivalence class of its observationally identical presentations: theories are systems that tell us what we will observe and explain what we have observed."
+
+T-duality in string theory, strings defined on radius R have a equivalent structure on one defined on 1/R. This is the same undetdetermination and  convention choice that plagues the structure of space. 
+

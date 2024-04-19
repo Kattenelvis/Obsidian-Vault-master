@@ -116,9 +116,15 @@ Gödel metric [insert Gödel story here, no Gödel, no spinningfound!]
 Generalized Entropy
 
 
-# Computonium
+# The Limits of Computation and Computonium
 
 A configuration of matter that is the most efficient for computation. See: Hedonium
+
+Section 1.6
+[Consciousness as a state of matter - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0960077915000958)
+
+"As a second warmup step, what properties should we ascribe to what Margolus and Toffoli have termed _“computronium”_ [[15]](https://www.sciencedirect.com/science/article/pii/S0960077915000958#b0075), the most general substance that can process information as a computer? Rather than just remain immobile as a gold ring, it must exhibit complex _dynamics_ so that its future state depends in some complicated (and hopefully controllable/programmable) way on the present state. Its atom arrangement must be less ordered than a rigid solid where nothing interesting changes, but more ordered than a liquid or gas. At the microscopic level, computronium need not be particularly complicated, because computer scientists have long known that as long as a device can perform certain elementary logic operations, it is _universal_: it can be programmed to perform the same computation as any other computer with enough time and memory. Computer vendors often parametrize computing power in FLOPS, floating-point operations per second for 64-bit numbers; more generically, we can parametrize computronium capable of universal computation by “FLIPS”: the number of elementary logical operations such as bit flips that it can perform per second. It has been shown by Lloyd [[16]](https://www.sciencedirect.com/science/article/pii/S0960077915000958#b0080) that a system with average energy _E_ can perform a maximum of  elementary logical operations per second, where _h_ is Planck’s constant. The performance of today’s best computers is about 38 orders of magnitude lower than this, because they use huge numbers of particles to store each bit and because most of their energy is tied up in a computationally passive form, as rest mass."
+
 
 
 

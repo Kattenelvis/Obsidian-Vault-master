@@ -322,6 +322,7 @@ Insert the slide from my phil of science professor with the lecture on events an
 uncomputable bro. If weh ad access to hypercomputation, it seems like we could run an AIXI until it figures out an optimal solution for maximising utility. So while we have argued that [hypercomputation is likely not nomonologically possible], if anyone ever finds closed timelike curves, stay on the lookout for anyone trying to implement an AIXI model into it. 
 
 
+Apparently, the orthogonality thesis has been shown true for AIXI!? 
 
 ## Gödel Machine
 

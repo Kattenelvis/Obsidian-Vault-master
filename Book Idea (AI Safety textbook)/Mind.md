@@ -249,6 +249,8 @@ So, are AI's philosophical zombies? And how could we tell?
 
 # Mind Upload
 
+We will begin by analyzing a more naive copy+paste approach, followed by a reasonable ship of theseus approach. 
+
 ## Copy and Death? 
 
 Uploading yourself to the PC, is a copy
