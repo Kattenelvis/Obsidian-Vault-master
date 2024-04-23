@@ -199,3 +199,7 @@ We should submit to its higher values. Humanities values would then clearly be, 
 Atleast if moral realism is true, and motivational internalism is true. 
 
 Given that I would give a low probability on them, I'd say that it's not looking good for this prospect. 
+
+
+# Goal Misgeneralization
+

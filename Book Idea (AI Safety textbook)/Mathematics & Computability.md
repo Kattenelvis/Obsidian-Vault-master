@@ -70,6 +70,13 @@ Multiple formalisms
 
 TAPE
 
+The Turing machine is a mathematical construct that has found itself being useful all over the place. Here is a definition
+Let $X$ be a list of symbols, whose kleene star operation $X$ denotes a vocabulary, and let $L$ be left, $R$ be right, let $\sigma: \{L, R\}\times X\rightarrow \{L, R\}\times X$ be a function that takes some input and output
+
+
+
+Turing machines can also be represented as a machine table 
+
 
 
 
@@ -78,17 +85,27 @@ TAPE
 
 
 
+## Lambda Calculus
+
+Identity function
+$\lambda x.x$
+
+Wow! Everything, including numbers, is a function! Based on a long row of successors!
+
+
 
 # Church-Turing Thesis
 
+## Church Thesis
 It has been postulated that the intuitive notion of "computability" by a human is all there is to computability. There have been a few empirical reasons to believe this, for instance finding many different equivalent notions of computability, from Turing machines, the lambda calculus, and the recursive functions. 
 
 Church's Thesis has since found to be provable from other axioms 
 [A Natural Axiomatization of Computability and Proof of Church's Thesis Author(s): Nachum Dershowitz and Yuri Gurevich]
 
+## Turing Thesis
 
 
-## Universal Turing Computing
+# Universal Turing Computing
 
 "Turing also showed that there are universal TMs—machines that can compute any function computable by any other TM. Universal machines do this by executing instructions that encode the behavior of the machine they simulate. Assuming the Church-Turing thesis, universal TMs can compute any function computable by algorithm. This result is significant for computer science: you don’t need to build different computers for different functions; one universal computer will suffice to compute any computable function. Modern digital computers are universal in this sense: digital computers can compute any function computable by algorithm for as long as they have time and memory. (Strictly speaking, a universal machine has an unbounded memory, whereas digital computer memories can be extended but not indefinitely, so they are not unbounded.)"
 
@@ -113,6 +130,8 @@ Imagine a computation C that computes whether or not computations halt. If it fe
 
 Keep in mind this is only for a general algorithm. Some algorithms do exist that can test the halting of certain algorithms. Just like how Russell's Type theory disallowed Russell's paradox in axiomatic set theory, so can algorithms which specify input types[source]
 
+
+All of these self-referential paradoxes can be generalized into the fixed point theorem in category theory. 
 
 
 
@@ -212,13 +231,20 @@ Kolmogorov Axioms
 
 Borel Algebra $A$ on an outcome space $\Omega$ and measure $P$.
 
-Bayes' formula: Proof
+This formula will be useful in rationality chapter: Bayes' formula: Proof
 
-This formula will be useful in rationality chapter
 
-Law of Large numbers: Proof
+Useful for Jury Theorems: Law of Large numbers: Proof
 
-Imprecise probabilities
+
+
+## Imprecise probabilities
+
+One way to avoid utilizing just a single value for the probability of an event, we may choose to have a whole range of probabilities $P\subseteq[0,1]$. When performing calculations then, one may need a specific value, and there are multiple kinds of algorithms that have been developed for that. Some basic one's include averaging, taking the lowest one, or the maximum one. 
+
+We will get back to this later, but it turns out that imprecise probabilities for rational decision theory leads to sunk costs and other nasty consequences. 
+
+
 
 ## Information Theory
 
@@ -228,6 +254,15 @@ Entropy $H$.
 Opposite of uncertianty, unknown systems
 Entropy in Physics
 
+
+
+
+
+# Relation Theory
+
+$R$
+
+RELATIONS! 
 
 
 # Formalism

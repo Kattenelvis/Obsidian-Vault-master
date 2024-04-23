@@ -15,7 +15,10 @@
 - Bayesianism
 
 
+
 What does it mean when we say that an AI or human is "rational" or "irrational"? Rationality, in philosophy, economics and psychology, generally revolves around the preference relation (though sometimes also epistemic virtues, see [structural rationality SEP]). It's about how to take actions given preferences and beliefs to achieve a desired goal or most preferred state of the world. How exactly one does and ought to do it is debated, and a discussion regarding how it's relevant for AI will be given here.
+
+The last chapter went over epistemological engineering. However an obvious problem is how to deal with the fact that agents generally learn via taking actions and recieving feedback from the environment (enactive cognition). In this chapter we will go more closely over rational agent action and it's connections with knowledge. 
 
 
 # A brief introduction to preferences and utility functions
@@ -85,13 +88,6 @@ Sunken Cost
 
 
 
-# A brief introduction to rational choice theory
-
-Choose visely
-
-
-
-
 
 
 # Instrumental goals, final goals and instrumental convergence
@@ -99,6 +95,19 @@ Choose visely
 
 Instrumental rationality
 
+
+
+
+# Newcomb's problem
+
+Let's say an optimal predictor gives you a choice: Two boxes, one transparent with $1000 in it and one non-transparent with a million dollars! It tells you that if it had predicted that you pick only the non-transparent one it will have put a million dollars there. Otherwise no! The predictor cannot change or have any causal impact anymore (let's say it travelled a light-month away).
+
+What do you do? Hmm idk
+
+### Evidential decision theory
+
+
+### Causal decision theory
 
 
 

@@ -120,6 +120,9 @@ Generalized Entropy
 
 A configuration of matter that is the most efficient for computation. See: Hedonium
 
+According to X, the maximum amount of computation per unit volume is: Y
+
+
 Section 1.6
 [Consciousness as a state of matter - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0960077915000958)
 
@@ -131,17 +134,45 @@ Section 1.6
 # Computational Universe?
 
 
-CUH Tegmark
 
 Do not use planc length as an argument that the universe is discrete, it is merely at that point where uncertianty reaches a breaking point in our ability to uilize QM. Smaller theories may still be the case. 
 
+## Tegmark Computational Universe Hypothesis
 
-Cellullar automata interpretation of QM
+The CUH and the MUH
 
-Wolfram Physics and Computational Quantum Gravity
+How to prevent Gödel incompleteness theorems? By postulating that the mathematics that the universe runs on is sub-arithmetical (less expressive than $Q$). 
 
 
-# Junk, Gunk and Funk
+## Wheeler It-For-Bit
+
+A bit like tractatus wittgenstein where true (1) or false(0) describes the state of the universe.
+
+Used to solve the black hole information paradox. 
+
+## Superdeterministic interpretation of QM
+
+Bell's Theorem relies on the following assumptions:
+
+1. Causality is linear over time
+2. Scientist choice is independent
+3. Locality
+4. No spooky action at a distance
+
+Therefore, we expect a correlation |X| > 2
+
+Experimentally false
+
+According to superdeterminism, 2. is false. Retrocausality, 1. is false and is also deterministic
+
+But the world could be a quantum computation.
+
+
+## Wolfram Physics and Computational Quantum Gravity
+
+
+
+# Junk, Gunk and Hunk
 
 In metaphysics, the idea of whether or not space or time is divisible forever or discrete at some step has been a major topic of discussion ever since the ancient Greeks[source]. It turns out to be relevant for the question on whether or not the universe is computational.
 
@@ -149,7 +180,10 @@ Is the universe infinitely large/infinitely divisible? If tey are atleast one of
 
 Analog computation vs Digital Computation
 
+Computation and Fundamentality 
+[Fundamentality (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/fundamentality/)
 
+No fundamentality likely means no computation, but who knows. Computational all the way down.
 
 # Simulation Hypothesis
 

@@ -165,7 +165,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Idea (AI Safety textbook)/Alignment.md",
+                "file": "Book Idea (AI Safety textbook)/Epistemological engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8e7dcead0711016",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI and democracy.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 399.5
   },
   "right": {
     "id": "db970c8625f96ef3",
@@ -246,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book Idea (AI Safety textbook)/Alignment.md",
+                "file": "Book Idea (AI Safety textbook)/Epistemological engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book Idea (AI Safety textbook)/Alignment.md",
+                "file": "Book Idea (AI Safety textbook)/Epistemological engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book Idea (AI Safety textbook)/Alignment.md"
+                "file": "Book Idea (AI Safety textbook)/Epistemological engineering.md"
               }
             }
           },
@@ -323,33 +335,33 @@
   },
   "active": "cd2040009565ff5b",
   "lastOpenFiles": [
+    "Book Idea (AI Safety textbook)/Mathematics & Computability.md",
+    "Book Idea (AI Safety textbook)/Rationality.md",
+    "Book Idea (AI Safety textbook)/Political Philosophy.md",
+    "Book Idea (AI Safety textbook)/Phil of Science.md",
+    "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
+    "Book Idea (AI Safety textbook)/Law.md",
+    "Book Idea (AI Safety textbook)/Ethics.md",
+    "Book Idea (AI Safety textbook)/Epistemological engineering.md",
+    "Book Idea (AI Safety textbook)/Introduction.md",
+    "Book Idea (AI Safety textbook)/Language.md",
+    "Book Idea (AI Safety textbook)/Mind.md",
+    "Book Idea (AI Safety textbook)/Alignment.md",
+    "AI and democracy.md",
     "Singularity.md",
     "Intelligence.md",
     "Aromanticism.md",
     "Pasted image 20240419214824.png",
     "Dutch Book Arguments.md",
     "Social Construction.md",
-    "Book Idea (AI Safety textbook)/Rationality.md",
-    "Book Idea (AI Safety textbook)/Mind.md",
-    "Book Idea (AI Safety textbook)/Epistemological engineering.md",
     "Epistemological engineering.md",
-    "Book Idea (AI Safety textbook)/Mathematics & Computability.md",
-    "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
-    "Book Idea (AI Safety textbook)/Phil of Science.md",
-    "Book Idea (AI Safety textbook)/Political Philosophy.md",
     "Turing Machines.md",
-    "Book Idea (AI Safety textbook)/Law.md",
-    "Book Idea (AI Safety textbook)/Introduction.md",
-    "Book Idea (AI Safety textbook)/Language.md",
     "Book Idea (AI Safety textbook)/Economics.md",
     "Book Idea (AI Safety textbook)/OUTLINE.md",
     "Alignment.md",
     "School/Phil of Physics notes.md",
     "School/Liú.md",
     "Philosophy of Religion.md",
-    "Essay Competition Automating Philosophical Reasoning.md",
-    "Life Path.md",
-    "Excalidraw/LifePath .excalidraw.md",
     "Pasted image 20240414231023.png",
     "Pasted image 20240412145234.png",
     "Pasted image 20240411225200.png",

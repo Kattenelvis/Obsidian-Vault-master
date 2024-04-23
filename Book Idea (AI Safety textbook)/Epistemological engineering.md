@@ -105,6 +105,38 @@ where he advocates for the abolition of traditional worries of epistemology such
 
 As such there's no finished model as to how the AI should be able to run, but rather support a framework for empirical study in intelligence and advancing such intelligent machine construction and forming theories regarding AI and why they're successful afterwards. 
 
+
+So in that case we can have the following assumptions:
+
+1. Cognitive Science, Formal Learning Theory and Statistical Learning Theory are the foundation for knowledge
+2. Traditional questions of basic beliefs are misguided
+3. Traditional questions of skepticism are misguided
+4. Traditional questions on the analysis of knowledge are misguided
+
+Hmmm....
+
+Maybe not that extreme lmao 
+
+We will take skepticism seriously, how to answer, deal with or debunk the long list of sceptical scenarious is how we found our epistemology anyways.
+
+1. Humean skepticism, how do you justify induction? Not via deduction nor induction?
+2. Cartesian/External world skepticism, how do you know you're not being systematically deceived?
+	1. Brain in Vat
+	2. Simulation
+	3. Evolutionary
+3. Semantic Skepticism
+	1. Quus kripkenstein
+	2. Untranslatable, can never understand eachother
+5. Memory skepticism
+6. Problem of the criterion: How do we "know" the criterions of knowledge?
+7. Phyrronian Skepticism: Can you even know that an argument for sceptical skeptical scenarios hold?
+8. Metaphilosophical skepticism
+
+
+Self-defeating scepticism
+
+
+
 ## AI as a branch of naturalized epistemology
 
 Instead, we can take lessons from empirical success in building artificial intelligence, and that this is knowledge. So just like with cognitive science, then we can establish a norm in epistemology to utilize the results in AI research to use in our analysis of knowledge. 
