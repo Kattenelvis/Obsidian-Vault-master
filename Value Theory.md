@@ -19,3 +19,20 @@ Two other teleological theories are:
 
 Fitting attidues theories however, do the opposite of teleological one's in that the deontic operators of Just, Ought, Rational e.t.c is prior and explains what is good instead. 
 
+
+
+
+
+
+List of value terms:
+
+Bad
+Ugly
+Disgusting
+Unhealthy
+
+Good
+Beautiful
+Healthy
+
+Idea: study value terms empirically, psychology research

@@ -4,6 +4,31 @@
 
 Me writing a paper yippiie!
 
+According to the Jury theorem, assuming that we use a voting system where we either vote  yes or no to some question based on if we believe if it's true or not, and most votes win, and we have no method of tie breaking, then the following is the case:
+
+**Increased Reliability:** For any odd number of voters in that group, if 
+two more individuals join, the probability that the group votes on ground truth increases.
+
+**Crowd Infallibility:** As the number of individuals in that group approaches infinity, the probability that the group votes on ground truth approach 100%.
+
+However, according to a modified version, based on Reichenbach's common cause principle, assuming everyone votes at once, if individuals who vote are systematically misinformed from some common cause, then the crowd infallibility is going to be locked at a max level proportional to the amount of misinformation in the system.
+
+If generative AI systems is a common cause of misinformation that systematically misinforms voters, then this is a threat to the epistemic performance of democracy and the wisdom of crowds. As a consequence, democracy becomes an increasingly worse system in comparison to various well-informed technocratic societies which are worse than a well-informed democratic system.
+
+While common sources of misinformation already exists, the automated process of AI systems can lead to a rapid increase in the propagation of misinformation as humans are no longer needed in the loop to spread misinformation on a societal scale.
+
+Prediction markets may be one way to diminish the risk, as there will be stronger incentives to be less misinformed. Liquid democracy allows for an elite of informed individuals, while not compromising democracy.
+
+
+
+
+Earlier version:
+
+
+
+
+
+
 
 The idea: 
 

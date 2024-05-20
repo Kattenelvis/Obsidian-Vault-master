@@ -90,10 +90,6 @@ Sunken Cost
 
 
 
-# Instrumental goals, final goals and instrumental convergence
-
-
-Instrumental rationality
 
 
 

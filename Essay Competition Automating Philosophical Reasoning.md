@@ -1,4 +1,28 @@
 
+
+
+Idea: Idea combinatorialism
+
+[Philosophy Ideas Database](http://philosophyideas.com/search/themes.asp)
+
+[Conceptual.Combinations (southampton.ac.uk)](https://web-archive.southampton.ac.uk/cogprints.org/667/1/CCCC.html)
+A modifier on a noun. Modifiers can affect concepts in these ways, according to this article:
+CAUSE
+HAS
+MAKES
+MADE OF
+FOR
+IS
+USES
+LOCATED
+DERIVED FROM
+ABOUT 
+DURING
+BY
+
+
+
+
 [Essay competition on the Automation of Wisdom and Philosophy — $25k in prizes (aiimpacts.org)](https://blog.aiimpacts.org/p/essay-competition-on-the-automation)
 
 

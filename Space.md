@@ -12,3 +12,16 @@ Yes so basically, this is a debate that pretty much started with a letter exchan
 
 [Do Moving Objects Snap Along The Planck Length? : r/physicsgifs (reddit.com)](https://www.reddit.com/r/physicsgifs/comments/1bl8aqr/do_moving_objects_snap_along_the_planck_length/)
 ![[Pasted image 20240323145639.png]]
+
+
+
+
+Super Substantivialism:
+
+[s11229-021-03398-9.pdf](file:///C:/Users/Katte/Documents/Academic/Philosophy/s11229-021-03398-9.pdf)
+The general‑relativistic case for super‑substantivalism
+
+(SUB-MON) Substance Monism: There exists only one kind of substance. 
+(ST-FUND) Spacetime Fundamentalism: Spacetime is a fundamental sub stance.
+
+(PRIORITY0): “[An entity] A is ontologically prior to [an entity] B iff the existence of A implies or contains the existence of B but not vice versa” (Lehmkuhl, 2018: 28)

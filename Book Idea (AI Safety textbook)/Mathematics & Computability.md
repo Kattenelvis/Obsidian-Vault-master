@@ -7,8 +7,19 @@ The intuitive notion of a computation is that of a some *starting symbols*  with
 
 How this idea works more formally is what will be explicated in this chapter. We will also dive into results which shape this field into something truly spectacular. 
 
-## Foundations of computation/Grammar
+## Foundations of computation
 
+We begin by considering symbols, and an alphabet. This is foundational for all of logic. We introduce symbols as the first principle
+
+**Principle 1:** Symbols exist. We will not consider any kind of semiotic[pierce] framework, as the symbols we begin with do not represent or denote anything. They are merely some kind of pattern.
+
+The most common example of symbols in theoretical computer science is the symbol "1" and the symbol "0".
+
+**Definition 1:** An alphabet is a set of symbols
+
+But any arbitrary symbol set can be used. To enable computation we must also allow change in symbols, changing 1's to 0's
+
+**Principle 2:** Algorithmic rules can be used to manipulate symbols
 
 We begin with formalising the notion of language. We're not necessarily talking about the English language, or the French language, known as natural languages. We're talking about formal languages. Formal languages are constructed from simple rules that determine the vocabulary of the language. 
 

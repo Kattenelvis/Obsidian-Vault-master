@@ -95,3 +95,12 @@ https://en.wikipedia.org/wiki/Homunculus_argument
 
 https://www.youtube.com/watch?v=Lo0SjuUh7wg
 Cannot reduce minds to physics becuase meaning and purpose (teleology) is needed to describe actors, desires and actions. 
+Me later: No, we can simply adopt the intentional stance
+
+
+
+[(217) David Chalmers "Dualism and idealism in the foundations of quantum mechanics" - Mind & Agency Conf. - YouTube](https://www.youtube.com/watch?v=V5TnJmfNiqY)
+
+![[Pasted image 20240513191053.png]]
+
+

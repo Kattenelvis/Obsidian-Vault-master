@@ -182,8 +182,156 @@ Will general AI simply be multiple narrow AI's connected?
 
 As a first step, we may recognize that humans are 
 
+# The Singularity
 
+Hutter's singularity
 
+**- Infinite progress in finite time  
+      
+    
+- Postulated by Ulam and Von Neumann, popularized by Ray Kurzweil  
+      
+    
+- Many ways it might be achieved:
+    
+
+- Brain Scans
+    
+- Better and Better AI systems
+    
+- “Awakening of the internet”  
+      
+    
+
+- The main idea being that software based agents can create new, improved versions of themselves.**
+**  
+
+(a) there is something like intelligence, 
+
+(b) there are many cognitive capacities correlated with intelligence,
+
+(c) these capacities might explode, therefore
+
+(d) intelligence might amplify and explode.  
+  
+
+While Hutter mostly agrees with this analysis, he does not think it tell us what a society of ultra-intelligent beings might look like.  
+  
+
+Hutter also takes it that there are no defeaters to such a singularity, such as disinclination
+
+**
+
+**
+
+- Static Comp: Incomprehensible to outsiders, may only be studied using some kind of statistical mechanics/sociophysics  
+      
+    
+- There is lots of motivation to compress information (save memory, extract regularities, and others)  
+      
+    
+- Looks like white noise (maximal information compression does that)  
+      
+    
+- Increasing Comp: The singularity expands outwards, outsiders must flee, but likely won’t be able to
+    
+
+**
+
+**
+
+- Static comp: Evolutionary pressures inside of virtual worlds  
+      
+    
+- Creation of virtual worlds, culture, fashion  
+      
+    
+- No need for a theory of everything, the underlying computational process is already known  
+      
+    
+- Increasing comp: The world outside seems like it slows down, the virtual citizens wouldn’t notice anything (at uniform speed up for each agent)  
+      
+    
+- Instead, one may spend the extra comp on more things, the intelligence of the collective may be faster with a larger population.
+    
+
+**
+
+**
+
+- Intelligence is not necessarily being speedy  
+      
+    
+- You’re not necessarily more intelligent if we say that the environment, including all other humans, are moving and speaking in slow-motion  
+      
+    
+- Your co workers talking slowly wouldn’t make you more intelligence  
+      
+    
+- A faster environment may even increase intelligence, as rewards signals are given faster  
+      
+    
+- So what is intelligence then?
+    
+
+**
+
+**
+
+- Expected performance averaged over all environments/problems the agent potentially has to deal with, with an Ockham’s razor inspired prior weight for each environment  
+      
+    
+- Measurable by Y (number between 0 and 1)  
+      
+    
+- Y(AIXI) = 1  
+      
+    
+- Y(Human) = ?
+    
+
+**
+AIXI is maximally intelligence
+
+**
+
+- Will a pure reward maximizer such as AIXI listen to and trust a teacher? Likely yes.  
+      
+    
+- Will it take drugs (i.e. hack the reward system)? Likely no, since cumulative long-term reward would be small (death).  
+      
+    
+- Will AIXI replicate itself or procreate? Likely yes, if AIXI believes that clones or descendants are useful for its own goals.  
+      
+    
+- Will AIXI commit suicide? Likely yes (no), if AIXI is raised to believe in going to heaven (hell) i.e. maximal (minimal) reward forever.  
+      
+    
+- Will sub-AIXIs self-improve? Likely yes, since this helps to increase reward.  
+      
+    
+- Will AIXI manipulate or threaten teachers to give more reward? Likely yes.  
+      
+    
+- Are pure reward maximizers like AIXI egoists, psychopaths, and/or killers, or will they be friendly (altruism as extended ego(t)ism)?  
+      
+    
+- Curiosity killed the cat and maybe AIXI, or is extra reward for curiosity necessary?  
+      
+    
+- Immortality can cause laziness, Will AIXI be lazy?  
+      
+    
+- Can self-preservation be learned or need (parts of) it be innate.  
+      
+    
+- How will AIXIs interact/socialize in general?  
+      
+    
+- Which game theoretic strategies would they use against eachother?*
+    
+
+**
 
 
 ## Singularities, Super intelligences and Oracles

@@ -287,11 +287,17 @@ As a view of consciousness, there are a lot of different principles that can be 
 
 Supervenience
 
-Identity 
+## Identity 
 
-Type identity
+The identity theory of mind posits that brain states are identical with mental states. So for instance, "pain is identical too C-neuron firings". This kind of metaphysical reduction is a fairly popular view, though a naive type-type identity theory can be shown to have a big flaw. 
 
-Token identity
+So first, what is a type? A bit like a universal but with fewer "metaphysical" properties. While universals may be considered timelessness, known a priori etc the same kind of properties are not the case for types. They generalize some set of tokens which are instantiations of the type in reality. So for example, my own bike is a token of the type "bikes".
+
+The problem with identifying types of mental states as identical to types of brain states is multiple realizability. Say some configuration $P_1$ of amino-acids and carbon atoms is identical with the color $M$, so $P_1=M$. However, a configuration $P_2$ of silicon atoms also instantiate $M$. So now $P_1 = M = P_2$ which is absurd. [Putnam]
+
+A way of solving this is with token-token identity theory, identifying specific instances as identical. This way we now have tokens $M_1$ and $M_2$ who are identical with their respective token brain state. [Davidsson]
+
+
 
 Emergentist
 

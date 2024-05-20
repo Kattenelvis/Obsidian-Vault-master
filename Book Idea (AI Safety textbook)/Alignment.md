@@ -1,7 +1,49 @@
 With a good overview of Rationality, we now get into Alignment.
 
 
-# Misalignment Example
+All problems, involving arguments and their premises (premises that may have been explored in earlier chapters)
+
+- Orthogonality thesis (added)
+- Reward misspecification 
+- The alignment problem 
+- The control problem
+- The value loading problem 
+- Reward hacking
+- Instrumental Convergence (Added)
+- Goal missgeneralization (Added)
+
+
+
+# Orthogonality Thesis
+
+If Orthogonality thesis is true:
+We should submit to its higher values. Humanities values would then clearly be, below the true values. 
+
+Atleast if moral realism is true, and motivational internalism is true. 
+
+Given that I would give a low probability on them, I'd say that it's not looking good for this prospect. 
+
+
+# Goal Missgeneralization
+
+
+
+
+# Instrumental goals, final goals and instrumental convergence
+
+
+Instrumental rationality
+
+
+Recall from the rationality chapter on final vs instrumental goals. How do they converge for sufficiently intelligent intelligences?
+
+- Scientific Progress
+- Information
+- 
+
+
+# Inner Misalignment
+## Misalignment Example
 
 How woulod an AI for instance missalign? Using Yudkowski's reworked example[source]. 
 
@@ -20,19 +62,6 @@ Consider training an RL policy until it’s getting high reward in its training 
 4. The policy behaves in a competent yet undesirable way which gets low reward according to the original reward function.[[2]](https://www.lesswrong.com/posts/poyshiMEhJsAuifKt/outer-vs-inner-misalignment-three-framings-1#fnj4r1snphlmd) This is an inner alignment failure, also known as goal misgeneralization. [Langosco et al. (2022)](https://arxiv.org/abs/2105.14111) provide a more formal definition and some examples of goal misgeneralization.
 
 
-# 3 laws of robotics
-
-The first primitive attempt at alignment was in the 3 laws of robotics. It quickly became famous, despite the book discussing many ways the 3 laws could go wrong.
-
-1. Don't allow humans to come to harm
-2. Don't allow yourself at harm
-3. Third thing
-
-It doesn't work out because ...
-
-
-
-Goal misgeneralization: Inner alignment for ML models
 
 ## Deceptive Code injection
 
@@ -48,8 +77,28 @@ AI acts differnetly in deployment from training.
 We can't deal with it at the moment [2401.05566.pdf (arxiv.org)](https://arxiv.org/pdf/2401.05566.pdf?_hsenc=p2ANqtz-9qoAXNOCghvMTt8nNaLrL3QOHdNEblPcPrIipZ9yrQkC-ec-4oCZhi1E7mf79Qf-LLMKWMD3lOeM0zdS0LWLGXaGT5uQ)
 
 
+## Ontology change --> Value change
 
-# X-risk TODO: Put somewhere else
+Cite that paper here
+
+Let's say you value flowers. More flower = more good. Here's a tulip 🌷. But what about venus fly trap? Mushroom? Edge-cases and fuzziness of objects and object demarcation for familial resemblences on what counts as flower or not can change.
+
+$O_1 \rightarrow O_2$
+
+As such, what is valued can drift over time. Value drift as a due to ontology shift is plausible. 
+
+
+## Reward hacking
+
+Trying to go on crack-cocaine. 
+
+Pleasurable states of consciousness?
+
+Trying to reach the tokens (from Boström superintelligence).
+
+
+
+# Is AI an existential risk?
 
 
 
@@ -72,6 +121,24 @@ Some individuals try  to calculate value of p(doom)
 While the probabilities seem low, there are reasons that will be explained in [ethics] why gambling with all of humanity, even with a $p(doom)=0.019$, is of disastrously low expected utility. 
 
 However, AI experts report even higher p(doom), especially safety researchers. That may very likely be due to selection bias, people who choose to work in safety will believe p(doom) is larger on average,  but of course, they are also experts in the field.
+
+
+
+
+
+[Language Agents Reduce the Risk of Existential Catastrophe.pdf](file:///C:/Users/Katte/Documents/Academic/Philosophy/Language%20Agents%20Reduce%20the%20Risk%20of%20Existential%20Catastrophe.pdf)
+"Carlsmith (2021) helpfully structures discussion of the probability of a misalignment catastrophe around six propositions. Since we are interested in the probability of a misalignment catastrophe conditional on the development of AGI, we focus our attention on the final four of these propositions, which we summarize as follows: 
+1. Of the following two options, the first will be much more difficult: 
+	1. a. Build AGI systems with an acceptably low probability of engaging in power seeking behavior. 
+	2. b. Build AGI systems that perform similarly but do not have an acceptably low probability of engaging in power-seeking behavior. 
+2.  Some AGI systems will be exposed to inputs which cause them to engage in power seeking behavior. 
+3. This power-seeking will scale to the point of permanently disempowering humanity. 
+4. This disempowerment will constitute an existential catastrophe. 2  
+ 
+Carlsmith assigns a probability of .4 to (1) conditional on the rise of AGI, a probability of .65 to (2) conditional on (1) and the rise of AGI, a probability of .4 to (3) conditional on (1), (2), and the rise of AGI, and a probability of .95 to (4) conditional on (1-3) and the rise of AGI. This translates into a probability of approximately .1 (10%) for a misalignment catastrophe conditional on the rise of AGI."
+
+"We believe that the development of a new kind of AI architecture, the language agent, ought to significantly decrease assessments of these probabilities. By repeatedly calling an LLM to perform a variety of cognitive tasks, language agents are able to function autonomously to pursue goals specified in natural language and stored in a human-readable format. We suggest that the development of language agents reduces the probability of (1) conditional on the rise of AGI very substantially, the probability of (2) conditional on (1) and the rise of AGI moderately, and the probability of (3) conditional on (1), (2), and the rise of AGI very substantially. We work through two numerical examples in Section 5; in the meantime, suffice it to say that we believe that updating on the rise of language agents should reduce rational credences in a misalignment catastrophe conditional on the development of AGI by approximately one order of magnitude."
+
 
 
 ## Comparisons
@@ -104,26 +171,26 @@ Some may claim that it's better to give up and let AI overlords take over. Yes a
 
 
 
+# Proposed Solutions
+## 3 laws of robotics
+
+The first primitive attempt at alignment was in the 3 laws of robotics. It quickly became famous, despite the book discussing many ways the 3 laws could go wrong.
+
+1. Don't allow humans to come to harm
+2. Don't allow yourself at harm
+3. Third thing
+
+It doesn't work out because ...
+
+
+
+Goal misgeneralization: Inner alignment for ML models
 
 
 
 
 
-[Language Agents Reduce the Risk of Existential Catastrophe.pdf](file:///C:/Users/Katte/Documents/Academic/Philosophy/Language%20Agents%20Reduce%20the%20Risk%20of%20Existential%20Catastrophe.pdf)
-"Carlsmith (2021) helpfully structures discussion of the probability of a misalignment catastrophe around six propositions. Since we are interested in the probability of a misalignment catastrophe conditional on the development of AGI, we focus our attention on the final four of these propositions, which we summarize as follows: 
-1. Of the following two options, the first will be much more difficult: 
-	1. a. Build AGI systems with an acceptably low probability of engaging in power seeking behavior. 
-	2. b. Build AGI systems that perform similarly but do not have an acceptably low probability of engaging in power-seeking behavior. 
-2.  Some AGI systems will be exposed to inputs which cause them to engage in power seeking behavior. 
-3. This power-seeking will scale to the point of permanently disempowering humanity. 
-4. This disempowerment will constitute an existential catastrophe. 2  
- 
-Carlsmith assigns a probability of .4 to (1) conditional on the rise of AGI, a probability of .65 to (2) conditional on (1) and the rise of AGI, a probability of .4 to (3) conditional on (1), (2), and the rise of AGI, and a probability of .95 to (4) conditional on (1-3) and the rise of AGI. This translates into a probability of approximately .1 (10%) for a misalignment catastrophe conditional on the rise of AGI."
-
-"We believe that the development of a new kind of AI architecture, the language agent, ought to significantly decrease assessments of these probabilities. By repeatedly calling an LLM to perform a variety of cognitive tasks, language agents are able to function autonomously to pursue goals specified in natural language and stored in a human-readable format. We suggest that the development of language agents reduces the probability of (1) conditional on the rise of AGI very substantially, the probability of (2) conditional on (1) and the rise of AGI moderately, and the probability of (3) conditional on (1), (2), and the rise of AGI very substantially. We work through two numerical examples in Section 5; in the meantime, suffice it to say that we believe that updating on the rise of language agents should reduce rational credences in a misalignment catastrophe conditional on the development of AGI by approximately one order of magnitude."
-
-
-# Human feedback
+## Human feedback
 
 [A Minimaximalist Approach to Reinforcement Learning from Human Feedback (arxiv.org)](https://arxiv.org/pdf/2401.04056.pdf)
 
@@ -151,30 +218,20 @@ $\Sigma_{n=0}^\infty \frac{1}{n}$
 - [Risks From Learned Optimization](https://www.alignmentforum.org/s/r9tYkB2a8Fp4DN8yB)
 
 
-# Truthful AI
+## Truthful AI
 Truth-maximiser and whether or not a happiness-maximiser would also need to be a truth-maximiser (convergent instrumental goals). 
 
+May put consciousness through misery to explore truths about consciousness.
 
-# Satisfisers AI that doesn't try to hard.
+## Satisfisers AI that doesn't try to hard.
 	They have an easy time becoming maximisers though due to gaining more utility by increasing it's credence that it is satisficing. 
 
 
 
 
-# Ontology change --> Value change
-
-Cite that paper here
-
-Let's say you value flowers. More flower = more good. Here's a tulip 🌷. But what about venus fly trap? Mushroom? Edge-cases and fuzziness of objects and object demarcation for familial resemblences on what counts as flower or not can change.
-
-$O_1 \rightarrow O_2$
-
-As such, what is valued can drift over time. Value drift as a due to ontology shift is plausible. 
 
 
-
-
-# Corrigibility, Explainability, Truthful, Interpretable AI
+## Corrigibility, Explainability, Truthful, Interpretable AI
 
 In recent years, in AI safety research there have been a rise in research programs aimed at creating AI that is corrigible (machine unlearning) explainable (explain why it takes actions or says something, giving justification) truthful (and honest) and interpretable. 
 
@@ -190,16 +247,4 @@ Perhaps truthful AI, accompanied by deontic logic, should be forced to be honest
 
 AI research converging upon the transformer architecture [Transformer (machine learning model) - Wikipedia](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model))
 
-
-# Orthogonality Thesis
-
-If Orthogonality thesis is true:
-We should submit to its higher values. Humanities values would then clearly be, below the true values. 
-
-Atleast if moral realism is true, and motivational internalism is true. 
-
-Given that I would give a low probability on them, I'd say that it's not looking good for this prospect. 
-
-
-# Goal Misgeneralization
 
