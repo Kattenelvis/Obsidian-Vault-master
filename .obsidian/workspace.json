@@ -18,29 +18,55 @@
             }
           },
           {
-            "id": "e71e8737e088f404",
+            "id": "0205d5f13786b5a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Penrose Shadows of Mind Notes.md",
+                "file": "Book Idea (Philosophy)/3. Formal Phenomenology.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a8e7dcead0711016",
+            "id": "86573b3478cb7cb6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Underdetermination of final theories.excalidraw.md"
+                "file": "Theories of Consciousness.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "5199992457e04d9e",
+            "id": "eeab7910a6417699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book Idea (AI Safety textbook)/Economics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54941cafc17e4ffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book Idea (AI Safety textbook)/OUTLINE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4551a8a0f6d09ab8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,123 +78,65 @@
             }
           },
           {
-            "id": "a1976e8fb17519da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI and democracy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "befc53c6f69128ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book Idea (AI Safety textbook)/Epistemological engineering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8f3da09186f10de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Criticizing intuition without risking skepticism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26b615fc90a7b8b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book Idea (Philosophy)/Isomorphisms between classical physical systems and phenomenal experience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f600706d181b6721",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book Idea (AI Safety textbook)/Epistemological engineering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a1e125be07e64f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog Posts/Why focus on X-risk and S-risk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c08a71117ec22f15",
+            "id": "4c552f64b87ca016",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/2 gender case.excalidraw.md"
+                "file": "Excalidraw/Worldscomputationalmind.excalidraw.md"
               }
             }
           },
           {
-            "id": "2c403d17f2970547",
+            "id": "84a40b5542f95217",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D.md",
+                "file": "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "59b0b827519b820e",
+            "id": "e5323732ed05dd16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog Posts/Society.md",
+                "file": "To Transfer when update later/Life Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "55614340d1e2403e",
+            "id": "06e3bea0709649a5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-17 20.23.04.excalidraw.md"
+                "file": "To Transfer when update later/Möte Anteckningar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65fead400d390b06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infinite Ethics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -197,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "instrumental convergence",
+                "query": "orthogonalit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 253.5
   },
   "right": {
     "id": "db970c8625f96ef3",
@@ -242,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog Posts/Society.md",
+                "file": "Infinite Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog Posts/Society.md",
+                "file": "Infinite Ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog Posts/Society.md"
+                "file": "Infinite Ethics.md"
               }
             }
           },
@@ -317,48 +285,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59b0b827519b820e",
+  "active": "65fead400d390b06",
   "lastOpenFiles": [
-    "Book Idea (AI Safety textbook)/OUTLINE.md",
-    "Book Idea (AI Safety textbook)/Mathematics & Computability.md",
-    "Blog Posts/Society.md",
-    "Book Idea (AI Safety textbook)/Introduction.md",
-    "Book Idea (AI Safety textbook)/Ethics.md",
-    "Book Idea (AI Safety textbook)/Language.md",
-    "Book Idea (AI Safety textbook)/Law.md",
-    "Book Idea (AI Safety textbook)/Economics.md",
+    "Method of Cases and Conceptual Analysis.md",
+    "Infinite Ethics.md",
+    "To Transfer when update later/Application.md",
     "Book Idea (AI Safety textbook)/Alignment.md",
-    "Pasted image 20240520190919.png",
-    "Pasted image 20240518124602.png",
-    "Pasted image 20240513191053.png",
-    "Pasted image 20240518141028.png",
-    "Pasted image 20240509135305.png",
-    "Pasted image 20240501164842.png",
-    "Pasted image 20240501164837.png",
-    "Pasted image 20240104153032.png",
-    "Pasted image 20240110125131.png",
-    "Pasted image 20240110125938.png",
-    "Blog Posts Finished/Neo logical empiricism.md",
-    "Limits.md",
-    "Blog Posts/Meaning of life.md",
-    "Blog Posts/Full Automation.md",
-    "Essay Competition Automating Philosophical Reasoning.md",
-    "Kochen-Specker Theorem.md",
-    "School/Phil of Physics notes.md",
-    "Excalidraw/Drawing 2024-05-17 20.23.04.excalidraw.md",
-    "D&D.md",
-    "Book Idea (AI Safety textbook)/Rationality.md",
-    "OUTLINE.md",
-    "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
-    "Book Idea (AI Safety textbook)/Mind.md",
-    "Book Idea (AI Safety textbook)/Epistemological engineering.md",
-    "Blog Posts/Angrippas Trilemma Generalised.md",
-    "Philosophy of Mind.md",
-    "Problem of Induction.md",
-    "Isomorphisms between classical physical systems and phenomenal experience.pdf",
-    "wordcount.py",
-    "AI Governance",
+    "To Transfer when update later/Formal Social Science.md",
+    "Excalidraw/The Economy.excalidraw.md",
+    "To Transfer when update later/Möte Anteckningar.md",
+    "Pasted image 20240619154036.png",
+    "Pasted image 20240619141108.png",
+    "Pasted image 20240619141013.png",
+    "Book Idea (Philosophy)/2. The logical structure of the world.md",
+    "To Transfer when update later/Life Plan.md",
+    "Supervenience.md",
+    "To Transfer when update later/Potential Solution to Outer Alignment + Value Lock in.md",
     "1. Defeating scepticism and establishing the logical description of the world.pdf",
+    "To Transfer when update later/Virtual World Ideal selves.md",
+    "Life Path.md",
+    "Philosophy of Religion.md",
+    "Penrose Shadows of Mind Notes.md",
+    "Logical Positivism.md",
+    "School/Liú.md",
+    "To Transfer when update later",
+    "D&D.md",
+    "Blog Posts/Why focus on X-risk and S-risk.md",
+    "Blog Posts/Society.md",
+    "Blog Posts/Queer Labels as Inductive Hypothesis.md",
+    "Blog Posts/Meaning of life.md",
+    "Blog Posts Finished/Neo logical empiricism.md",
+    "Aromanticism.md",
+    "AI and democracy.md",
+    "Essay Competition Automating Philosophical Reasoning.md",
+    "Pasted image 20240414231023.png",
+    "Pasted image 20240412145234.png",
+    "Pasted image 20240411225200.png",
+    "Pasted image 20240404140318.png",
+    "Pasted image 20240404133217.png",
+    "Pasted image 20240402122909.png",
+    "wordcount.py",
+    "Pasted image 20240324212255.png",
+    "AI Governance",
     "Other ideas",
     "3. The logic of sense-data.pdf",
     "Untitled.canvas",
