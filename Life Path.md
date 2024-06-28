@@ -1,3 +1,13 @@
+
+
+CS degree (which specialization?, prolly AI)
+Economics degree (ecological economics?)
+PolSci Degree
+Magister theo phil
+
+
+
+
 ![[LifePath .excalidraw]]
 
 

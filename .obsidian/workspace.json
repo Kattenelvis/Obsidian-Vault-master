@@ -151,24 +151,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog Posts/Society.md",
+                "file": "Fine Tuning Argument.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "55614340d1e2403e",
+            "id": "5a90c6b805b30dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essay Competition Automating Philosophical Reasoning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0d550c1d79384c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuroscience.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7474f87de98c1745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Phil of Rel/Debate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f4849320585aaf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analytic Marxism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d232de13460da2a8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-17 20.23.04.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-06-28 11.48.45.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -197,7 +245,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "instrumental convergence",
+                "query": "tree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog Posts/Society.md",
+                "file": "Analytic Marxism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog Posts/Society.md",
+                "file": "Analytic Marxism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog Posts/Society.md"
+                "file": "Analytic Marxism.md"
               }
             }
           },
@@ -317,44 +365,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59b0b827519b820e",
+  "active": "1f4849320585aaf5",
   "lastOpenFiles": [
-    "Book Idea (AI Safety textbook)/OUTLINE.md",
-    "Book Idea (AI Safety textbook)/Mathematics & Computability.md",
-    "Blog Posts/Society.md",
-    "Book Idea (AI Safety textbook)/Introduction.md",
-    "Book Idea (AI Safety textbook)/Ethics.md",
-    "Book Idea (AI Safety textbook)/Language.md",
-    "Book Idea (AI Safety textbook)/Law.md",
-    "Book Idea (AI Safety textbook)/Economics.md",
-    "Book Idea (AI Safety textbook)/Alignment.md",
-    "Pasted image 20240520190919.png",
-    "Pasted image 20240518124602.png",
-    "Pasted image 20240513191053.png",
-    "Pasted image 20240518141028.png",
-    "Pasted image 20240509135305.png",
-    "Pasted image 20240501164842.png",
-    "Pasted image 20240501164837.png",
-    "Pasted image 20240104153032.png",
-    "Pasted image 20240110125131.png",
-    "Pasted image 20240110125938.png",
-    "Blog Posts Finished/Neo logical empiricism.md",
-    "Limits.md",
+    "Excalidraw/Drawing 2024-06-28 11.48.45.excalidraw.md",
+    "Analytic Marxism.md",
+    "School/Phil of Rel/Debate.md",
+    "School/Assignment 3.md",
+    "Automated Philosophy.md",
+    "School/AI lectures/8 Ethics part 2.md",
+    "Pasted image 20240626144000.png",
+    "Untitled",
+    "Blog Posts/On Gettier Cases.md",
+    "School/Phil of Rel",
+    "Blog Posts/My philosophy of art.md",
     "Blog Posts/Meaning of life.md",
     "Blog Posts/Full Automation.md",
-    "Essay Competition Automating Philosophical Reasoning.md",
-    "Kochen-Specker Theorem.md",
-    "School/Phil of Physics notes.md",
-    "Excalidraw/Drawing 2024-05-17 20.23.04.excalidraw.md",
-    "D&D.md",
-    "Book Idea (AI Safety textbook)/Rationality.md",
-    "OUTLINE.md",
-    "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
+    "Blog Posts/Deontic Logic and the Value loading problem.md",
+    "Blog Posts/Why focus on X-risk and S-risk.md",
+    "Blog Posts/Applied Category Theory.md",
+    "Putnam.md",
+    "Pasted image 20240612004805.png",
     "Book Idea (AI Safety textbook)/Mind.md",
+    "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
     "Book Idea (AI Safety textbook)/Epistemological engineering.md",
+    "Book Idea (AI Safety textbook)/Economics.md",
+    "Book Idea (AI Safety textbook)/Alignment.md",
+    "Blog Posts/Possible Minds Mind space.md",
+    "Blog Posts/My Political views.md",
+    "Blog Posts/4 futures.md",
     "Blog Posts/Angrippas Trilemma Generalised.md",
-    "Philosophy of Mind.md",
-    "Problem of Induction.md",
+    "Blog Posts/A new theory of truth.md",
+    "Blog Posts/Expectedly little suffering.md",
+    "Blog Posts/World Model.md",
+    "Pasted image 20240608235345.png",
+    "Pasted image 20240605152608.png",
+    "Pasted image 20240605152157.png",
+    "Pasted image 20240605145854.png",
+    "Pasted image 20240605143918.png",
+    "Pasted image 20240605143653.png",
+    "Pasted image 20240605140403.png",
+    "Pasted image 20240605140110.png",
+    "School/AI lectures",
     "Isomorphisms between classical physical systems and phenomenal experience.pdf",
     "wordcount.py",
     "AI Governance",
@@ -362,9 +413,6 @@
     "Other ideas",
     "3. The logic of sense-data.pdf",
     "Untitled.canvas",
-    "Excalidraw",
-    "Book Idea (AI Safety textbook)",
-    "School",
-    "A priori"
+    "Excalidraw"
   ]
 }

@@ -420,9 +420,26 @@ QBayesianism:
 - Non-Realist
 - ?
 
+Many Worlds:
+- Deterministic
+- No wave-function collapse at all
+- No observer-world distinction
+- Many Minds: One sentient observer can have many (infinte?) minds each such that a 1/3 probability of some event A leads to one third of such minds observing A. 
+- 
+
 
 Cellular Automata?
 Many Worlds?
 Modal?
-Consciousness Collapse (perhaps combined with integrated information theory)?
+Consciousness Collapse (perhaps combined with integrated information theory)?e
 Retrocausality?
+
+
+
+Questions to ask professor:
+
+If Copenhagen interpretation is local without hidden variables, how come the probability distribution collapses everywhere?
+Isn't local hidden-variables still possible with Superdeterminism?
+Many worlds connection with David Lewis modal realism?
+Many Worlds: Temporal logic, thin red line, timeline merges and splits?
+Many worlds: Tendency for p to increase towards thermodynamically entropic worlds?

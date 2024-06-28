@@ -12,7 +12,7 @@ When it comes to thermodynamics, ecological economics and econphysics notice thi
 ![[Pasted image 20240520190919.png]]
 
 $E_{in} = E_{out}$
-
+(With global warming that's not entirely true, we're soaking in energy into the oceans and energy is increasing on earth. Can be approximated on shorter time scales or longer time scales with no greenhouse gases)
 
 
 We'll also establish an assumption: methodological individualism. While I did argue for compartmetn holism, I will still argue that institutions supervene on individuals. Individuals are what makes up the society, and can be seen as quantum particles while societies are the thermodynamic process that is emergent from the statistical interactions of those particles. 
@@ -23,7 +23,7 @@ risk-aversion, risk-seeking, EU maximisation
 
 Now let's establish what we are optimizing for. There are countlessly many optimization functions one can have (even with multiple outputs!). So what do we do?
 
-Optimize for: Self-interest of many individuals
+People are generally (maybe always) self-interested (a viewpoint called psychological egoism) and will take the path of least resistance (minimize free energy). Optimize for: Self-interest of many individuals
 
 For simplicity, let's maximize EU for lowest utility individual. Leximin applies it over time, and has good properties.
 
@@ -82,7 +82,6 @@ It may be a bad idea to focus on finding lowest utility individual at each time-
 Instead, focus on something good enough. Probability of finding them.
 Which leads me to my not-properly-calculated-but-hopefully-good-heuristic list. To rank them based on how important they are would require real calculatons, which I won't do here (unless I do :eyes:)
 
-
 - Fix Economic problems in the third world, global wealth redistribution.
 - Poverty fund
 - Cheap homes, large home building projects when needed
@@ -116,12 +115,13 @@ Which leads me to my not-properly-calculated-but-hopefully-good-heuristic list. 
 - Working towards an friendly AI utopian future society that colonizes as much of space as possible, where post-humans live in Nozickian experience machines as Dyson sphere's around stars. Eventually say bye bye to earth, it is a rock with lots of suffering on the surface. 
 
 
+It would be an interesting project to try and calculate which one the above are right, or if some of them are wrong. Which one's would do the most good to focus on it what priority? 
+
 Meta-structure: Centralism vs Decentralism?
 Meta-structure: Rigidity vs Change?
 
 
 
-People are generally (maybe always) self-interested (a viewpoint called psychological egoism) and will take the path of least resistance (minimize free energy)
 
 
 The hedonic treadmill and genetic engineering. Genes for fewer hours of sleep.
@@ -143,5 +143,5 @@ Global state aggregates all social welfare functionals and wisdom of the crowd (
 Global state allow for holistic, global infrastructure and coordination (preventing prisoners dilemma between nations). 
 
 
-
-
+Idea: Minimum wage for sustaining workers (das kapital chapter 10 I believe?) is about energy exchange with the environment to prevent entropy. Food intake allows the body to extract work from the potential energy stored in the calories of the food, generating dissipative heat in the process. Having a home allows for less heat dissipation (given that there's also a heater and it's cold outside). 
+But the main reason individuals do that may be to reduce suffering, and we have evolved to suffer hunger whenever entropy increases too much (or maybe more accurately, whenever energy storage is decreasing). 

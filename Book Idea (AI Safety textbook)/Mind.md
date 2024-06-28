@@ -97,6 +97,9 @@ Ways of instantiating it more concretely is with cognitive architectures.
 
 The idea in its most compressed form is that various distributed synchronous computational processes of information compression are regulated by a global workspace where executive functions execute goal directed behaviour i.e take actions[Negarestani].
 
+[The Global Workspace Theory: A Step Towards Artificial General Intelligence | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/10195021)
+
+
 
 
 # Does AI understand?
@@ -262,7 +265,7 @@ But what if you did it like the Ship of Theseus? The idea here is to slowly repl
 
 This idea seems to be the more risk-averse approach, as it assumes fewer number of philosophical assumptions regarding identity continuity and mental combination. So it's the more risk-free option, without too much of a cost (especially compared to the benefits of mind uploading) and the one I would advocate for.
 
-## Metaphysics of consciousness?
+## Metaphysics of consciousness
 
 ![[Worldscomputationalmind.excalidraw]]
 

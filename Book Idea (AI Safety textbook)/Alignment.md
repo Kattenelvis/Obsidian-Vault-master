@@ -12,7 +12,7 @@ All problems, involving arguments and their premises (premises that may have bee
 - Instrumental Convergence (Added)
 - Goal missgeneralization (Added)
 
-
+oh my this is a huge can of worms you open at late night. But nah I'm generally not a doomer (not on a Yudkowski level atleast). I think alignment is doable and existential risk assesments that I've read published in academic journals put it at 2%-10% (still large and very worthwhile working on, by Boströms argument in "astronomical waste"). The older arguments, on instrumental convergence, goal-missgeneralization, reward misspecification etc. may no longer work on LLM's because those arguments really only work on reinforcment-learning agents likely following some Bayesian epistemology with the Von-Neuman Morgenstern axioms of rational choice. LLM's are diffrent, they are probability calculators. If AI continues in this way, then those old arguments may need to be reworked. Alternatively, good arguments might be made that such agents will make a comeback, likely combined with an LLM module. But LLMs make some risks much less likely, as argued in one paper, specifically the problem of goal misspecification. Back with the decision-theoretic paradigm, specifying the goal function with a mathematical formula was genuinely hard. But now it's less hard with natural language that LLMs seems to get. We should still be cautious though, and I'm pro-pause (even participated in a protest). At the very least, we should focus very hard on safety research and slowing down the arms-race between tech companies. You wouldn't get on a plane that has a 10% chance of killing you.
 
 # Orthogonality Thesis
 
@@ -90,11 +90,14 @@ As such, what is valued can drift over time. Value drift as a due to ontology sh
 
 ## Reward hacking
 
-Trying to go on crack-cocaine. 
+Trying to go on crack-cocaine (or more like, heroin, I guess?)
 
 Pleasurable states of consciousness?
 
 Trying to reach the tokens (from Boström superintelligence).
+
+
+Humans have done similar kinds of reward hacking. We may have been predisposed by the process of neo-darwinian evolution to enjoy sex since it is instrumentally useful for the "goal of evolution" to reproduce. In quotation because it's a non-teleological process. But with condoms we hacked the reward center of the brain with the hedonic pleasure felt at the moment of orgasm (for most humans, atleast, assuming one is not asexual).  
 
 
 

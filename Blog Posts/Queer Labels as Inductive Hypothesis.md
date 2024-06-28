@@ -166,10 +166,5 @@ Pansexual
 # Other random ideas
 Science and statistics, trauma, happiness
 
-Gender identity, "AGP" and "HSTS"
-The ethics of it: No, you are not just a fetish and don't let transphobes say that it's just that. Not perverted. Here's what AGP and HSTS is about. AAP. 
-
-
-
 
 

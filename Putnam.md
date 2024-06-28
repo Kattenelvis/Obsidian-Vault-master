@@ -11,3 +11,8 @@
 4.  _[_23:19_]_
     
     Indeterminancy of reference: there are multiple ways to make a theory $T$ true.
+
+
+[(52) Intellectual Lecture - Naïve Perception, Cartesian Skepticism, & Putnam's Model Theoretic Arguments - YouTube](https://www.youtube.com/watch?v=i1e4c4kgbI4&t=1874s&ab_channel=Intellectualpedia)
+![[Pasted image 20240612004805.png]]
+

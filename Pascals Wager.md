@@ -18,3 +18,12 @@ Potential counter-counter argument:
 Problem: How to determine the probability of a God existing? Can be sent to hell without God, it seems metaphysically possible? God may not send people to heaven or hell. Annihilation can still be true without God. 
 
 Changed pascals wager: Actions that lead to very terrible consequences later on should be avoided, but low probability one's are not worth considering. 
+
+
+## The atheist wager
+
+![[Pasted image 20240605145854.png]]
+
+But what is a "good life" and "evil life"
+
+

@@ -169,9 +169,23 @@ $P(g)=1-P(\neg c)P(\neg o)P(\neg f)=1-(1-P(c))(1-P(o))(1-P(f))$
 
 
 
-
-
 Waging: Pascal vs Roko
 
 
+
+
+
+List of impossibility theorems:
+
+![[Pasted image 20240605110018.png]]
+Mercy $\wedge$ Just $\rightarrow\bot$
+
+Problem of Evil/Teodicé Problem
+Omniscient $\wedge$ Omnipotent $\wedge$ Omnibenevolent $\wedge$ Evil/Suffering exists $\rightarrow\bot$
+
+Middle Knowledge
+Free Will $\wedge$ Omniscience $\rightarrow\bot$
+
+Omniscient $\wedge$ Perfect $\rightarrow\bot$
+![[Pasted image 20240605110042.png]]
 

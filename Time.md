@@ -146,3 +146,24 @@ This is isomorphic to the sturcture of Münschenhausen lemma
 Time and relativity The challenge of the Special theory of relativity for Presentism
 [FULLTEXT01.pdf (diva-portal.org)](https://www.diva-portal.org/smash/get/diva2:1146849/FULLTEXT01.pdf)
 [[Special Relativity]] [[General Relativity]]
+
+
+
+McTaggart:
+
+A-Theory (priviliged now, before and after that now)
+B-Theory (events before and after other events)
+C-Theory (events inbetween two events)
+
+$\neg A$
+$A \leftrightarrow B$
+-------
+$\neg B$
+
+$A\vee B\vee C$
+---------
+$C$
+
+
+Infinitely many A-theories. No contradiction within each placed "now"
+

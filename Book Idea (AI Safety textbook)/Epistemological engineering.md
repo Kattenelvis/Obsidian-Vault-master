@@ -72,7 +72,7 @@ Only utilizing these generalizations is not enough.
 
 Formal Learning Theory (FLT) is one way to characterize hypothesis testing, with a focus on the new riddle of induction, in a formal mathematical way. 
 
-
+This way it can handle the new problem of induction formally.
 
 
 ## Automated Abductive Reasoning
@@ -151,7 +151,6 @@ At the same time, as Susan Haack argues[] scientism can only go so far. There st
 Move these to the logic chapter?
 Computational coherentism
 Kolmogorov Induction
-Formal Learning Theory
 Singular Learning Theory
 
 ### Aristotelean AI
@@ -434,7 +433,7 @@ Singular Learning theory
 
 
 
-# The self identity of self
+# The identity of self
 
 https://en.wikipedia.org/wiki/Floating_man
 Avicenna Floating man

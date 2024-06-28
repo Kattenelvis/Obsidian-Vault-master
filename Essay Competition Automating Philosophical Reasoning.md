@@ -4,6 +4,11 @@
 Idea: Idea combinatorialism
 
 [Philosophy Ideas Database](http://philosophyideas.com/search/themes.asp)
+Combining that many ideas gives us 22000 choose 2 $\approx$ 240 million combinations of 2 ideas
+
+So yah a lot. An algorithm using GPTs that tries to combine each will likely take a long long time to complete, and most likely yield ideas that are not unique.  What if we primed a society of bots into different subsets of those ideas and made them discuss? 
+
+
 
 [Conceptual.Combinations (southampton.ac.uk)](https://web-archive.southampton.ac.uk/cogprints.org/667/1/CCCC.html)
 A modifier on a noun. Modifiers can affect concepts in these ways, according to this article:
