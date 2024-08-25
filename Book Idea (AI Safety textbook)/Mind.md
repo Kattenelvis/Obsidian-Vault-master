@@ -440,7 +440,12 @@ So computational mind --> No free will
 
 Not mechanism or absolutely unknowable propositions
 
-$\neg M\vee \exists p K^*(p)$
+$\neg M\vee \exists p \neg\diamondsuit K(p)$
+
+Section 4: https://iep.utm.edu/lp-argue/
+"So the following disjunctive conclusion is inevitable: Either mathematics is incompletable in this sense, that its evident axioms can never be comprised in a finite rule, that is to say, the human mind (even within the realm of pure mathematics) infinitely surpasses the powers of any finite machine, or else there exist absolutely unsolvable diophantine problems of the type specified . . . (Gödel 1995: 310)."
+
+"That is, his result shows that either (i) the human mind is not a Turing machine or (ii) there are certain unsolvable mathematical problems"
 
 
 It turns out that the philosophical implications of this (though, following benacceraff 1967, requires in addition to the incompleteness theorems additional philosophical premises) can be quite vast. Particularly in the philosophy of mathematics (such as whether or not logicism has been defeated, it's atleast on shakier grounds) aswell as implications regarding platonism and mechanism (the view that the mind is computational). 
@@ -459,6 +464,16 @@ As presented in Chalmers (19XX), it's like this
 
 
 
+https://arxiv.org/pdf/math/0607333
 
 
 
+
+[PUTMAM.pdf (philpapers.org)](https://philpapers.org/archive/PUTMAM.pdf)
+
+
+Consciousness in AI
+[2308.08708 (arxiv.org)](https://arxiv.org/pdf/2308.08708)
+
+
+[2402.19379 (arxiv.org)](https://arxiv.org/pdf/2402.19379)

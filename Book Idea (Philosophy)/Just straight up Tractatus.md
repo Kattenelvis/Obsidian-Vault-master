@@ -23,3 +23,8 @@ Many circles with increasing radius, can map to differently sized sets which def
 
 
 If modelled in FST, it's self-provably consistent and complete. 
+
+
+
+All meaningful concepts can be built up from sense-data such as above. All meaningful concepts terminate in descriptions of set data or a set of descriptions of sense data. Concepts in circularity are meaningless. 
+

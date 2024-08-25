@@ -105,27 +105,6 @@ Wow! Everything, including numbers, is a function! Based on a long row of succes
 
 
 
-# Church-Turing Thesis
-
-## Church Thesis
-It has been postulated that the intuitive notion of "computability" by a human is all there is to computability. There have been a few empirical reasons to believe this, for instance finding many different equivalent notions of computability, from Turing machines, the lambda calculus, and the recursive functions. 
-
-Church's Thesis has since found to be provable from other axioms 
-[A Natural Axiomatization of Computability and Proof of Church's Thesis Author(s): Nachum Dershowitz and Yuri Gurevich]
-
-## Turing Thesis
-
-
-# Universal Turing Computing
-
-"Turing also showed that there are universal TMs—machines that can compute any function computable by any other TM. Universal machines do this by executing instructions that encode the behavior of the machine they simulate. Assuming the Church-Turing thesis, universal TMs can compute any function computable by algorithm. This result is significant for computer science: you don’t need to build different computers for different functions; one universal computer will suffice to compute any computable function. Modern digital computers are universal in this sense: digital computers can compute any function computable by algorithm for as long as they have time and memory. (Strictly speaking, a universal machine has an unbounded memory, whereas digital computer memories can be extended but not indefinitely, so they are not unbounded.)"
-
-"The above result should not be confused with the common claim that computers can compute _anything_. This claim is false: another important result of computability theory is that most functions are _not_ computable by TMs (and hence, by digital computers). TMs compute functions defined over denumerable domains, such as strings of letters from a finite alphabet. There are uncountably many such functions. But there are only countably many TMs; you can enumerate TMs by listing each TM specification (which is some finite string). Since an uncountable infinity is much larger than a countable one, it follows that TMs (and hence digital computers) can compute only a tiny portion of all functions (over denumerable domains, such as natural numbers or strings of letters)."
-[Computation in Physical Systems (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/ENTRIES/computation-physicalsystems/)
-
-
-Finite bounded TM's can still simulate larger ones
-
 
 ## Undecidability, Halting Problem and the limits of computation
 
@@ -169,6 +148,20 @@ AI as a P-algorithm heuristic that's a "good enough" approximation of solutions 
 
 Idea: Similar to the Continuum hypothesis, given that we don't see sets between $\aleph_0$ and $\aleph_1$. 
 
+
+
+[philos.pdf (scottaaronson.com)](https://www.scottaaronson.com/papers/philos.pdf)
+![[Pasted image 20240808213558.png]]
+
+
+![[Pasted image 20240809141903.png]]
+
+![[Pasted image 20240809142446.png]]
+
+Look up tables for Searle's chinese room thought experiment. Grows exponentially with conversation length $n$. Humans may have evolved/developed efficient algorithms for language.
+
+Waterfal/Putnam all possible computations thingy
+
 ## Hypercomputation
 
 If hypercomputers existed however, we'd just use brute force algorithms and even do uncomputable algorithms such as AIXI. Of course, how to align an AIXI would still have to be debated, but it would be really easy to have vastly smarter-than-human intelligence.
@@ -178,7 +171,9 @@ If hypercomputers existed however, we'd just use brute force algorithms and even
 
 
 
+
 # Logic - Computation correspondences
+Do I need this section?
 
 Logic, such as first order logic- has an equivalent computation that proves all theorems in that system. Proof systems are in that sense computational. 
 

@@ -36,3 +36,8 @@ Since $\square p \rightarrow p$ it is a sufficient reason for it.
 < /Idea >
 
 
+
+
+![[Pasted image 20240729162458.png]]
+
+

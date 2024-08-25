@@ -75,3 +75,36 @@ LEXIMIN IS SO GOOD!!!???
 2. _[_14:04_]_
     
     As a replacement I've been getting into moral uncertianty, which applies preference relations on different normative theories themselves, and calculating which is strictly preferable. Transitivity and completeness and Independence might even work in this restricted context (they might work for other kinds of restricted contexts aswell, such as picking between say 2 preferences), so calculating expected utility might work for second-order theories. But that's just speculation on my part
+
+
+
+
+
+[Why is Weighted Negative Utilitarianism (WNU) so obscure? : r/askphilosophy (reddit.com)](https://www.reddit.com/r/askphilosophy/comments/1eeui0g/why_is_weighted_negative_utilitarianism_wnu_so/)
+
+# Why is Weighted Negative Utilitarianism (WNU) so obscure?
+
+EDIT: Fixed post up a bit to improve clarity
+
+I find it strange that almost all discussions on utilitarianism tend to focus on frameworks that seem to have more counterintuitive optimal outcomes than WNU. As far as I understand, WNU:
+
+- **Intuitive**: Aligns better with many people's intuitions than more rigid utilitarian frameworks. "The means justify the ends if and only if the ends are pretty dramatically outweighed by the means depending on how horrific those means are" seems a lot less controversial than "the means justify the ends no matter what". (Also ofc I'm referencing unweighted means here)
+    
+- **Cannot be held captive by extreme suffering scenarios unlike some other NU frameworks**: Whilst extreme suffering is given due respect, weights are not so large that a relatively small amount of high-intensity suffering or total suffering can block scenarios with an extremely high positive net utility.
+    
+- **Not defeated by Benevolent World Exploder argument**: Unlike many other negative utilitarian (NU) variants, disutility weights are finite and can be compensated for with sufficient utility, thus there is no need to start mercy-killing outside of pretty extreme scenarios.
+    
+- **Has a more tolerable answer to the "Very Repugnant Conclusion":** In classical utilitarianism you can argue that NS people can suffer extremely severe disutility (US) if it means NH number of people can experience extremely minor utility (UH ). The balance would shift considerably in WNU, UH or NH would have to be potentially orders of magnitude larger or US or NS would have to be orders of magnitude smaller, which I think would be less unintuitive and less uncomfortable to anybody who subscribes to maximising total utility.
+    
+- **Less prone to disastrous outcomes**: Because minimising suffering is prioritised, there is some built-in "padding" when making utility calculations that prevent acting on calculations that involve a great deal of guaranteed or potential suffering when inaction would be neutral. Russia's invasion of Ukraine is perhaps viewed by many Russians as sacrificing the well-being of Ukrainians for a greater increase in Russian security and well-being. Regardless of how delusional this assessment is, a delusional Russian who subscribes to WNU would be more reticent to support such a war (assuming at least sufficient rationality to acknowledge the security risk posed to Russia by NATO when they have an enormous nuclear deterrent is small).
+    
+- **Compatability**: Should be able to come up with a "rule utilitarian" or "person affecting" variant if desired
+    
+- **Flaws aren't unique**: It isn't that much more arbitrary or complex or impractical than many other forms of utilitarianism like classical utilitarianism, given that you're working with the same data but just assigning predefined weights afterwards.
+    
+- **Respects freedom of choice for the most part**: Unlike some other NU frameworks, weights can be assigned such that a nanny state isn't required to prevent people from taking even the slightest risks if it means there is a chance of moderate suffering. Weights can be focused on preventing extreme issues like CSA, torture, war, etc. That said, it does lean more towards a nanny state than many other utilitarian frameworks for better and for worse.
+    
+- **Fine tunable**: Weights can be specifically tailored towards your preferences in how much worse different degrees of suffering are, balancing tradeoffs optimally and minimising bullets that need to be bitten.
+    
+
+Please lemme know why you think this framework is unpopular and/or deeply flawed **in comparison to other utilitarian frameworks**. I'm not interested in arguing why utilitarianism or WNU is superior to non-utilitarian frameworks because I don't believe that is a gap that can be bridged through rational argumentation.

@@ -35,3 +35,13 @@ Corollary: They want to be consistent for others and themselves.
 
 
 "Interdependence theory. Interdependence theory may be characterized by at least three qualities. First, using games and related conceptual tools, interdependence theory provides a taxonomy of interaction situations, which can be analyzed in terms of several dimensions, such as degree and mutuality of dependence, basis for dependence, corresponding versus conflicting interest, temporal structure, and information availability"
+
+
+
+
+
+
+[Relational Models Theory | Internet Encyclopedia of Philosophy (utm.edu)](https://iep.utm.edu/r-models/)
+4 relations for social cognition, computational model, embeddings (set theory?):
+
+Ratio-Pricing

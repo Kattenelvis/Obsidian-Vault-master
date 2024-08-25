@@ -1,3 +1,6 @@
+![[Pasted image 20240726175759.png]]
+
+
 [Howard Robinson - Perception (Problems of Philosophy)-Routledge (1994).pdf](file:///C:/Users/Katte/Documents/Academic/Philosophy/Howard%20Robinson%20-%20Perception%20(Problems%20of%20Philosophy)-Routledge%20(1994).pdf)
 "As I shall reconstruct the traditional interpretation it begins with two premises derived from Wittgensteinian philosophy of language in general and is followed by a third relating only to private objects. It is this last which bears the main burden of the argument. 
 

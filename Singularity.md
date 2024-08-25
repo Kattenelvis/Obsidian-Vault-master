@@ -31,3 +31,14 @@ Idea: The conflict between converging instrumental rationality and the orthogona
 
 ""In [LH07b] intelligence has been defined as the ability to achieve goals in a wide range of environments. It has been argued that this is a very suitable character ization, implicitly capturing most, if not all traits of rational intelligence, such as reasoning, creativity, generalization, pattern recognition, problem solving, mem orization, planning, learning, self-preservation, and many others. Furthermore, this definition has been rigorously formalized in mathematical terms. It is non anthropocentric, wide-range, general, unbiased, fundamental, objective, complete, and universal. It is the most comprehensive formal definition of intelligence so far. It assigns a real number Υ between zero and one to every agent, namely the to-be-expected performance averaged over all environments/problems the agent po tentially has to deal with, with an Ockham’s razor inspired prior weight for each environment. Furthermore there is a maximally intelligent agent, called AIXI, w.r.t. this measure. The precise formal definitions and details can be found in [LH07b], but do not matter for our purpose. This paper also contains a comprehensive justi f ication and defense of this approach.""
 
+
+
+
+
+A criticism of the singularity:
+[THOATS-5.pdf (philpapers.org)](https://philpapers.org/archive/THOATS-5.pdf)
+
+
+"Even if there is nothing special about the problem of improving artificial agents, could there be something special about the researchers we put this problem to? Perhaps dimin ishing research productivity afflicts human researchers, but not artificial agents. There is a sliver of truth to this objection: one cause of diminishing research productivity is the difficultyofmaintaininglargeknowledgestocks(Jones2009),aproblematwhichartificial agents excel. However, the underlying problem of fishing-out is a feature of problems, not agents, and as suchit cannot be eliminated by enlisting artificial agents as researchers. After a while, any sensible investigatory process will have made more than its share of the easiest discoveries, and subsequent discoveries will become harder. Past that point, research productivity will diminish."
+
+

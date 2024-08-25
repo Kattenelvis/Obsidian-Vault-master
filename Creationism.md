@@ -1,0 +1,5 @@
+
+
+[philos.pdf (scottaaronson.com)](https://www.scottaaronson.com/papers/philos.pdf)
+
+"Creationists often claim that Darwinian evolution is as vacuous an explanation for complex adap tations as a tornado assembling a 747 airplane as it passes through a junkyard. Why is this claim false? There are several related ways of answering the question, but to me, one of the most illuminating is the following. In principle, one could see a 747 assemble itself in a tornado-prone junkyard but before that happened, one would need to wait for an expected number of tornadoes that grew exponentially with the number of pieces of self-assembling junk. (This is similar to how, in thermodynamics, n gas particles in a box will eventually congregate themselves in one corner of the box, but only after cn time for some constant c.) By contrast, evolutionary processes can often be observed in simulations and in some cases, even proved theoretically [108] to nd interesting solutions to optimization problems after a number of steps that grows only polynomially with the number of variables."

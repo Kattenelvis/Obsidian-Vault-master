@@ -343,6 +343,11 @@ Even if that doesn't turn out to work, we would still end up with potentially am
 
 In Nick Boströms book, there are discussions about building an Oracle. Such an intelligence can answer any question.
 
+
+There has been a long history of Oracles fro Llul and Leibniz to Turing:
+"In his theorizing Leibniz described what he called an _ars inveniendi_, a discovering or devising method. The function of an _ars inveniendi_ is to produce hitherto unknown truths of science (Leibniz 1679 [1903: 37]; Leibniz _n.d._2 [1890: 180]; Hermes 1969). A mechanical _ars inveniendi_ would generate true statements, and with time the awaited answer to a scientific question would arrive (Leibniz 1671 [1926: 160]). Blessed with a universal (i.e., complete, and consistent) _ars inveniendi_, the user could input _any_ meaningful and unambiguous (scientific or mathematical) statement S, and the machine would eventually respond (correctly) with either “S is true” or “S is false”. As the groundbreaking developments in 1936 by Church and Turing made clear, if the _ars inveniendi_ is supposed to work by means of an effective method, then there can be no universal _ars inveniendi_—and not even an _ars inveniendi_ that is restricted to all mathematical statements, since these include statements of the form “p is provable”, or even to all purely logical statements."
+https://plato.stanford.edu/entries/church-turing/ 
+
 ### Divine Omniscience, achievable engineering goal?
 
 This section delves more deeply into metaphysics and most readers interested in an empiricist part of the project of AI can skip this section without problem. 
@@ -550,4 +555,7 @@ Woaw!
 
 
 
+
+[Probably approximately correct learning - Wikipedia](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning)
+Also found in the computational complexity paper!
 

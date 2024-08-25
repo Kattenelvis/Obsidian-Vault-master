@@ -1,3 +1,9 @@
+
+Combination laws apply to these two?
+[Krista and Tatiana Hogan - Wikipedia](https://en.wikipedia.org/wiki/Krista_and_Tatiana_Hogan)
+
+
+
 It's called the [Attention schema theory](https://en.wikipedia.org/wiki/Attention_schema_theory) It's the clearest theory I've heard which neither denies subjective awareness nor uses magical thinking. It's both mechanistic and functional.
 
 It's also compatible with [https://en.wikipedia.org/wiki/Global_workspace_theory](https://en.wikipedia.org/wiki/Global_workspace_theory) which perhaps explains more of the "easy" problem of consciousness, and with [https://en.wikipedia.org/wiki/Strange_loop#In_cognitive_science](https://en.wikipedia.org/wiki/Strange_loop#In_cognitive_science) which describes the "self" aspect of consciousness from an abstract point of view.

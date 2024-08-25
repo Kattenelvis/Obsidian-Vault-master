@@ -81,7 +81,7 @@ Let's look over some potentially irrational preferences that humans generally ma
 
 ## Imprecise- and Ellsberg Preferences
 
-Recall "imprecice" probabilities in [[Mathematics & Computability]] yes yes
+Recall "imprecice" probabilities in [[Computability and Complexity]] yes yes
 
 Sunken Cost
 

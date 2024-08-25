@@ -1,3 +1,22 @@
+Anti Realism
+1. Ethical Subjectivist
+2. Error Theory
+3. Expressivism
+4. Emotivism
+5. Ideal Observer Theory
+6. Moral Scepticism
+
+Realism
+1. Ethical Intuitionism
+2. Naturalism
+3. Relaxed Realism
+4. Kantian Constructivism
+5. Analytic Naturalism
+6. Synthetic Naturalism
+7. Quasi Realism
+8. Moral Sense Theory
+
+
 https://www.youtube.com/watch?v=02FaQ5arBAw
 
 

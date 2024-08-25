@@ -1,4 +1,9 @@
 
+
+
+
+
+
 Rule following paradoxes?
 Major responses: Error theory, Reductionist dispositionalism, anti-reductionist "the paradox is an illussion".
 The death of pragmatics?
@@ -23,4 +28,10 @@ ChatGPT: Yes, based on the typical usage of language and the context provided, i
 So pragmatics may not die. However as syntactic symbols such as /s is used on the internet as an [tone indicator] to indicate sarcasm, there may be no need for pragmatics if even syntax can handle it. In either case, negating a proposition is pretty much the same thing.
 
 $p, /s\leftrightarrow \neg p$ 
+
+
+
+
+# semantics of programming languages,
+
 

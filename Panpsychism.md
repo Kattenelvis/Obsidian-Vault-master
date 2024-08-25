@@ -1,3 +1,10 @@
+
+Combination laws apply to these two?
+[Krista and Tatiana Hogan - Wikipedia](https://en.wikipedia.org/wiki/Krista_and_Tatiana_Hogan)
+
+
+
+
 Multiple smaller consciousness that make up a rock:
 \[\] \[\] \[\] \[\] \[\]
 One unified consciousness because of a global workspace/integrated information e.t.c

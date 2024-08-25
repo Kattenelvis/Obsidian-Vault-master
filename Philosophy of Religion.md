@@ -1,4 +1,25 @@
 
+- [  
+    Maximal God](http://amazon.com/Maximal-God-Defence-Perfect-Theism/dp/0198758685/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.JQduBjul7uBV3zD7R07wCpkbLmgOrw-Hb9b-MBxYsWTBcM55tpVTf84Bpz3l) by Yujin Nagasawa is a defense of (modifed) perfect being theism, focused especially on the ontological argument.
+    
+- Andrew Loke is churning out a mind boggling amount of books like [The Teleological and Kalam Cosmological Arguments Revisited](http://amazon.com/Teleological-Cosmological-Arguments-Revisited-Philosophy-ebook/dp/B09ZHGHGC3/ref=mp_s_a_1_2?crid=2DS1RC9GVFJQV&dib=eyJ2IjoiMSJ9.s3ZWnuL0XybSO) and [God and Ultimate Origins](http://amazon.com/God-Ultimate-Origins-Cosmological-Philosophy/dp/3319861891/ref=mp_s_a_1_7?crid=2DS1RC9GVFJQV&dib=eyJ2IjoiMSJ9.s3ZWnuL0XybSOTQV8OKP3lDnRexUOo_).
+    
+- Alexander Pruss and Joshua Rasmussen joined forces to write [Necessary Existence](http://amazon.com/Necessary-Existence-Alexander-R-Pruss-ebook/dp/B07B53FCP2/ref=mp_s_a_1_1?crid=3JFUS6380VR54&dib=eyJ2IjoiMSJ9.kWvi5W0yUZbpeeh0LQq_McHeGTOBT4Xt) which formulates a version of the Contingency argument. A more accessible version would be Rasmussen's popular level work [How Reason Can Lead to God](http://amazon.com/How-Reason-Can-Lead-God/dp/B0C382958H/ref=mp_s_a_1_2?crid=1AM7DY427CWM8&dib=eyJ2IjoiMSJ9.AsDES1U-QR3iaHh4Ju-TEhs1hefEoJUvcgXEGzz6J_qgJKMqodYQ).
+    
+- Geraint Lewis and Luke Barnes have written a popular defense of the fine-tuning argument in [The Fortunate Universe](http://amazon.com/A-Fortunate-Universe-audiobook/dp/B078YDXJYG/ref=mp_s_a_1_1?crid=8SGC12ES8C0C&dib=eyJ2IjoiMSJ9.4aOhbDTkfzzNn222NIrB-ckjVxr6NQYeXoZbavtkh5trB4).
+    
+- Timothy O'Connor has a work defending the Contingency argument in [Theism and Ultimate Explanation](http://amazon.com/Theism-Ultimate-Explanation-Necessary-Contingency/dp/1444350889/ref=mp_s_a_1_1?crid=26JQVNLX094DQ&dib=eyJ2IjoiMSJ9.pCx2h6k7cYiIe2CzEGAcedOncp).
+    
+- [Two Dozen (or so) Arguments for God](http://amazon.com/Two-Dozen-Arguments-God-Plantinga-ebook/dp/B07FKRQJK8/ref=mp_s_a_1_1?crid=1BUVB0K36O8K1&dib=eyJ2IjoiMSJ9.fbCmuERG9K6PEAzggfgL9Ip-gAtwosvSgqIs) is a collection of papers expanding the titular paper by Plantinga which gave the outlines to various possible arguments for God.
+    
+- [The Blackwell Companion to Natural Theology](http://amazon.com/Blackwell-Companion-Natural-Theology/dp/B0B917BHFT/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.hqMt-YlpvXU6-A5GRh4RA3mD6xQe51XMdEgHTa7jC2GNa0qlo8PFCFJB0Y) gives in depth Introductions to and arguments for the standard arguments for God's existence.
+    
+- Joshua Sijuwade, who shows a lot of promise to become a powerhouse in analytic philosophy of religion, within the last week released his first book [Analytic Theism](http://amazon.com/Analytic-Theism-Philosophical-Investigation-Philosophy-ebook/dp/B0CTHQL8JC/ref=mp_s_a_1_1?crid=15WZ2VMGNLPTV&dib=eyJ2IjoiMSJ9.Q-IClYd9-bDzupv).
+    
+- Edward Feser has written the popular [Five Proofs of the Existence of God](http://amazon.com/Five-Proofs-Existence-Edward-Feser/dp/1621641333/ref=mp_s_a_1_1?crid=2E7LU6E32MUUN&dib=eyJ2IjoiMSJ9.mlwEZFoxL3-YbWHE-qtGklU0M-_0jNe9HUL2Jh4mJ) that's made Aristotelian-Thomism quite popular among the young folks.
+    
+- Finally, there's also a lot of work defending the rationality of belief irrespective of the evidences. The most famous and influential of these kind of works is Plantinga's [Warranted Christian Belief](http://amazon.com/Warranted-Christian-Belief-Alvin-Plantinga-ebook/dp/B0059EQ4DY/ref=mp_s_a_1_1?crid=1V15MX57HDRMN&dib=eyJ2IjoiMSJ9.GLCQRhjXuGbT9526M3UeHG4_Ibq). I personally really like Clifford Williams' [Existential Reasons for Belief in God](http://amazon.com/Existential-Reasons-Belief-God-Emotions/dp/1725264692/ref=mp_s_a_1_1?crid=2OT455IE6Y57F&dib=eyJ2IjoiMSJ9.PzoHn2pCqLm_tQuE921mp5DXvC3VL1GxJLph).
+
 Argument against physicalism:
 Assumption 1: Identity theory, mental processes are brain processes. $M=P$
 Assumption 2: Thought is a rational process $R(M_{thought})$
@@ -189,3 +210,26 @@ Free Will $\wedge$ Omniscience $\rightarrow\bot$
 Omniscient $\wedge$ Perfect $\rightarrow\bot$
 ![[Pasted image 20240605110042.png]]
 
+
+
+
+Polytheism may not be so different from Theism after all: Any property that some set of Gods have would approximate those of a single God, hence we can talk of God as a collective whenever we say it's omnipresent, omnipotent etc.
+
+
+Trinity might work. God is a term t(x,y,z) which take on essentially good properties P, Q,.. such that God = G(Holy spirit, Son, Father).
+
+
+
+
+[Arguments for and against Islam? : r/askphilosophy (reddit.com)](https://www.reddit.com/r/askphilosophy/comments/1ej4xgo/arguments_for_and_against_islam/)
+"I had a professor who made an interesting (albeit general) observation about the difference between Judaism, Christianity, and Islam.
+
+In Judaism, there is a heavy emphasis on obeying particular laws (e.g., keeping kosher), but the law is understood to apply only to the Jewish people. So, Judaism is not proselytizing.
+
+In Christianity, there is much less of an emphasis on obeying particular laws; rather, the emphasis is on accepting Jesus as savior. But Jesus is understood to have been sent to save everyone, and so Christianity is proselytizing.
+
+In Islam, there is a heavy emphasis on obeying particular laws (i.e., Sharia law), like Judaism - but this law is understood to apply to everyone, and so Islam is also proselytizing, like Christianity. The Islamic law is a law that supposedly applies to everyone.
+
+A possible critique of Islam, as opposed to the other Abrahamic religions, would be that the combination of strict lawfulness with the belief that the law applies to everyone is a uniquely dangerous combination, psychologically speaking.
+
+Obviously, this is an extremely general claim - but it struck me as an interesting observation nonetheless."

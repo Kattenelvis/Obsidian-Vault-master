@@ -14,7 +14,13 @@ Random thought: The microwave represents everything good about humanity
 
 Outline ideas (ordering/prerequisites of chapters)
 
-Introduction --> Mathematics/Logic/Computability --> Physics (physical realizability of computation) --> Mind (as an instance of realized computation w counter-args) --> Epistemological Engineering/History of AI --> Rationality --> Alignment --> Phil of Science --> Ethics --> Economics --> Political Philosophy --> Law --> Phil of Art
+Introduction --> Mathematics/Logic/Computability --> Physics (physical realizability of computation) --> Mind (as an instance of realized computation w counter-args) --> Epistemological Engineering/History of AI/Language(LLM) --> Rationality --> Alignment --> Phil of Science --> Ethics --> Economics --> Political Philosophy --> Law --> Phil of Art
+
+
+Idea: Incorporate mathematics/logic/computability more fluidly with the rest of the topics? We can atleast begin with say, the different notions of computation and perhaps the logical hierarchies, introducing the church-turing thesis and the equivalence of different notions of computation, and then directly moving on to its physical implementation? Alternatively atleast begin to write about complexity and complexity classes before moving on, especially as one paper argues that physical implementation is needed... yes let's do it in that direction.
+
+
+## New Outline
 
 
 

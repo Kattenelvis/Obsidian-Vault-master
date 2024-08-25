@@ -1,4 +1,8 @@
-Theory of Mind (Bad I think)
+
+[document (psu.edu)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2c3b2d857068b8ac5a144e90892de5a5dde3a3fd)
+"Violations of Grice’s (1975) conversational maxims" hmmm
+
+Theory of Mind is hampered in autistic individuals
 
 https://www.youtube.com/watch?v=0o1PXeFEcL0
 https://www.youtube.com/watch?v=MM-x25z-i7w

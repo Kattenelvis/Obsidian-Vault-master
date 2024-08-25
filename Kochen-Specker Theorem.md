@@ -15,4 +15,7 @@ Contx --> ~HVT
 
 
 
+[Cosmology and Theology (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/cosmology-theology/)
+![[Pasted image 20240801115507.png]]
+
 
