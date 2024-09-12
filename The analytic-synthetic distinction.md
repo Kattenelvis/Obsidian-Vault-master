@@ -1,0 +1,1 @@
+2. Morton White, Nelson Goodman, Quine, and Hempel are probably the most famous names when it comes to the analytic synthetic distinction debate

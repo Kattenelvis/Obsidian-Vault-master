@@ -106,6 +106,7 @@ So in such a sense, all kinds of attractions, as an experience and not as a set 
 
 
 ## Heterophenomenology
+Just realized how ironic the name is. Dennett posits something called "heterophenomenology" (unrelated to heterosexuality) in which we utilize scientific techniques to determine differences in conscious states to the extent that is possible. 
 
 The queer community and psychologists have done a generally good job at heterophenomenology. For instance, the 2-factor model that distinguishes romantic from sexual attraction. But more distinctions have been made, such as aesthetic attraction and sensual attraction. With these terms, we may be able to figure out how it is like to be another person, atleast by simulating/theorizing about it. 
 

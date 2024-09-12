@@ -23,9 +23,12 @@
 20. Husserlian phenomenology and Brouwers intuitionism, choice sequences
 21. Sense-data view vs direct realism vs representationalism
 22. Epistemic Foundations of Game Theory
-23. Gödel Modal Logical argument
+23. Gödel Modal Logical argument for God
 24. Fine Tuning, Anthropics and the multiverse
 25. P=NP?
+26. Automation of Philosophy (With LLM?)
+27. Evidential vs Causal Decision Theory
+28. Automating Philosophy with LLMs
 
 
 

@@ -1,4 +1,4 @@
-
+a
 Not the physical version
 
 
@@ -62,7 +62,12 @@ Source: Section 3.1 SEP page churc-turing thesis
 
 Rosser's Theorem via Turing machines, connections with Gödel incompleteness theorem.
 https://scottaaronson.blog/?p=710
+[Shtetl-Optimized » Blog Archive » Rosser’s Theorem via Turing machines (scottaaronson.blog)](https://scottaaronson.blog/?p=710)
 
+
+"For those of you who’ve never seen the connection between these two triumphs of human thought: suppose we had a sound and complete (and recursively-axiomatizable, yadda yadda yadda) formal system F, which was powerful enough to reason about Turing machines.  Then I claim that, using such an F, we could easily solve the halting problem.  For suppose we’re given a Turing machine M, and we want to know whether it halts on a blank tape.  Then we’d simply have to enumerate all possible proofs in F, until we found _either_ a proof that M halts, _or_ a proof that M runs forever.  Because F is complete, we’d eventually find one or the other, and because F is sound, the proof’s conclusion would be _true_.  So we’d decide whether M halts.  But since we already know (thanks to Mr. T) that the halting problem is undecidable, we conclude that F can’t have existed."
+
+“Look ma, no Gödel numbers!”
 
 
 
@@ -139,3 +144,14 @@ Improved and generalized version of Turing's argument I.
 "However, the Németi computer is a discrete, deterministic mechanical device, and yet is able to calculate functions that are not Turing-machine computable. That is to say, relativistic computers are counterexamples to Gandy’s Thesis P. In brief, the reason for this is that the sense of “deterministic” implicitly specified in Gandy’s Principles (“Gandy-deterministic”) is narrower than the intuitive sense of “deterministic”, where a deterministic system is one obeying laws that involve no randomness or stochasticity. Relativistic computers are deterministic but not Gandy-deterministic. (For a fuller discussion, see Copeland, Shagrir, & Sprevak 2018.)"
 
 "**In conclusion, Gandy’s analysis has made a considerable contribution to the current understanding of machine computation. But, important and illuminating though the Gandy argument is, it certainly does not settle the question whether the Deutsch-Wolfram thesis is true.**"
+
+
+
+
+# Hilbert's Thesis
+
+[Is there a hillberts thesis.pdf](file:///C:/Users/Katte/Documents/Academic/Philosophy/Is%20there%20a%20hillberts%20thesis.pdf)
+Reinhard Kahle
+https://www.jstor.org/stable/45096844
+
+

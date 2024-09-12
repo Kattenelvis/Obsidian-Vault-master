@@ -37,6 +37,15 @@ So Putnam argues that blah blah blah Chalmers responds
 
 "The simple mapping account turns out to be very liberal: it attributes many computations to many systems. In the absence of restrictions on which mappings are acceptable, such mappings are relatively easy to come by. As a consequence, some have argued that every physical system implements every computation (Putnam 1988, Searle 1992)."
 
+
+
+
+Structuralist computation
+[A Computational Foundation for the Study of Cognition (consc.net)](https://consc.net/papers/computation.html)
+
+
+
+
 # Physical Computation
 
 

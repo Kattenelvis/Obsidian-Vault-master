@@ -1,3 +1,5 @@
+Idea: Might be part of a larger series of posts
+
 
 
 I am not against measures to prevent climate change, nor am I against sustainability in the short term. But from many ethical systems, and from self-interest, it is better than, if not obligatory, to eventually dismantle the environment once technology has progressed far enough. I will show that from all self-interest views (pleasure-hedonic, desire satisfaction and most objective list theories) aswell as self-interest aggregation under contractarian and deontological approaches, aswell as most reasonable utilitarian rules, all imply radical anti-environmentalism. 
