@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The analytic-synthetic distinction.md",
+                "file": "Blog Posts ideas/Metaphilosophy Constructive Article.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Idea (AI Safety textbook)/Alignment.md",
+                "file": "Blog Posts ideas/Metaphilosophy Constructive Article.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The analytic-synthetic distinction.md",
+                "file": "Blog Posts ideas/Metaphilosophy Constructive Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The analytic-synthetic distinction.md",
+                "file": "Blog Posts ideas/Metaphilosophy Constructive Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The analytic-synthetic distinction.md"
+                "file": "Blog Posts ideas/Metaphilosophy Constructive Article.md"
               }
             }
           },
@@ -229,16 +229,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "16531ec93e630a70",
+  "active": "5139bc3b6ae53f93",
   "lastOpenFiles": [
-    "Måns Magnusson notes.md",
-    "The analytic-synthetic distinction.md",
-    "List of Bachelor Thesis ideas (or blog posts or YouTube videos!).md",
     "Book Idea (AI Safety textbook)/Alignment.md",
+    "AI optimism blog review.md",
+    "Blog Posts ideas/Metaphilosophy Constructive Article.md",
+    "Blog Posts ideas/Metaphilosophy Critical Article.md",
+    "The analytic-synthetic distinction.md",
+    "Måns Magnusson notes.md",
+    "List of Bachelor Thesis ideas (or blog posts or YouTube videos!).md",
     "Book Idea (AI Safety textbook)/Economics.md",
     "Book Idea (AI Safety textbook)/Computability and Complexity/Computability and Complexity.md",
     "Book Idea (AI Safety textbook)/Computability and Complexity/Church-Turing Thesis.md",
-    "AI optimism blog review.md",
     "experience.md",
     "Horror.md",
     "Cosmological Argument.md",
@@ -263,8 +265,6 @@
     "Blog Posts WIP/Queer Labels as Inductive Hypothesis.md",
     "Blog Posts WIP/Radical Anti-Environmentalism.md",
     "Game Theory.md",
-    "Speech Acts.md",
-    "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
     "The AI philosophy Lab",
     "Book Idea (AI Safety textbook)/Computability and Complexity",
     "Blog Posts WIP",

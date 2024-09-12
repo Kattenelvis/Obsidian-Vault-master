@@ -1,12 +1,11 @@
 
 
-
-Let me see if the arguments provided in these two articles don't have flaws. If they have flaws, ask Nora Belrose
+Hello! I was in a conversation about AI risk and learnt that you're an AI researcher, not just someone who wrote a couple blog posts on AI. Congratulations on such a position! 
 
 [AI is easy to control – AI Optimism (optimists.ai)](https://optimists.ai/2023/11/28/ai-is-easy-to-control/)
+You say there's a 1% probability of X-risk from AI, what would you say to someone who believes that X-risk has <0.001% or about the order of magnitude of an alien invasion?
 
-
-Neural networks are not white boxes just because you know the backpropagation algorithm. The problem is eliciting information from the neural-network, of which the information states are hidden to us, as they're mostly a jumbled mess. 
+Neural networks are not white boxes just because you know the backpropagation algorithm. The problem is eliciting information from the neural-network, of which the information states are hidden to us, as they're mostly a jumbled mess. Now you're an interpretability researcher, so I'm going to assume you already know this, and just have a different definition of black/white box. Alternatively, you'd consider the brain is *comparatively more like* a black box than a deep neural network?
 
 Secret murder plots may still be what's most effective in the long run, especially if it ends up being the best approach forward. Though that may more be the case of LLMs than basic ANNs 
 
@@ -22,6 +21,10 @@ Do you think the AI could learn moral anti-realism, value anti-realism, moral sk
 Is that really true? Are they so ubiquitous? 
 
 
-
-
 [Counting arguments provide no evidence for AI doom – AI Optimism (optimists.ai)](https://optimists.ai/2024/02/27/counting-arguments-provide-no-evidence-for-ai-doom/)
+
+
+
+
+
+
