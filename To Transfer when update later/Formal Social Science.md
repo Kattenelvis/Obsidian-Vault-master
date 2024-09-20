@@ -103,6 +103,8 @@ Most social science assumes Frequentist statistics.
 Minor perspectives:
 Fiducial Calculus, a kind of classical statistics with an epistemic view of probability 
 
+[Akaike information criterion - Wikipedia](https://en.wikipedia.org/wiki/Akaike_information_criterion)
+
 ## Methodological Indivudalism vs Holism
 Methodological holism: Explanans and Explanandum are macro-social variables. For example: We can explain increased loan taking with that there has been a decrease in interest rates. 
 
@@ -411,6 +413,14 @@ Language is a central piece to use for moves in social games. Language may or ma
 
 
 State changes. Branching time temporal logic? Causal logic? Spatial logic? So many ways to formalize this! Payout matricies, game theory.
+
+
+# Game Theory
+
+[(Analytical Methods for Social Research) Nolan McCarty, Adam Meirowitz - Political Game Theory_ An Introduction-Cambridge University Press (2007).pdf](file:///C:/Users/offic/Downloads/(Analytical%20Methods%20for%20Social%20Research)%20Nolan%20McCarty,%20Adam%20Meirowitz%20-%20Political%20Game%20Theory_%20An%20Introduction-Cambridge%20University%20Press%20(2007).pdf)
+[Hobbes's State of Nature: A Modern Bayesian Game-Theoretic Analysis | Journal of the American Philosophical Association | Cambridge Core](https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association/article/hobbess-state-of-nature-a-modern-bayesian-gametheoretic-analysis/A5369CCA6E040E5381FBBD6A603003B7)
+
+
 
 
 

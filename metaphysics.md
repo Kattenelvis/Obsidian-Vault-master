@@ -1,4 +1,13 @@
 
+Metaphysics Research Lab
+[Publications and Works in Progress (stanford.edu)](https://mally.stanford.edu/Papers/)
+[principia.pdf (stanford.edu)](https://mally.stanford.edu/principia.pdf)
+[The Metaphysics Research Lab (stanford.edu)](https://mally.stanford.edu/)
+[kripke.pdf (stanford.edu)](https://mally.stanford.edu/Papers/kripke.pdf)
+
+
+
+
 Indiscernibility of Identicals (a.k.a. Leibniz’s Law): ∀x∀y(x=y → ∀P(Px iff Py))
 
 https://en.wikipedia.org/wiki/Horror_vacui_(physics)

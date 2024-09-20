@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "experience.md",
+                "file": "Book Idea (Philosophy)/Metaphilosophy.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "295b3cf9d2147c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog Posts ideas/Metaphilosophy Critical Article.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a56d671d9d2386dc",
             "type": "leaf",
             "state": {
@@ -78,9 +90,67 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe901b0c0c492c9f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "3db3f93ff8ea76c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog Posts ideas/Metaphilosophy Constructive Article.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dca5e6caa98c0091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book Idea (AI Safety textbook)/Epistemological engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "588aab0f56069ae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book Idea (Philosophy)/Just straight up Tractatus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ea48ef68187e551",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog Posts ideas/Metaphilosophy Critical Article.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -138,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 303.50418853759766
   },
   "right": {
     "id": "db970c8625f96ef3",
@@ -154,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog Posts ideas/Metaphilosophy Constructive Article.md",
+                "file": "Blog Posts ideas/Metaphilosophy Critical Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog Posts ideas/Metaphilosophy Constructive Article.md",
+                "file": "Blog Posts ideas/Metaphilosophy Critical Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog Posts ideas/Metaphilosophy Constructive Article.md"
+                "file": "Blog Posts ideas/Metaphilosophy Critical Article.md"
               }
             }
           },
@@ -229,42 +299,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5139bc3b6ae53f93",
+  "active": "5ea48ef68187e551",
   "lastOpenFiles": [
-    "Book Idea (AI Safety textbook)/Alignment.md",
-    "AI optimism blog review.md",
-    "Blog Posts ideas/Metaphilosophy Constructive Article.md",
+    "Book Idea (Philosophy)/Metaphilosophy.md",
+    "Philosophy of Mathematics.md",
+    "Mathematics.md",
     "Blog Posts ideas/Metaphilosophy Critical Article.md",
+    "Book Idea (Philosophy)/Just straight up Tractatus.md",
+    "Book Idea (AI Safety textbook)/Epistemological engineering.md",
+    "Book Idea (AI Safety textbook)/Alignment.md",
+    "Book Idea (AI Safety textbook)/Economics.md",
+    "Book Idea (AI Safety textbook)/Computability and Complexity/Church-Turing Thesis.md",
+    "Book Idea (AI Safety textbook)/Computability and Complexity/Math (other).md",
+    "Book Idea (AI Safety textbook)/Computability and Complexity/Computability and Complexity.md",
+    "metaphysics.md",
+    "Common Knowledge.md",
+    "Bayesian Epistemology.md",
+    "To Transfer when update later/Formal Social Science.md",
+    "Blog Posts ideas/Society.md",
+    "Blog Posts ideas/Metaphilosophy Constructive Article.md",
+    "Book Idea (AI Safety textbook)/OUTLINE.md",
+    "experience.md",
+    "AI optimism blog review.md",
     "The analytic-synthetic distinction.md",
     "Måns Magnusson notes.md",
     "List of Bachelor Thesis ideas (or blog posts or YouTube videos!).md",
-    "Book Idea (AI Safety textbook)/Economics.md",
-    "Book Idea (AI Safety textbook)/Computability and Complexity/Computability and Complexity.md",
-    "Book Idea (AI Safety textbook)/Computability and Complexity/Church-Turing Thesis.md",
-    "experience.md",
     "Horror.md",
     "Cosmological Argument.md",
     "The AI philosophy Lab/Website.md",
-    "Book Idea (AI Safety textbook)/OUTLINE.md",
-    "Classical Mechanics.md",
-    "Worldbuilding Storytelling/The planet protector.md",
-    "Blog Posts WIP/Uploading into Experience machines powered by artificial superintelligence.md",
-    "Book Idea (AI Safety textbook)/Language.md",
     "Pasted image 20240904112541.png",
     "Pasted image 20240904112507.png",
     "Pasted image 20240904112324.png",
-    "Field Theory.md",
-    "Worldbuilding Storytelling/The Zeno-pillars.md",
-    "Worldbuilding Storytelling/I want to worldbuild and storytell.md",
     "Pasted image 20240903011106.png",
-    "Worldbuilding Storytelling/Combining Petalcore and Botanica with Solarpunk.md",
     "Pasted image 20240903005606.png",
     "Pasted image 20240903005244.png",
     "Pasted image 20240903005211.png",
     "Worldbuilding Storytelling",
-    "Blog Posts WIP/Queer Labels as Inductive Hypothesis.md",
-    "Blog Posts WIP/Radical Anti-Environmentalism.md",
-    "Game Theory.md",
     "The AI philosophy Lab",
     "Book Idea (AI Safety textbook)/Computability and Complexity",
     "Blog Posts WIP",

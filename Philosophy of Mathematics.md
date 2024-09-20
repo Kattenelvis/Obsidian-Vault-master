@@ -14,5 +14,10 @@ https://arxiv.org/pdf/1108.4223.pdf
 
 
 
+Formal phenomnology. E = {V, A, T,...} for visual space V auditory space A and thought space T. T might just be reducible to V, A,... let A \subset T be the experience of the thought of a proof for A* If there is a proof for A*, there exists an experience A If there is no proof for A*, then there exists no experience A. But there is an experience A' for the proof for the negation of A* (i.e a proof A* --> ⊥) We cannot assume the existence of experiences A or A', they might be impossible for some A*
+
+
+
+
 
 [[Finitist Set Theory]] [[Intuitionism]] [[mathematical logic]] 

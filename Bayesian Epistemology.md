@@ -1,3 +1,5 @@
+Algorithmic BE [2403.07949 (arxiv.org)](https://arxiv.org/pdf/2403.07949)
+
 Underdetermination as explained by Bayesian confirmation theory: Underdetermination 
 
 $p(h|e)$

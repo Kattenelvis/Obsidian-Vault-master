@@ -1,4 +1,4 @@
-
+[[Metaphilosophy Critical Article]]
 
 
 
@@ -22,10 +22,24 @@ But if all philosophy can and should be done in formal language, explain how so 
 The idea is that philosophy in natural language is a P-time complexity approximation algorithm. It's easier and faster. It is not proper philosophy, but an approximation of philosophy. 
 
 
+# Intuition Free Philosophy
+
+We leave the traditional role of thought experiments behind, as we have abandoned:
+
+- Method of Cases
+- Conceptual Analysis
+- Reflective Equilibrium
+- 
+
+As they're all just different sides of a d3 die. 
+
+# Carnapian (Neocarnapian?) Meta-ontology
+
+Not sure if this section fits here or not. 
+
+Quinean metaontology
 
 
-
-# Carnapian Meta-ontology
-
+# Carnapian/Chalmers Conceptual Engineering
 
 
