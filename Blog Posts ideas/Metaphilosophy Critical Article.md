@@ -16,22 +16,46 @@ conceptual analysis, obsessive focus on language, questionable ways of employing
 
 In its highest generality, philosophy, science and mathematics is about arguments from premises to conclusions. This includes observation sentences. Philosophy, science, mathematics and other similar studies will be named "propositional derivative systems" to indicate their foundation in formal logic. 
 
-To formalize this notion we fix a formal language $L$ for which to formalise some argument in. The structure of $L$ can remain vague for now. It can be a propositional logic, a first order logic, second order, modal logic etc. But in general, it will include formulas built up inductively from atomic formulas and grammatical rules, aswell as a set of inference rules. Some theory $T$ in $L$ holds the non-logical synthetic propositions of which an argument is formalized as. $T$ would then contain for instance, the axioms of $ZFC$ which are the premises in modern mathematics for its conclusions, $T$ may contain the postulates of quantum mechanics and observation sentences describing the experiments, and $T$ may be the list of axioms in integrated information theory and observation sentences thereby, $T$ can be Spinoza's axioms or $T$ can just be a small simple argument, for instance the cosmological argument or the no miracles argument. 
+To formalize this notion we fix a formal system $S$ for some language $L$ for which to formalise some argument in. The structure of $L$ can remain vague for now. It can be a propositional logic, a first order logic, second order, modal logic etc. $S$ can also remain vague, wether (under a propositional language) classical, intuitionistic, paraconsistent etc or however it deals with quantifiers, identity etc. 
 
-We may very well distinguish philosophy from other propositional derivational systems such as science and mathematics in that it generally lacks observation statements while also containing synthetic propositions which are not 
+In general, it will include formulas built up inductively from atomic formulas and grammatical rules, aswell as a set of inference rules. Some theory $T$ in $L$ holds the non-logical synthetic propositions of which an argument is formalized as. $T$ would then contain for instance, the axioms of $ZFC$ which are the premises in modern mathematics for its conclusions, $T$ may contain the postulates of quantum mechanics and observation sentences describing the experiments, and $T$ may be the list of axioms in integrated information theory and observation sentences thereby, $T$ can be Spinoza's axioms or $T$ can just be a small simple argument, for instance the cosmological argument or the no miracles argument. 
 
-Notably, by these definitions, mathematics is synthetic.
+Carnap distinguishes the analytic and synthetic in a way which is not critiqued by Quine's dogmas. Whenever we have a fixed system in some language, we can take it that the tautologies are the analytic statements and anything derived from an axiom in some theory $T$ is synthetic. 
+
+We may very well distinguish philosophy from other propositional derivational systems such as science and mathematics in that it generally lacks observation statements while also containing synthetic propositions.
+
+Notably, by these definitions, mathematics is synthetic. Note that this might assume Hillberts thesis, the idea that mathematics is reducible to ZFC, which is usually taken for granted but may not be the case. 
+
+Note, this is not a restriction on scientific methodology. Fully formalized science is compatible with even Feyarabendian approaches to method restrictions (i.e the empty restriction).
 
 
-A philosophy $H = \{P, L, f\}$ is a set of premises $P$ in system $L$ and a function $f$ which maps a set of premises to a conclusion
+We thus get a natural history of philosophy as the adding of $T$'s
+We also get the logical closure of $T$ as $C(T)$ which include all derivations of $T$. 
 
-The set of philosophies is the study of philosophy
+Historicism: More and more are added over time, adding to our collection of philosophies. A philosophy $T$ can be understood as adding to or negating a previous one.
 
-$PHILOSOPHY = \{H_1, H_2,\dots H_n\}$
+Example:
+Descartes:
 
- assuming a finite number here... which might not be the case
+$T=\{ \diamondsuit\neg \exists x Hand(x), \diamondsuit\neg \exists x Hand(x)\to \neg K(\exists x Hand(x)) \}$
 
-$PHILOSOPHY = \{H_i\}_{i\in I}$ for index set I
+$\{\neg K(\exists x Hand(x))\}\in C(T)$
+
+Moorean Shift:
+
+$T'=\{ K(\exists x Hand(x)), \diamondsuit\neg \exists x Hand(x), \diamondsuit\neg \exists x Hand(x)\to \neg  \}$
+
+$\{\neg K(\exists x Hand(x))\}\in C(T')$
+
+
+
+Conceptual analysis is done withing T's which would include intuition statements (which would probably be similar to observation statements in science)
+
+
+Meta-languages and meta-philosophy. Avoiding circularity.
+
+
+Is there an explanation for why natural language is used when I'm arguing all of philosophy (but not necessarily meta-philosophy) is formal?
 
 NP-hardness makes searching the space of possibly philosophies extremely time consuming, and has to be efficient by algorithms searching through that space in P-time, which humans seem to be decent at?
 
@@ -73,6 +97,9 @@ Chalmers
 # Philosophical knowledge?
 
 
+We thus get philosophical knowledge. Knowing a system $T$. 
+
+
 
 
 # No philosophical progress?
@@ -84,7 +111,7 @@ Add that article here
 LLM's for progress?
 
 
-With our formalisation we can now 
+With our formalisation we can now posit some progress. It's about the addition of systems $T$.  
 
 
 # Moving onto science were progress is made
@@ -124,3 +151,18 @@ Moore and why the hand shifting argument doesn't work
 
 Circularity without it?
 Yet kinda bad and can be eliminated? Not sure tbh... Ask Youv
+
+
+
+# Other ideas
+
+
+A philosophy $H = \{P, L, f\}$ is a set of premises $P$ in system $L$ and a function $f$ which maps a set of premises to a conclusion
+
+The set of philosophies is the study of philosophy
+
+$PHILOSOPHY = \{H_1, H_2,\dots H_n\}$
+
+ assuming a finite number here... which might not be the case
+
+$PHILOSOPHY = \{H_i\}_{i\in I}$ for index set I
