@@ -14,6 +14,15 @@ conceptual analysis, obsessive focus on language, questionable ways of employing
 
 # Philosophy
 
+In its highest generality, philosophy, science and mathematics is about arguments from premises to conclusions. This includes observation sentences. Philosophy, science, mathematics and other similar studies will be named "propositional derivative systems" to indicate their foundation in formal logic. 
+
+To formalize this notion we fix a formal language $L$ for which to formalise some argument in. The structure of $L$ can remain vague for now. It can be a propositional logic, a first order logic, second order, modal logic etc. But in general, it will include formulas built up inductively from atomic formulas and grammatical rules, aswell as a set of inference rules. Some theory $T$ in $L$ holds the non-logical synthetic propositions of which an argument is formalized as. $T$ would then contain for instance, the axioms of $ZFC$ which are the premises in modern mathematics for its conclusions, $T$ may contain the postulates of quantum mechanics and observation sentences describing the experiments, and $T$ may be the list of axioms in integrated information theory and observation sentences thereby, $T$ can be Spinoza's axioms or $T$ can just be a small simple argument, for instance the cosmological argument or the no miracles argument. 
+
+We may very well distinguish philosophy from other propositional derivational systems such as science and mathematics in that it generally lacks observation statements while also containing synthetic propositions which are not 
+
+Notably, by these definitions, mathematics is synthetic.
+
+
 A philosophy $H = \{P, L, f\}$ is a set of premises $P$ in system $L$ and a function $f$ which maps a set of premises to a conclusion
 
 The set of philosophies is the study of philosophy
@@ -30,22 +39,21 @@ Like there's obviously a combinatorial explosion of possible philosophies
 
 # Williamson on Conceptual Analysis
 
-Williamsons formalization of conceptual analysis. The problematic intuitions are still there
+Williamsons formalization of conceptual analysis.
 
 $\square (Kp \leftrightarrow JBTp)$
 $\diamondsuit (\neg Kp\wedge JBTp)$
 
-The problematic intuition of the case in the possible world where the JBT is not K. 
+The problematic intuition of the case in the possible world where the JBT is not K.  
 
 His argument is no different from relying on intuitions.
 
+I reject all $T$'s of which contain intuition propositions.
 
 
-# What are intuitions really?
+## What are intuitions really?
 
 Formal phenomnology. E = {V, A, T,...} for visual space V auditory space A and thought space T. T is most likely reducible to V. In the book varities of consciousness, there are two views primitivism and reductionism (and also eliminativism but let's assume that's false for thoughts). I take the reductionist route.
-
-Formal Phenomenology proof/argument?
 
 Why rely on the phenomenal experience of "intuition" rather than the phenomenal experiences of "regions of blue"? 
 
@@ -74,6 +82,10 @@ Not quite true. But lack of it in some fields is cause for concern? Ehhh I guess
 Add that article here
 
 LLM's for progress?
+
+
+With our formalisation we can now 
+
 
 # Moving onto science were progress is made
 
