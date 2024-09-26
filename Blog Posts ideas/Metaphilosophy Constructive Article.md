@@ -1,4 +1,4 @@
-[[Metaphilosophy Critical Article]]
+[[Metaphilosophy Article]]
 
 
 

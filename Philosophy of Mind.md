@@ -104,3 +104,13 @@ Me later: No, we can simply adopt the intentional stance
 ![[Pasted image 20240513191053.png]]
 
 
+
+
+[McClamrock: Marr's Three Levels (albany.edu)](https://www.albany.edu/~ron/papers/marrlevl.html)
+
+3 LEVELS OF PERCEPTION
+
+In recent work in the theoretical foundations of cognitive science, it has become commonplace to separate three distinct levels of analysis of information-processing systems. David Marr (1982) has dubbed the three levels the _computational_, the _algorithmic_, and the _implementational_; Zenon Pylyshyn (1984) calls them the _semantic_, the _syntactic_, and the _physical_; and textbooks in cognitive psychology sometimes call them the levels of _content_, _form_, and _medium_ (e.g. Glass, Holyoak, and Santa 1979).
+
+
+
