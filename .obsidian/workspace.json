@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c6187f213bca5fe7",
+        "id": "6916e8e5636667cc",
         "type": "tabs",
         "children": [
           {
-            "id": "7fa2b35256193b48",
+            "id": "e0a56ee3cf936360",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List of Bachelor Thesis ideas (or blog posts or YouTube videos!).md",
+                "file": "HTML.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3db3f93ff8ea76c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog Posts ideas/Idea for QM-GR-Consciousness unified theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2226db43579585aa",
+            "id": "5bf0057c74f2debe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[AI is easy to control – AI Optimism (optimists.ai)](https://optimists.ai/2023/11/28/ai-is-easy-to-control/)",
+                "query": "2%",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,11 +86,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 303.50418853759766
+    "width": 403.5
   },
   "right": {
     "id": "db970c8625f96ef3",
@@ -193,54 +182,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2226db43579585aa",
+  "active": "5bf0057c74f2debe",
   "lastOpenFiles": [
-    "Blog Posts ideas/Idea for QM-GR-Consciousness unified theory.md",
-    "Blog Posts WIP/Metaphilosophy Article.md",
-    "Method of Cases and Reflective Equilibrium.md",
-    "Book Idea (Philosophy)/Metaphilosophy.md",
-    "Blog Posts ideas/LLMs and formal logical reasoning.md",
-    "Mathematics Websites.md",
-    "List of Bachelor Thesis ideas (or blog posts or YouTube videos!).md",
-    "Blog Posts ideas/LLM, alignment and reflective equilibrium.md",
-    "Blog Posts ideas/Untitled 1.md",
-    "Blog Posts ideas/Metaphilosophy Constructive Article.md",
-    "AI optimism blog review.md",
-    "Book Idea (AI Safety textbook)/OUTLINE.md",
-    "Book Idea (AI Safety textbook)/Epistemological engineering.md",
-    "Book Idea (Philosophy)/Just straight up Tractatus.md",
-    "Philosophy of Mind.md",
-    "Category Theory.md",
-    "Book Idea (AI Safety textbook)/Mind.md",
-    "Philosophy of Mathematics.md",
-    "Mathematics.md",
-    "Book Idea (AI Safety textbook)/Alignment.md",
-    "Book Idea (AI Safety textbook)/Economics.md",
+    "The Vienna Circle.md",
     "Book Idea (AI Safety textbook)/Computability and Complexity/Church-Turing Thesis.md",
-    "Book Idea (AI Safety textbook)/Computability and Complexity/Math (other).md",
-    "Book Idea (AI Safety textbook)/Computability and Complexity/Computability and Complexity.md",
-    "metaphysics.md",
-    "Common Knowledge.md",
+    "Book Idea (AI Safety textbook)/Alignment.md",
+    "Autism.md",
+    "Blog Posts Finished/Uploading into Experience machines powered by artificial superintelligence.md",
+    "Voting Methods.md",
+    "Theories of Reference.md",
+    "Quantum Mechanics.md",
+    "Probability Theory.md",
+    "To Transfer when update later/Formal Social Science.md",
+    "School/Phil of Rel/Final Exam.md",
+    "Cosmological Argument.md",
+    "Centralism.md",
+    "LessWrong.md",
+    "Javascript.md",
+    "AI.md",
+    "Analytic Existential Anxiety.md",
+    "AI politics.md",
+    "Blog Posts WIP/Metaphilosophy Article.md",
+    "Book Idea (Philosophy)/Metaphilosophy.md",
+    "Frame 4.png",
+    "Applied Ethics.md",
+    "HTML.md",
+    "Touch.md",
+    "Truth.md",
+    "Turing Machines.md",
+    "Syntax A Generative Introduction.md",
+    "520hz sine.wav",
+    "3. The logic of sense-data.pdf",
+    "1. Defeating scepticism and establishing the logical description of the world.pdf",
+    "Pasted image 20240928232631.png",
+    "redblue gif 1.gif",
+    "redblue gif.gif",
     "Pasted image 20240904112541.png",
     "Pasted image 20240904112507.png",
     "Pasted image 20240904112324.png",
     "Pasted image 20240903011106.png",
     "Pasted image 20240903005606.png",
     "Pasted image 20240903005244.png",
-    "Pasted image 20240903005211.png",
     "Worldbuilding Storytelling",
     "The AI philosophy Lab",
     "Book Idea (AI Safety textbook)/Computability and Complexity",
     "Blog Posts WIP",
-    "Pasted image 20240809142446.png",
-    "Pasted image 20240809141903.png",
-    "Pasted image 20240808213558.png",
-    "3. The logic of sense-data.pdf",
     "To Transfer when update later",
     "Untitled",
     "School/Phil of Rel",
-    "School/AI lectures",
-    "Isomorphisms between classical physical systems and phenomenal experience.pdf",
     "Untitled.canvas"
   ]
 }

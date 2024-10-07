@@ -18,7 +18,7 @@ In its highest generality, philosophy, science and mathematics is about argument
 
 To formalize this notion we fix a formal system $S$ for some language $L$ for which to formalise some argument in. The structure of $L$ can remain vague for now. It can be a propositional logic, a first order logic, second order, modal logic etc. $S$ can also remain vague, wether (under a propositional language) classical, intuitionistic, paraconsistent etc or however it deals with quantifiers, identity etc. 
 
-In general, it will include formulas built up inductively from atomic formulas and grammatical rules, aswell as a set of inference rules. Some theory $T$ in $L$ holds the non-logical synthetic propositions of which an argument is formalized as. $T$ would then contain for instance, the axioms of $ZFC$ which are the premises in modern mathematics for its conclusions, $T$ may contain the postulates of quantum mechanics and observation sentences describing the experiments, and $T$ may be the list of axioms in integrated information theory and observation sentences thereby, $T$ can be Spinoza's axioms or $T$ can just be a small simple argument, for instance the cosmological argument or the no miracles argument. 
+In general, it will include formulas built up inductively from atomic formulas and grammatical rules, aswell as a set of inference rules. Some theory $T$ in $L$ holds the non-logical synthetic propositions of which an argument is formalized as. $T$ would then contain for instance, the axioms of $ZFC$ which are the premises in modern mathematics for its conclusions, $T$ may contain the postulates of quantum mechanics and observation sentences describing the experiments, $T$ can be Reichenbachs axiomatic formalization of special relativity, $T$ may be the list of axioms in integrated information theory, $T$ can be Spinoza's axioms or $T$ can just be a small simple argument, for instance the cosmological argument or the no miracles argument. 
 
 As such we get a definition of philosophy as the set of all such theories
 Philosophy$=_{df} \{T_1,\dots T_n\}$
@@ -35,6 +35,10 @@ Notably, by these definitions, mathematics is synthetic. Note that this might as
 Note, this is not a restriction on scientific methodology. Fully formalized science is compatible with even Feyarabendian approaches to method restrictions (i.e the empty restriction). 
 
 It might seem to assume the syntactic structure of scientific theories, though with the right ZFC axioms in conjunction with the scientific theory we could easily accommodate the semantic view aswell. And natural language is not special either, the pragmatic view can likely also be accommodated. 
+
+But here comes the real kicker: There is no geniune division between the subjects. We have/will demonstrate how to reduce mathematical objects to cognitive phenomenology, and that this reduction entails constructivism and intuitionism. As such the propositional derivational systems can only be meaningfully reducible to sense-data, and thus "checkable from skepticism" if they reject the law of double negation (since we cannot think nor experience contradictory mathematical objects) 
+
+I have been thinking of just how many notions this can fall under. Literature may also fall under it, though as an induction schema as we translate the piece of literature into a theory $T$. Art in general too, as we can simply formalize the experience of the art into formal phenomenology.
 
 We also get the logical closure of $T$ as $C(T)$ which include all derivations of $T$. 
 
@@ -67,6 +71,8 @@ Over time a finished formalism is done
 
 Conceptual analysis is done withing T's which would include intuition statements (which would probably be similar to observation statements in science)
 
+I'm not doing a rational reconstruction, or faithful reconstruction, of what mathematicians, scientists or philosophers actually do, for it is unimportant and those without proper foundations should be pointed out as having none. This is not sociology. I do not think that it's important that there just so happen to be humans who just so happen to be mathematicians, philosophers or scientists who just so happen to do things which also contradicts the philosophy presented in this article. In that case, the indivudal should be rejected or atleast it should be pointed out that they're not grounding it in phenomenal experience. It might not have been humans doing philosophy. Humans are just a mere contingency, a tiny speck in the space of possible minds. Things could have been different, and a philosophical system should ground itself only in what is completely evidently given i.e sense data. 
+
 
 Meta-languages and meta-philosophy. Avoiding circularity.
 
@@ -78,6 +84,23 @@ NP-hardness makes searching the space of possibly philosophies extremely time co
 Like there's obviously a combinatorial explosion of possible philosophies
 
 We can define positivism as the view that all propositional derivation systems are mathematical or scientific, with no extra categories. 
+
+> For much of the history of philosophy, philosophers could not have imagined their philosophizing as separate from not only mathematics, but also the empirical sciences.
+
+-Machery Philosophy within its proper bounds
+
+There may be no special conceptual analysis that makes Philosophy a distinct propositional derivational system. 
+
+
+
+
+There is an assumption that philosophy is to be done in natural language. I will call this the NL-assumption. I will contend that the NL-assumption is false. 
+Someone [who?] has argued that the english mereologists use is not quite english. I will argue for the Formal Language assumption FL-assumption as true. Philosophy is best done in a precise way which analyzes phenomenal consciousness and builds up all concepts with phenomenal concepts as its foundation which is also first philosophy. Phenomenal Foundationalism.
+
+This analysis of concepts is what philosophy differs from science and mathematics. 
+
+
+We're not doing a rational reconstruction, we're showing what can be scrutinized by not being justified from a phenomenal basis. We show that in principle we can formalize all scientific theories (were at worst it's just a list of observation sentences).
 
 
 
@@ -97,6 +120,9 @@ $Kp \leftrightarrow (Jp\wedge Bp\wedge p)$
 $Sup(x,y)\leftrightarrow (\Delta y \to \Delta x)$
 etc.
 
+The idea is to find the necessary and sufficient conditions for a concept to apply. 
+
+
 ## Method of Cases
 Williamsons formalization of conceptual analysis applying method of cases.
 
@@ -114,10 +140,28 @@ The long term goal according to some is to achieve a  Equilibrium, whereby one h
 
 Could an ASI predict ones intuition regarding any thought experiment, and thus could in principle perfect the method of cases?
 
+### Thought Experiments
+
+Proof by contradictions are not inuitionistically valid. Fine Ig??
+
+Nortons argumentative view, some claim he is vague, so I will formalize this notion: 
+
+a thought experiment is a theory $T$.
+
+Usually meant to show some subtheory $T_s\subset T$ is contradictory, either by elliciting intuitions (by being an intuition pump) or as is often done in science, demonstrate ways a theory is logically contradictory in some situations.
+
+We may sometimes ellicit intuitions
+
 
 ## Reflective Equilibrium
 
 Instead of just going by intuitions, we can sometimes reject intuitions, if they're for instance, not strong enough. 
+
+
+Reflections on reflective equilibrium.
+
+
+Not a solution, they are just as dependent on irrational intuitions as any other, and maybe accoridng to experimental philosophy (todo: check this out) that our strongest intuitions are only sometimes in agreement, and less subject to change. But where to draw the line? 
 
 
 
@@ -129,12 +173,13 @@ Why rely on the phenomenal experience of "intuition" rather than the phenomenal 
 
 So I reject intuitions, the Ah-hah feeling, and cast skeptical reasoning towards a priori foundationalism, focuing on a empiricist foundherentism. 
 
+Cognitive Phenomenology
 
 ## Experimental philosophy
 
 The idea is to test intuitions on lay people. Are horribly dependent on irrational factors such as someone's sex, ethnicity or age. 
 
-Expertise defence is a natural defence, there is some special skill and/or talent philosophers have which has allowed them more fine-tuned intuitions which are actually true, just like fine-calibrating a scientific instrument to get the best scientific data. 
+Expertise defence is a defence, there is some special skill and/or talent philosophers have which has allowed them more fine-tuned intuitions which are actually true, just like fine-calibrating a scientific instrument to get the best scientific data. 
 
 Turns out most lay-people intuitions still apply to experts [Source]. Expert philosophers are bad at modal reasoning, if anything, mathematicians are the modal experts [Source]. Extrovert lay people are just as more likely to believe in free will than introverts as is the case for professional philosophers. 
 
@@ -146,7 +191,20 @@ Explicative Definitions however we want, as are found in our theories $T$.
 
 Carnap
 Chalmers
+Machery
 
+
+On a side-note, and potentially a fairly controversial one, is my view of gender. At some moments if asked what a gender is, or what a woman is or what a man is, I would try to find the optimal definition given some utilitarian calculus, which would at a minimum include transwomen as women and transmen as men as affirming their gender identity optimizes happiness related factors such as decreased suicide risk, depression symptoms and anxiety symptoms in transgender individuals. But an argument I received back was that this is a fallacy, namely the moralistic fallacy. However, it is clear to me now that since gender is a constructed concept, we can construct them however we like, including optimizing the state of the world given some decision theoretic or moral system.
+
+We can do the same for race and mental illnesses. 
+
+
+We will redefine all concepts to be reducible to sense-experience, or as long descriptions of sense data, as this serves our goal of being robust against skeptical problems. 
+
+I also think that typically, the main reason there's disagreement is philosophy is because different agents hold slightly different unclarified folk-concepts. It's typically when concepts are clarified, as they are in the sciences, that agreement is reached, for the conceptual constructions are standardizes between individuals. I think the same does happen in philosophy a lot more often than people give credit for.
+
+
+One problem purpoerted by Carnap's is taht it doens't formalize the explicatum the best [sourc€] takes faoucaldian geneaology to be optimal. I say NO or atleast maybe not for some set of concepts. A propoer logical formalism would be
 
 
 # Naturalizations
@@ -179,6 +237,10 @@ In the twin earth thought experiment, twin earth has something like water, but i
 Content construed narrowly allows for much better theorizing about mental states, is the only one important for folk psychology, is more coherent with Chomskyian I-language and E-language etc.
 
 
+
+Putnam is utterly wrong. We have predictive world models of VR games. It can be the same in the world. A tree having properties $P_1,...P_n$ can be true in a virtual world just as well, with the added property of $P_{n+1}=$ "is digital". 
+
+
 # Language
 
 
@@ -195,6 +257,24 @@ Chomsky I-language and E-language. Rejecting the private language argument.
 Rejecting Kripkenstein. 
 
 
+Semantic Phenomenalism
+
+
+![[Frame 4.png]]
+
+Skeptical worries of our system being inconsistent can be solved in two ways: Either we prove the consistency within the system, we accept paraconsistency. We could also simply accept that an inconsistency is possible, which is what most mathematicians have done with ZFC.
+
+We can almost certiantly say natural language is inconsistent. We can prove the consistency of formal systems with sufficient arithmetic only from stronger systems which retain sufficient arithmetic. What remains are a set of small languages which can define their own truth predicate and prove their own consistency, such as Pressburger Arithmetic.  
+
+To truly stave it off, then, we may have to look into formalizing our philosophical system within a system which cannot express sufficient arithmetic, which can be done in many ways.
+
+A possible objection is that a philosophical theory $T$ would include some kind of metaphysics, some kind of description of the world. Hence cannot predict that there would exist systems such as Peano Arithmetic. However Max Tegmark argues against this view:
+
+> "Even a world corresponding to a Gödel-complete mathematical structure could in could in principle contain observers capable of thinking about Gödel-incomplete mathematics, just as [finite-state digital computers](https://en.wikipedia.org/wiki/Turing_machine "Turing machine") can prove certain theorems about Gödel-incomplete formal systems like [Peano arithmetic](https://en.wikipedia.org/wiki/Peano_arithmetic "Peano arithmetic")."
+
+
+
+Conlangs demonstrate that natural languages are not all they're painted to be, and we'd be so much freer if we used a larger range of possible languages. 
 
 # Philosophical progress
 
@@ -207,16 +287,21 @@ LLM's for progress?
 
 With our formalisation we can now posit some progress. It's about the addition of systems $T$.  
 
+Yet another object-level debate that's trivial after we've applied conceptual engineering and empirical evidence. There are multiple different notions of progress [source] We find that progress in the sense of adding more texts and publishing more papers that it's uncontroversial. By other metric it's also uncontroversial whether there's progress or not. 
+
 
 # Common sense Philosophy
 
 Radically relative
 Experimental philosophy
 
+(Is PC even comon sense or smth else?)
 Phenomenal Conservatism: With the unreliance of intuitions, there's no reason so support our initial beliefs until defeaters show up or anything like that
 
+I think it clicked: Every appearance is justificatory in some way. I have to agree with this. They are all observation sentences. There's no need to privilege different appearances. 
+
 We could be radically wrong
-Reid, who supported Common Sense philosophy does also take it that we *could* be radically wrong.
+Reid, who supported Common Sense philosophy does also take it that we *could* be radically wrong (fallibilism).
 
 
 Moore and why the hand shifting argument doesn't work
@@ -226,7 +311,7 @@ Quine on what there is
 
 Quinean commitments on reality as it is, leads to arguments about the existence of mountains. Mereological argument:
 
-$T=\{$Mountains are composites, No composites exist $\}$
+$T=\{$Mountains are composites, No composites exist$\}$
 
 So a consequence of this theory in a system which allows modus ponens yields "There are no mountains". 
 
@@ -234,23 +319,17 @@ So a consequence of this theory in a system which allows modus ponens yields "Th
 
 I will hence forth reject that any $T$ has priviliged access to reality and is the true nature of it. I adopt a Carnapian view that existence just follows trivially from a theory. Let's say we formalize geology axiomatically as $G$ in some formal system. It's likely a consequence of $G$ that mountains exist. Geologists may not use $G$ though, as it may turn out a better theory for their goals is $G'$ which doesn't have that implication
 
-# Thought Experiments
-
-Proof by contradictions are not inuitionistically valid. Fine Ig??
-
-Nortons argumentative view, some claim he is vague, so I will formalize this notion: 
-
-a thought experiment is a theory $T$.
-
-Usually meant to show some subtheory $T_s\subset T$ is contradictory, either by elliciting intuitions (by being an intuition pump) or as is often done in science, demonstrate ways a theory is logically contradictory in some situations.
-
-We may sometimes ellicit intuitions
 
 
 # Skeptical problems
 
-Trilemma
+Skepticism taken seriously. Cartesian skepticism.
 
+First philosophy: There exists experience. 
+This could perhaps be done via formal systems [[3. Formal Phenomenology]]
+[[the other 2]]
+
+Trillemma
 Foundherentism.
 I take it that sense-data is not an intuition. An red region R in visual space V is not an intuition, and forms a sortoff basic belief (with some complications I will get too). With empiricist foundationalism or empiricist foundherentism, there is no knowledge which is based on intuitions, but only in lists of sense-data
 
@@ -266,6 +345,10 @@ The problem of Beginning: Phenomenal Experience. Relevant to sceptical scenarios
 
 
 Problem of the criterion: How do we justify the criterions of justification? I don't know...
+
+
+The beginning of philosophy is in phenomenal consciousness, the beginning is solved this way. If everything reduces to phenomenal consciousness, including thought itself, we're golden. 
+
 
 
 # No meta-philosophy
@@ -284,5 +367,54 @@ Continental Philosophy $\approx$ {Hermeneutics, Dialectics, Material Conditions 
 
 (Neo-)Pragmatic Philosophy $\approx$ {Ironism, Quietism, Fideism, Analyzing Language Games, OLP, ...}
 
+Scholastic Philosophy $\approx$ {Natural Theology, Negative Theology, Revelation, ...}
+
 
 But the sets are vague, and nothing says debates about the sets are any good to have, as contrary to the methods themselves. While I do think Formal Logic as a method in philosophy is overwhelmingly powerful and good, where I see no reason to support Natural Language based philosophy instead. However for all other methodologies, I am unsure about it (though I suspect many of the pragmatic and continental one's as very bad in some regards). So while I will consider myself analytical for now, I do not think methodology debates on grand-scales such as between analytic, continental and pragmatic are any good. 
+
+
+
+
+# Innateness of Concepts, conceptual reduction
+
+
+Reducing all concepts to a small set of concepts in phenomenal consciousness. Other concepts may exist, but we're not interested in them.
+
+Fodor's view. It could be the case that there are innate concepts, in the sense of 
+
+
+Reduction of logical concepts? A sense data for instance: Either region A is blue or it is not the case that region A is blue. By forbidding the empty mind, we can always ensure that such an region A exists (which we already do in finitist set theory). 
+
+Even if the traditional approach of reducing all concepts failed, we can consider that the only one's that are robust against external world skepticism, useful for that goal, then we're golden (though I'd have a hard time seeing how anything could not be reduced to experience). 
+
+Carnap:
+In the case of many words, specifically in the case of the overwhelming majority of scientific words, it is possible to specify their meaning by reduction to other words ("constitution," definition). E.g., "'arthropodes' are animals with segmented bodies and jointed legs." .... In this way every word of the language is reduced to other words and finally to the words which occur in the so-called "observation sentences" or "protocol sentences."13
+
+With our view on cognitive phenomenology, we should accept this even for logical conepts. A rational being may need to be bootstrapped with some concepts to develop new one, some critical mass of concepts needed for human-level concept understand and concept making. 
+
+
+We keep the traditional view of concepts, we can have a plurality of definitions, and definitions are described in formal systems given the goals of the system. 
+
+
+
+Example of conceptual reduction:
+
+Time in the GIF of changing blue to red and back
+
+CHANGE = MEMORY OF X CURRENTLY Y
+
+MEMORY is an imaginative process [source], and hence experiential. Mental image of blue, or atleast some semantic information, about past state of the pixel. 
+
+One example in one paper was LIE into 4 other concepts find it and try to do it on the other 4
+
+
+
+Chomsky and Fodor can be right in that we may still be bootrapped as cognitive agents with certain concepts to which learn more concepts. But afterwards we can reduce them all to experiences anyways. Including logical concepts.
+
+Play a game with people: Ask them to give you a concept and see if you can reduce it.
+
+
+
+
+
+

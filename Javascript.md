@@ -1,0 +1,38 @@
+- Window:
+    - Egenskaper:
+        - `navigator`, `screen`, `location`
+        - `screenLeft`, `screenTop`, `screenX`, `screenY`
+        - `innerHeight`, `innerWidth`, `outerHeight`, `outerWidth`
+        - `pageXOffset`, `pageYOffset`
+    - Metoder:
+        - **`alert`**, **`confirm`**, **`prompt`**
+        - **`open`**, **`close`**
+        - `focus`, `blur`
+        - **`setInterval`**, **`clearInterval`**, **`setTimeout`**, **`clearTimeout`**
+        - `moveBy`, `moveTo`
+        - `resizeBy`, `resizeTo`
+        - `scrollBy`, `scrollTo`
+        - `print`
+- Navigator:
+    - Egenskaper:
+        - `appCodeName`, `appName`, `appVersion`, `platform`, `userAgent`
+        - `cookieEnabled`
+- Screen:
+    - Egenskaper:
+        - `width`, `height`, `availWidth`, `availHeight`
+        - `colorDepth`, `pixelDepth`
+- Location:
+    - Egenskaper:
+        - `host`, `hostname`, `port`
+        - `href`, `protocol`, `pathname`, `hash`, `search`
+    - Metoder:
+        - `assign`
+        - `reload`
+        - `replace`
+
+
+
+- Mushändelser (någon av `click`, `dblclick`, `mousedown`, `mouseup`, `mouseover`, `mouseout` eller `mousemove`)
+- Dokument och fönsterhändelser (någon av `load`, `resize`, `scroll` eller `unload`)
+- Formulärhändelser (någon av `submit`, `reset`, `change`, `focus` eller `blur`)
+- Tangentbordshändelser (någon av `keypress`, `keydown` eller `keyup`)

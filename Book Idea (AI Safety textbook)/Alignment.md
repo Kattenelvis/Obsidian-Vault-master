@@ -29,6 +29,7 @@ Given that I would give a low probability on them, I'd say that it's not looking
 
 
 
+
 # Instrumental goals, final goals and instrumental convergence
 
 
@@ -39,11 +40,25 @@ Recall from the rationality chapter on final vs instrumental goals. How do they 
 
 - Scientific Progress
 - Information
-- 
+
+
+[Formalizing Convergent Instrumental Goals (aaai.org)](https://cdn.aaai.org/ocs/ws/ws0218/12634-57409-1-PB.pdf)
+
 
 
 # Inner Misalignment
 ## Misalignment Example
+
+"Soares (2015) gives the example of a highly capable AI system directed to cure cancer, which may attempt to kidnap human test subjects, or proliferate robotic laboratories at expense of the biosphere."
+
+"Up until now, these arguments (on instrumental convergence) have been purely philo sophical. To some, Omohundro’s claim seems intuitively obvious: Marvin Minsky speculated (Russell and Norvig 2010, section 26.3) that an artificial intelligence attempting to prove the Riemann Hypothesis may decide to consume Earth in order to build supercomputers capable of searching through proofs more efficiently. To others, they seem pre posterous: Waser (2008) has argued that “ethics is actually an attractor in the space of intelligent behavior,” and thus highly capable autonomous systems are not as likely to pose a threat as Omohundro, Bostrom, and others, have claimed."
+
+Humean vs Kantian moral motivation seems relevant here. 
+
+"Others have suggested that these dangers are unlikely to manifest. Waser (2008) has argued that intelligent systems must become ethical by necessity, because cooperation, col laboration, and trade are also convergent instrumental goals. Hall (2007) has also suggested that powerful AI systems would behave ethically in order to reap gains from trade and comparative advantage, stating that “In a surprisingly strong sense, ethics and science are the same thing.” Tipler (2015) has asserted that resources are so abundant that powerful agents will simply leave humanity alone, and Pinker (2015) and Pagel (2015) have argued that there is no reason to ex pect that AI systems will work against human values and circumvent safeguards set by humans."
+
+
+
 
 How woulod an AI for instance missalign? Using Yudkowski's reworked example[source]. 
 
@@ -251,3 +266,9 @@ Perhaps truthful AI, accompanied by deontic logic, should be forced to be honest
 AI research converging upon the transformer architecture [Transformer (machine learning model) - Wikipedia](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model))
 
 
+
+
+# Calculating X-risk
+
+2% probability according to this paper
+[Language Agents Reduce the Risk of Existential Catastrophe.pdf](file:///C:/Users/Katte/Documents/Academic/Philosophy/Language%20Agents%20Reduce%20the%20Risk%20of%20Existential%20Catastrophe.pdf)

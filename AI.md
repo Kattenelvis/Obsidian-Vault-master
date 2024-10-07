@@ -1,3 +1,5 @@
+Tracking IQ tests AI
+https://trackingai.org/IQ
 
 Perplexity AI useful for research
 
