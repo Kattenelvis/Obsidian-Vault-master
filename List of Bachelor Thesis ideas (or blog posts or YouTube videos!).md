@@ -29,7 +29,7 @@
 26. Automation of Philosophy (With LLM?)
 27. Evidential vs Causal Decision Theory
 28. Automating Philosophy with LLMs
-
+29. Aligning AI with phenomenal consciousness
 
 
 

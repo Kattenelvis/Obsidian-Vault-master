@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Formal Philosophy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8ffd40b3246649e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Blog Posts WIP/Metaphilosophy Article.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecce316d97e81417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog Posts WIP/Queer Labels as Inductive Hypothesis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2%",
+                "query": "gende",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,47 +206,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5bf0057c74f2debe",
+  "active": "b8ffd40b3246649e",
   "lastOpenFiles": [
-    "The Vienna Circle.md",
-    "Book Idea (AI Safety textbook)/Computability and Complexity/Church-Turing Thesis.md",
-    "Book Idea (AI Safety textbook)/Alignment.md",
-    "Autism.md",
-    "Blog Posts Finished/Uploading into Experience machines powered by artificial superintelligence.md",
-    "Voting Methods.md",
-    "Theories of Reference.md",
-    "Quantum Mechanics.md",
-    "Probability Theory.md",
-    "To Transfer when update later/Formal Social Science.md",
-    "School/Phil of Rel/Final Exam.md",
-    "Cosmological Argument.md",
-    "Centralism.md",
-    "LessWrong.md",
-    "Javascript.md",
-    "AI.md",
-    "Analytic Existential Anxiety.md",
-    "AI politics.md",
+    "Blog Posts WIP/Queer Labels as Inductive Hypothesis.md",
     "Blog Posts WIP/Metaphilosophy Article.md",
+    "Method of Cases and Conceptual Analysis.md",
+    "Formal Philosophy.md",
+    "List of Bachelor Thesis ideas (or blog posts or YouTube videos!).md",
+    "Simulation Hypothesis.md",
     "Book Idea (Philosophy)/Metaphilosophy.md",
-    "Frame 4.png",
-    "Applied Ethics.md",
-    "HTML.md",
-    "Touch.md",
-    "Truth.md",
-    "Turing Machines.md",
-    "Syntax A Generative Introduction.md",
+    "Horror.md",
+    "Physicalism.md",
+    "Physics.md",
+    "Philosophy of Mind.md",
+    "Philosophy of Biology.md",
+    "Philosophy of AI.md",
+    "Philosophy.md",
+    "Phenomenology.md",
+    "Phenomenalism.md",
+    "Phenomenal Binding Problem.md",
+    "Personal Identity.md",
+    "Penrose Shadows of Mind Notes.md",
+    "Paul Thagard - Coherence in Thought and Action.md",
+    "Pasted image 20231108162048.png",
+    "Pasted image 20231108224501.png",
+    "Pasted image 20231109105113.png",
+    "Pasted image 20231109120715.png",
+    "Pasted image 20231111210927.png",
+    "Pasted image 20231109121919.png",
+    "Pasted image 20231113164953.png",
+    "Pasted image 20231116140853.png",
+    "Pasted image 20231116140902.png",
+    "Pasted image 20231117114408.png",
+    "Managment.md",
+    "Logical Positivism.md",
+    "Kolmogorov Complexity.md",
+    "Kripke.md",
+    "History of AI.md",
+    "Historicity.md",
     "520hz sine.wav",
     "3. The logic of sense-data.pdf",
     "1. Defeating scepticism and establishing the logical description of the world.pdf",
-    "Pasted image 20240928232631.png",
-    "redblue gif 1.gif",
-    "redblue gif.gif",
-    "Pasted image 20240904112541.png",
-    "Pasted image 20240904112507.png",
-    "Pasted image 20240904112324.png",
-    "Pasted image 20240903011106.png",
-    "Pasted image 20240903005606.png",
-    "Pasted image 20240903005244.png",
     "Worldbuilding Storytelling",
     "The AI philosophy Lab",
     "Book Idea (AI Safety textbook)/Computability and Complexity",

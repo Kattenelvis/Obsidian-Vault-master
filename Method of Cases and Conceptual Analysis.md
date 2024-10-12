@@ -1,7 +1,7 @@
 
+Idea: Could an ASI predict ones intuition regarding any thought experiment, and thus could in principle perfect the method of cases?
 
-
-
+GPT generated I think:
 # Examples: Justice
 
 ### Case 1: The Innocent Person
