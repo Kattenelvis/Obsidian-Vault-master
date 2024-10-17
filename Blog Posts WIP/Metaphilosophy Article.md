@@ -6,7 +6,7 @@ In its highest generality, philosophy, science and mathematics is about argument
 
 To formalize this notion we fix a formal system $S$ for some language $L$ for which to formalize some argument in. The structure of $L$ can remain vague for now. It can be the languages for propositional logic, a first order logic, second order, modal logic etc. $S$ can also remain vague, whether (under a propositional language) classical, intuitionistic, paraconsistent etc. or however it deals with quantifiers, identity etc. This allows us to not accidentally include hidden assumptions made in applying formal systems to theories., such as for instance, non-Meinongian quantification in standard first order logic (which could in principle be remedied by adding an existence predicate [Nonexistent Objects (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/nonexistent-objects/#ConcNoneObje)). 
 
-In general, it will include formulas built up inductively from atomic formulas and grammatical rules, aswell as a set of inference rules. Some theory $T$ in $S$ holds the non-logical axioms of which an argument is formalized as. $T$ would then contain for instance, the axioms of $ZFC$ which are the premises of the conclusions in classical mathematics, $T$ may contain the postulates of quantum mechanics and observation sentences describing the experiments, $T$ can be Reichenbach's axiomatic formalization of special relativity, $T$ may be the list of axioms in integrated information theory, $T$ can be Spinoza's axioms or $T$ can just be a small simple argument, for instance the cosmological argument or the no miracles argument. 
+In general, it will include formulas built up inductively from atomic formulas and grammatical rules, aswell as a set of inference rules. Some theory $T$ in $S$ holds the non-logical axioms of which an argument is formalized as. $T$ would then contain for instance, the axioms of $ZFC$ which are the premises of the conclusions in classical mathematics, $T$ may contain the postulates of quantum mechanics and definitions of observables which allows one to derive observation sentences describing the experiments, $T$ can be Reichenbach's axiomatic formalization of special relativity, $T$ may be the list of axioms in integrated information theory, $T$ can be Spinoza's axioms or $T$ can just be a small simple argument, for instance the cosmological argument or the no miracles argument. 
 
 We also get the logical closure of $T$ as $C(T)$ which include all derivations of $T$ given the inference rules in $S$ that $T$ is in. 
 
@@ -119,47 +119,37 @@ Chalmers
 Machery
 
 
-# Skeptical problems
+# Skeptical problems and Phenomenalism
 
-Maybe philosophy differs in skeptical problems. Scientific and mathematical theories might in principle include assumptions about knowledge, or atleast some kind of constructed concept that's similar to knowledge. Is this what separate philosophical PDS from other PDS? 
+Philosophy differs in its focus on skeptical problems. Scientific and mathematical theories might in principle include assumptions about knowledge, or atleast some kind of constructed concept that's similar to knowledge. Is this what separate philosophical PDS from other PDS? 
 
-To figure out optimal conceptual constructions within skepticism, it's worth setting a goal first. The goal I posit here is to build robustness against skepticism. I believe it is uncontroversial that what I argue will be the best approach for that goal. 
+We haven't constructed the concept "knowledge" yet. To figure out optimal conceptual constructions, it's worth setting a goal first. The goal I posit here is to build robustness against skepticism. Our goal is not to match our intuitive folk concept of "Knowledge" nor is it about some kind of reflective equilibrium. The goal will be about clarity with regards to the limits of knowledge that phenomenal experience can possible give us. I believe it is uncontroversial that what I argue will be the best approach for that goal. I will by no means make an exhaustive account of all skeptical problems in this article, but I will give an idea for how a general project with Carnapian concepts could handle skepticism. Carnap himself, atleast during his phenomenalist era in the Aufbau, preferred the phenomenalist approach for how it deals with skepticism. 
 
-Firstly, skepticism taken seriously. We take it to be a genuinely serious case that we really could be brains in a vat, deceived by demons and so on. We can even formulate probabilistic arguments for Boltzmann brains and the Simulation Hypothesis. However I will argue that this doesn't quite work. 
+The cartesian demon problem, which posits that we could possible be fooled by an evil demon into having experiences and belief formations, presupposes modal knowledge of possibilities. Let $p$ be a true proposition about the actual world.
 
-The demon problem (including the new one) presupposes modal knowledge of possibilities. Keep in mind, so does the "common sense" i.e "the possibility of the existence of the external world basically as our folk theories posit it is" too. We cannot state any of them are possible by certainty. But we can state that a phenomenal experience is accessible, hence is. We must begin with the phenomenal experience as atleast partially a foundation. 
+$K_{you}\diamondsuit (p \land Fool(demon, you, \neg p))$
 
-Not to mention that we haven't constructed knowledge yet. 
+Keep in mind, so does the "common sense" i.e "the possibility of the existence of the external world basically as our folk theories posit it is" too. 
 
-I will however take the approach that phenomenal consciousness is a kind of given, and is the first to be analyzed. This is similar to what Husserl argued [source].  I take the approach that the problem of beginning [source] can be solved this way. 
+$K_{you}\diamondsuit (p\land K_{you}p)$
 
-Phenomenal Justificatory Egalitarianism: Inspired by Phenomenal Conservativism, it states that we have no reason to take some regions of phenomenal experience as constituting special justification. This includes cognitive phenomenology. 
+This is a kind of local skepticism against modal epistemology as Van Inwagen's critique of modal epistemology in that there could be hidden contradictions and results from experimental philosophy which shows that philosophers are bad at modality [source]. But it also leads to a kind of global skepticism, as it would seem there is a lack of knowledge states over distinguishing possible worlds. As the most common type of semantic for epistemic logic is about distinguishability of possible worlds, we will take that to be the Knowledge concept.
 
-I take it that sense-data is not an intuition. An red region R in visual space V is not an intuition, and forms a sortoff basic belief (with some complications I will get too). With empiricist foundationalism or empiricist foundherentism, there is no knowledge which is based on intuitions, but only in lists of sense-data
+There is a way to save distinguishability: we can state that worlds are distinguishable given different phenomenal experiences. I know that I am experiencing the concept I construct as "Blue" given my color experiences. Since I cannot assume the possibility of external worlds, or a community of speakers, or public objects, or surfaces painted blue, or light rays, or preceptory systems in the brain, or anything else as such, I cannot take any of them for granted. It is a true foundation in phenomenal experience. Even if we hold beliefs that change the experience, via some kind of myth-of-the-given situation, or the rabbitduck case etc., there's still an experience. I take the approach that the problem of beginning [source] can be solved this way. 
 
-The issue is the myth of the given, which is remedied with a foundherentist system, developed by Haack and mathematically formalized by Thagard. There is a coherence relation between theoretical propositions, formalized in logical systems (all of which is definitional and explicative, no intuitions are ever used for any of the inference rules)
+We can start specifying a rudimentary formal structure for phenomenal experience, such as regions R in visual space V. We can specify visual pixels, containing x-y locations, brightness, hue and saturation values, and put then into a vision set of all possible visual pixels. $V=\{\{x,y,h,b,s\} : x,y,h,b,s\in\mathbb{N}\}$, subsets of which form visual spaces, of which one member is one's experience. For a more detailed description on this, including auditory and other systems, check out [earlier posts].
 
-There are two kinds of justification, S-justification and C-justification, depending on if sense data is justifying a theory or if theories are justifying sense-data. But foundherentism takes a special privileged role to sense data (though tbh I think she doesn't use the term 'sense data' so this might be a mischaracterization) because sense data is what upholds something which would otherwise be fully Coherentism, and thus the typical problems of Coherentism which includes that a coherent set of propositions could just be fictional.
+Memories and change in experiences promote a set of experiences over time $E_1,...E_n$ and as a new one is inputted, more possible worlds are distinguished. For example, if I have the experience of red to the left and yellow to the right as the only two visual points, with no other modality on (no sound, no smell etc.). While it is distinguishable from worlds where I for instance see blue on the left, it is indistinguishable from worlds in which my experience at the next time step is yellow on the left vs ones that are pink on the left and so on. We can create a whole updating possible world semantics for possible minds. This is a formal project that I'm just outlining here but might do in the future.
 
-Coherence function on a set of propositions and coherence relations, aswell as 5 optimization algorithms that try to maximize which propositions to put in a set to maximize coherence. Including a formalism of Haacks work
+A more general such semantics which has already been developed is dynamic semantics. Dynamics semantics does this on general possible worlds. This is preferable, given that we might want to model hypothesizes of things which are not phenomenal experience existing independently of phenomenal experience. As such, the set of indistinguishable worlds has become huge, and this is the same as underdetermination of hypothesizes. Experiences and memories of experiences can always be accommodated by a very large number of possible worlds, such as the [pea soup hypothesis] which is an infinite number of indistinguishable possible worlds. Imagine that at any radius $r$, everything outside of that is just pea soup which just so happen to look like the external world. One can see that any set of experiences and memories of experiences holds this entire set of worlds as indistinguishable. We accept this result, and take no steps to remove it or resolve it with ad-hoc values like "simplicity" or similar options. 
 
-Problem of the criterion: How do we justify the criterions of justification? I don't know...
+However, from a decision theoretic standpoint, it can be good to establish a probability distribution over possible worlds, even if they are technically indistinguishable. Any rational individual must hold their credence's up to the laws of probability theory, lest be subject to [dutch books], which are guaranteed loosing bets. This includes the diachronic Dutch books, which state that rational agents updates their beliefs using Bayesian inference. And one good weighing of one's priors might be based on simplicity, such as minimized ontology of the hypothesis, for instance as adding one more existing thing decreases the probability of being correct. AIXI works on the basis that its prior probabilities are distributed over the one's with minimum Kolmogorov complexity, i.e the shortest computer program that can compute all the facts about that world (but that only works for computable possible worlds).  
 
-As part of the goal, concepts will be constructed grounded in sense-data, just as in Carnap's aufbau. This will make the theory robust against external world skepticism, and makes sure that the account holds no metaphysical assumptions (and I really mean none, we might get back to this). Theories $T$ as part of PDS's may include any quantification realm, but never committed to it. 
+Given our construction of knowledge as distinguishability of worlds, justification is difficult to asses. As such this view doesn't get subject to any kind of Angrippan trilemma. The problem of the criterion too, as there's no need to "justify" the conceptual construction of knowledge this way, in any kind of substantive metaphysical universal "knowledge". But rather just as a means to the end of respecting external world skepticism.
 
-Quinean commitments on reality as it is, leads to arguments about the existence of mountains. Mereological argument:
+## The case for Phenomenal intentionality
 
-$T=\{$Mountains are composites, No composites exist$\}$
-
-So a consequence of this theory in a system which allows modus ponens yields "There are no mountains". 
-
-"To be is to be a value of a quantifier"
-
-I will hence forth reject that any $T$ has privileged access to reality and is the true nature of it. I adopt a Carnapian view that existence just follows trivially from a theory. Let's say we formalize geology axiomatically as $G$ in some formal system. It's likely a consequence of $G$ that mountains exist. Geologists may not use $G$ though, as it may turn out a better theory for their goals is $G'$ which doesn't have that implication
-
-# The case for Narrow content
-
-Phenomenal experience, see later, is fundamental. I will advocate for a theory which holds that we don't hold representations that are wide in the environment, as our goal of robustness against skepticism would fail otherwise. All contents in this article are narrow, as I've experienced them before. 
+To remain to the goal of constructing a PDS which admits to the goal of robustness against skepticism, we will advocate to include an account of phenomenal intentionality that is phenomenal and narrow. 
 
 Since we've already discussed that intuitions and method of cases doesn't work, we can exclude arguments such as twin earth or gödel-schmitt cases immediately. We can still use them as intuition pumps, and explain narrow content.
 
@@ -167,13 +157,15 @@ In the twin earth thought experiment, twin earth has something like water, but i
 
 Content construed narrowly allows for much better theorizing about mental states, is the only one important for folk psychology, is more coherent with Chomskyian I-language and E-language etc.
 
-Putnam is utterly wrong. We have predictive world models of VR games. It can be the same in the world. A tree having properties $P_1,...P_n$ can be true in a virtual world just as well, with the added property of $P_{n+1}=$ "is digital". 
+Putnam is utterly wrong. We have predictive world models of VR games. It can be the same in the world. A tree having properties $P_1,...P_n$ can be true in a virtual world just as well, with the added property of $P_{n+1}=$ "is digital". The causal theory of knowledge is weird anyways, and not what we're constructing anyways. 
 
-PIT, one-to-one mappings, cognitive phenomenology.
+In the end, we can just aswell be a brain in a vat, and perfectly 
+have knowledge regardless, from the experiences in the vat. 
 
-In the end, we can just aswell be a brain in a vat, and perfectly have knowledge regardless, from the experiences in the vat. 
 
-## Cognitive Phenomenology
+### Cognitive Phenomenology
+
+An argument for a particular kind of narrow content, namely phenomenal content, is to use cognitive phenomenology.
 
 Something very many people are wrong about, especially rationalists, is what thoughts are. Cognitive Phenomenology is the analysis of what it is like to experience thoughts. So much confusion has arisen from the belief that thoughts are different from other experiences. 
 
@@ -193,6 +185,7 @@ Arguing for Reductionism
 Mental images and inner thoughts, people with aphantasia have predisposition to write it down, hence an experience. There are reasons to believe that there's no true aphantasiac, they usually just lack one or the other. 
 
 Conjecture: There exists $a\subset A$ and $v\subset V$, such that $T=\{a,v\}$
+
 
 
 An objection may be the "Ah-Hah!" Experience that some have reported[source]. I however argue the following:
@@ -221,6 +214,8 @@ Why rely on the phenomenal experience of "intuition" rather than the phenomenal 
 
 So I reject intuitions, the Ah-hah feeling, and cast skeptical reasoning towards a priori foundationalism, focuing on a empiricist foundherentism. 
 
+
+PIT, one-to-one mappings, cognitive phenomenology.
 
 
 ## Innateness of Concepts, conceptual reduction
@@ -291,7 +286,31 @@ The possibility of semi-public objects are worth considering. Imagine for instan
 
 
 
+# Ontological Commitment and metametaphysics
+
+As part of the goal, concepts will be constructed grounded in sense-data, just as in Carnap's aufbau. This will make the theory robust against external world skepticism, and makes sure that the account holds no metaphysical assumptions (and I really mean none, we might get back to this). Theories $T$ as part of PDS's may include any quantification realm, but never committed to it. 
+
+Quinean commitments on reality as it is, leads to arguments about the existence of mountains. Mereological argument:
+
+$T=\{$Mountains are composites, No composites exist$\}$
+
+So a consequence of this theory in a system which allows modus ponens yields "There are no mountains". 
+
+"To be is to be a value of a quantifier"
+
+I will hence forth reject that any $T$ has privileged access to reality and is the true nature of it. I adopt a Carnapian view that existence just follows trivially from a theory. Let's say we formalize geology axiomatically as $G$ in some formal system. It's likely a consequence of $G$ that mountains exist. Geologists may not use $G$ though, as it may turn out a better theory for their goals is $G'$ which doesn't have that implication
+
+
+We can formulate probabilistic arguments for Boltzmann brains and the Simulation Hypothesis. However I will argue that this doesn't quite work. Both aforementioned assumes an upper world with the same laws as the experiential one. 
+
+
+Speculative metaphysics from premises is thus an epistemically inferior way of characterizing philosophy as a PDS, though I can see it plausibly work for that. I really work towards a more critical, guided by the limit of phenomenal experience, in a way some may perhaps could consider (neo)-Kantian metaphysics. 
+
+With a Carnapian view then, I don't have to accept my PDS as the ultimate truth or anything like that. As such, I make no metaphysical commitments (atleast, I don't think I do). 
+
 # Language
+
+Meta level on the way this entire article has been written in a language with what seems to be assumptions.
 
 The formalism assumption vs Natural language assumption.
 
@@ -349,6 +368,11 @@ Sources
 https://plato.stanford.edu/entries/progress/
 
 
+
+# Conclusion
+
+
+I may have failed to construct certain concepts that I still end up using such as "rational", "me" etc. but I don't have time to write an entire book on every concept and may go on to expand that later. We can simply take it that whenever I'm using an undefined concept, imagine it's constructed in such a way that it makes sense to consider its properties that I give it. 
 
 
 
@@ -436,3 +460,22 @@ But the sets are vague, and nothing says debates about the sets are any good to 
 
 
 
+
+
+
+
+
+
+# Old epistemology stuff might reuse
+
+
+With empiricist foundationalism or empiricist foundherentism, there is no knowledge which is based on intuitions, but only in lists of sense-data
+
+Phenomenal Justificatory Egalitarianism: Inspired by Phenomenal Conservativism, it states that we have no reason to take some regions of phenomenal experience as constituting special justification. This includes cognitive phenomenology. 
+
+
+The issue is the myth of the given, which is remedied with a foundherentist system, developed by Haack and mathematically formalized by Thagard. There is a coherence relation between theoretical propositions, formalized in logical systems (all of which is definitional and explicative, no intuitions are ever used for any of the inference rules)
+
+There are two kinds of justification, S-justification and C-justification, depending on if sense data is justifying a theory or if theories are justifying sense-data. But foundherentism takes a special privileged role to sense data (though tbh I think she doesn't use the term 'sense data' so this might be a mischaracterization) because sense data is what upholds something which would otherwise be fully Coherentism, and thus the typical problems of Coherentism which includes that a coherent set of propositions could just be fictional.
+
+Coherence function on a set of propositions and coherence relations, aswell as 5 optimization algorithms that try to maximize which propositions to put in a set to maximize coherence. Including a formalism of Haacks work

@@ -115,6 +115,11 @@ Trying to reach the tokens (from Boström superintelligence).
 Humans have done similar kinds of reward hacking. We may have been predisposed by the process of neo-darwinian evolution to enjoy sex since it is instrumentally useful for the "goal of evolution" to reproduce. In quotation because it's a non-teleological process. But with condoms we hacked the reward center of the brain with the hedonic pleasure felt at the moment of orgasm (for most humans, atleast, assuming one is not asexual).  
 
 
+Formal phenomenology
+
+"Clipping the risks integrating consciousness into AGI"
+
+
 
 # Is AI an existential risk?
 
