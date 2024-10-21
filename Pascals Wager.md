@@ -1,5 +1,8 @@
 
-yadayada
+
+Belief-dependent post-biological death phenomenal experience pleasure-pain ratio.
+
+Optimization: Believing in generic diety, not in dieties which deny those that believe in generic dieties... idk. 
 
 
 Causal vs Evidential decision theory. Does the causal one say "yes" and evidential "no"? Given that there's only one god and so on that eliminates other potential counterarguments

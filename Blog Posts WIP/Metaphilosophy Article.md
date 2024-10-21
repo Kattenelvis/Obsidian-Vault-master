@@ -147,98 +147,65 @@ However, from a decision theoretic standpoint, it can be good to establish a pro
 
 Given our construction of knowledge as distinguishability of worlds, justification is difficult to asses. As such this view doesn't get subject to any kind of Angrippan trilemma. The problem of the criterion too, as there's no need to "justify" the conceptual construction of knowledge this way, in any kind of substantive metaphysical universal "knowledge". But rather just as a means to the end of respecting external world skepticism.
 
-## The case for Phenomenal intentionality
+Memory skepticism: If we are FSTs we cannot generate the syntax we want in the Chomsky Hierarchy.
 
-To remain to the goal of constructing a PDS which admits to the goal of robustness against skepticism, we will advocate to include an account of phenomenal intentionality that is phenomenal and narrow. 
+## The case for phenomenal intentionality via cognitive phenomenology
 
-Since we've already discussed that intuitions and method of cases doesn't work, we can exclude arguments such as twin earth or gödel-schmitt cases immediately. We can still use them as intuition pumps, and explain narrow content.
+To pursue the goal of constructing a PDS which admits to the goal of robustness against skepticism, we will advocate to include an account of [Phenomenal Intentionality (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/phenomenal-intentionality/) that is phenomenal and narrow. Some PDS's might benefit from both, which is where 2D semantics come in. We could establish such, but for the goal of robustness against skepticism, it is better to pick 
 
-In the twin earth thought experiment, twin earth has something like water, but is a posteriori identical to XYZ instead of water. We presume that H2O $\neq$ XYZ. The narrow, phenomenal content of water is the color of water, the way it sounds, feels and so on. The idea is that Twin Earth Water is by narrow, phenomenal content identical to Earth Water, but it's "intuitively false" that they would have identical content. I reject the intuition. 
+Since we've already discussed that intuitions and method of cases doesn't work, we can exclude arguments such as twin earth or Gödel-Schmitt cases immediately. We can still use them as intuition pumps, and explain narrow content. In the twin earth thought experiment, twin earth has something like water, but is a posteriori identical to XYZ instead of water. We presume that H2O $\neq$ XYZ. The narrow, phenomenal content of water is the color of water, the way it sounds, feels and so on. The idea is that Twin Earth Water is by narrow, phenomenal content identical to Earth Water, but it's "intuitively false" that they would have identical content. I reject the intuition. 
 
-Content construed narrowly allows for much better theorizing about mental states, is the only one important for folk psychology, is more coherent with Chomskyian I-language and E-language etc.
+An argument for a particular kind of narrow content, namely phenomenal content, is to use cognitive phenomenology. 
 
-Putnam is utterly wrong. We have predictive world models of VR games. It can be the same in the world. A tree having properties $P_1,...P_n$ can be true in a virtual world just as well, with the added property of $P_{n+1}=$ "is digital". The causal theory of knowledge is weird anyways, and not what we're constructing anyways. 
+The three main views are the following [varieties of consciousness]: 
 
-In the end, we can just aswell be a brain in a vat, and perfectly 
-have knowledge regardless, from the experiences in the vat. 
+Primitivism: Cognitive phenomenology is just another kind of experience, just like vision, sight, etc. and cannot be reduced to other types of experiences nor eliminated as linguistic confusion.
 
+Reductionism: Cognitive phenomenology can be reduced to other experiences, such as vision and audio. 
 
-### Cognitive Phenomenology
+Eliminativism: Cognitive Phenomenology doesn't exist, and is merely linguistic confusion to use it that way.
 
-An argument for a particular kind of narrow content, namely phenomenal content, is to use cognitive phenomenology.
+I will argue for reductionism. We begin by taking a look at how primitivism could be modelled with formal phenomenology. We take it that the set of experiential points E = {V, A, T,...} for visual space V auditory space A and thought space T. I will argue that empirically, T is most likely reducible to V and A. The main argument will be appeal to mental images and inner thoughts.  people with aphantasia have predisposition to write it down, hence an experience. As such we make the following conjecture:
 
-Something very many people are wrong about, especially rationalists, is what thoughts are. Cognitive Phenomenology is the analysis of what it is like to experience thoughts. So much confusion has arisen from the belief that thoughts are different from other experiences. 
+There exists $a\subset A$ and $v\subset V$, such that $T=\{a,v\}$
 
-Reductionism
+The thought of a green patch and envisioning green patch are not different, it has been a long standing conceptual confusion that they're different. 
 
-Primitivism
-
-Phenomenal contrast cases
-[Phenomenal Intentionality (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/phenomenal-intentionality/)
-
-So in that case, mental content is nothing above and beyond their phenomenal content, i.e mental imagery, inner voice and sensations of ah-hah pleasures. We engineer the concept so as to exclude the many-to-one mappings and instead posit a one-to-one mapping, or even identity relation, between phenomenal content and mental content. 
-
-$T_1 = M_1, T_2=M_2, ..., T_n=M_n$
-
-Arguing for Reductionism
-
-Mental images and inner thoughts, people with aphantasia have predisposition to write it down, hence an experience. There are reasons to believe that there's no true aphantasiac, they usually just lack one or the other. 
-
-Conjecture: There exists $a\subset A$ and $v\subset V$, such that $T=\{a,v\}$
-
-
-
-An objection may be the "Ah-Hah!" Experience that some have reported[source]. I however argue the following:
-
-Conjecture: There exists $a\subset A$, $v\subset V$ and $p\subset P$ , such that $Ahhah! = \{v,a,p\}$
-
-
-
-Strawson
+As Strawson puts it:
 > To deny this [cognitive phenomenology], one must hold that the total lifelong character of our lived experience—everything that life is to us experientially—consists entirely of bare or pure sensation or feeling of one kind or another. It must, for example, be false to say that anguish at someone’s death includes _conscious comprehending believing entertaining_ of the proposition that he is dead. (Strawson 2011a: 295, italics in original)
 
-In a similar vein, Kriegel writes:
+Kriegel writes:
 
 > For my part, I am persuaded of the existence of cognitive experience […] most vividly by something like everyday experiential overwhelm: it simply seems that my inner life is much more interesting to me than it would be if my conscious experience consisted merely in perceptual experiences. (Kriegel 2011a: 50)
 
-The thought of a green patch and a green patch are not different, it has been a long standing conceptual confusion that they're different. It has also been purported to have different justificatory power, but by the phenomenal egalitarian principle, it would not be the case. They may be different justificatory for different theories but that's it. 
+An objection may be the "Ah-Hah!" Experience that some have reported[source]. However I think that is more or less the same, but perhaps with some sense of pleasure. As such we introduce pleasure space $P$ and argue for the following conjecture:
 
+There exists $a\subset A$, $v\subset V$ and $p\subset P$ , such that $Ahhah! = \{v,a,p\}$
+
+The important part of the argument from cognitive phenomenology is that it might imply that mental content is nothing above and beyond their phenomenal content (inner voices, mental imagery). We can engineer the concept of mental content so as to exclude the many-to-one mappings and instead posit a one-to-one mapping, or even identity relation, between phenomenal content and mental content. 
+
+$T_1 = M_1, T_2=M_2, ..., T_n=M_n$
+
+We can now go back to intuitions from our previous discussion, now that we can formalize what they are. 
+
+Something very many people are wrong about, especially rationalists, is what thoughts are. So much confusion has arisen from the belief that thoughts are different from other experiences. This can also be applied to a priori justification, as is done here [SEP article section etc]. A "thought" is just an inner voice or mental imagery and just another perception, there's no big difference between it. An "inner" voice is just as much of a phenomenal experience as an "outer" voice, as said earlier. As such the distinction between a priori justification and a posteriori justification disappears, leaving only a posteriori justification. Since no proposition is justified a priori, then no proposition is justified synthetic a priori, and since rationalism is defined here as the existence of a proposition that is justified synthetic a priori, then rationalism is false. We assume that rationalism being false implies empiricism is true, hence empiricism is true. 
+
+It has also been purported to have different justificatory power, but by the phenomenal egalitarian principle, it would not be the case. They may be different justificatory for different theories but that's it. There are reasons to believe that there's no true aphantasiac, they usually just lack one or the other. Why rely on the phenomenal experience of "intuition" rather than the phenomenal experiences of "regions of blue"? 
 
 We will come further with philosophy if we recognize thought as indistinct from sight and hearing. 
 
-We can now go back to intuitions from our previous discussion, now that we can formalize what they are.
-
-Formal phenomenology. E = {V, A, T,...} for visual space V auditory space A and thought space T. T is most likely reducible to V. In the book varieties of consciousness, there are two views primitivism and reductionism (and also eliminativism but let's assume that's false for thoughts). I take the reductionist route.
-
-Why rely on the phenomenal experience of "intuition" rather than the phenomenal experiences of "regions of blue"? 
-
-So I reject intuitions, the Ah-hah feeling, and cast skeptical reasoning towards a priori foundationalism, focuing on a empiricist foundherentism. 
-
-
-PIT, one-to-one mappings, cognitive phenomenology.
-
-
 ## Innateness of Concepts, conceptual reduction
 
+In the quest of robustness against skepticism I will propose a project of reducing all concepts to a small set of concepts about phenomenal consciousness. Other concepts may exist, but we're not interested in them. As Carnap states:
 
-Reducing all concepts to a small set of concepts in phenomenal consciousness. Other concepts may exist, but we're not interested in them.
+"In the case of many words, specifically in the case of the overwhelming majority of scientific words, it is possible to specify their meaning by reduction to other words ("constitution," definition). E.g., "'arthropodes' are animals with segmented bodies and jointed legs." .... In this way every word of the language is reduced to other words and finally to the words which occur in the so-called "observation sentences" or "protocol sentences."
 
-Fodor's view. It could be the case that there are innate concepts, in the sense of 
+Or John Locke
+> I think I need not go any farther in the Analysis of that complex Idea, we call a Lye: What I have said is enough to shew, that it is made up of simple Ideas: And it could not but be an offensive tediousness to my Reader, to trouble him with a more minute enumeration of every particular simple Idea, that goes into this complex one; which, from what has been said, he cannot but be able to make out to himself.
 
+Carnap suspected that all such concepts might be reducible all the way to a similarity relation $R$ between some sense data $s_1$ and $s_2$. For instance, a rectangle at coordinates $[x_1,x_2]$,$[y_1,y_2]$ with the same color at time $t$ and at time $t+1$ would count as similar to eachother. The reduction also included logical concepts as primitives, such as the typical propositional logic connectives $\neg,\lor,\land,\to$. In the most extreme case we might even propose a reduction of logical concepts? A sense data for instance: Either region A is blue or it is not the case that region A is blue. By forbidding the empty mind, we can always ensure that such an region A exists. In finitist set theory, which [I model phenomenal experience] in, there is no empty set, so it holds there.
 
-Reduction of logical concepts? A sense data for instance: Either region A is blue or it is not the case that region A is blue. By forbidding the empty mind, we can always ensure that such an region A exists (which we already do in finitist set theory). 
-
-Even if the traditional approach of reducing all concepts failed, we can consider that the only one's that are robust against external world skepticism, useful for that goal, then we're golden (though I'd have a hard time seeing how anything could not be reduced to experience). 
-
-Carnap:
-In the case of many words, specifically in the case of the overwhelming majority of scientific words, it is possible to specify their meaning by reduction to other words ("constitution," definition). E.g., "'arthropodes' are animals with segmented bodies and jointed legs." .... In this way every word of the language is reduced to other words and finally to the words which occur in the so-called "observation sentences" or "protocol sentences."13
-
-With our view on cognitive phenomenology, we should accept this even for logical conepts. A rational being may need to be bootstrapped with some concepts to develop new one, some critical mass of concepts needed for human-level concept understand and concept making. 
-
-
-We keep the traditional view of concepts, we can have a plurality of definitions, and definitions are described in formal systems given the goals of the system. 
-
-
+While such an extreme kind of reduction might not be possible for all concepts ever, we're interested in what concepts can be built up from such basic fundament.  (though I'd have a hard time seeing how anything could not be reduced to experience). 
 
 Example of conceptual reduction:
 
@@ -250,47 +217,28 @@ MEMORY is an imaginative process [source], and hence experiential. Mental image 
 
 One example in one paper was LIE into 4 other concepts find it and try to do it on the other 4
 
-
-
-Chomsky and Fodor can be right in that we may still be bootrapped as cognitive agents with certain concepts to which learn more concepts. But afterwards we can reduce them all to experiences anyways. Including logical concepts.
-
-Play a game with people: Ask them to give you a concept and see if you can reduce it.
-
-
-John Locke:
-> I think I need not go any farther in the Analysis of that complex Idea, we call a Lye: What I have said is enough to shew, that it is made up of simple Ideas: And it could not but be an offensive tediousness to my Reader, to trouble him with a more minute enumeration of every particular simple Idea, that goes into this complex one; which, from what has been said, he cannot but be able to make out to himself.
-
-
 > Unfortunately, it is all but obvious how to complete the analysis, breaking the concept down into simple, sensory components. As several authors have observed (Armstrong et. al. 1983 [chapter 10], Fodor 1981), it isn't even clear that definitions such as the one suggested by Locke bring us any closer to the level of sensory concepts than the concept under analysis. Are the concepts SPEAKER, AFFIRMATION, NEGATION, or STANDING FOR really any closer to the sensory level than the concept LIE?
 
-Let's play the game!
+Play a game with people: Ask them to give you a concept and see if you can reduce it. Let's play the game with the concept LIE!
+$$Sp(a)\leftrightarrow \diamondsuit\exists p Ut(a,p)$$Where $Ut$ is the "Utters" predicate. Utterance is perception of sound in a certain way, which reduces to sounds and thoughts and we've shown how thoughts are reducible to audio and sounds. 
 
-$$Sp(a)\leftrightarrow \diamondsuit\exists p Ut(a,p)$$ Where $Ut$ is the "Utters" predicate. Utterance is perception of sound in a certain way, which reduces to sounds and thoughts and we've shown how thoughts are reducible to audio and sounds. 
+While we could play the game of attempting to find the definition for it which eventually reduces down to phenomenal experience, we can instead focus on building them bottom-up. This may mean we leave out some everyday concepts and that the new concepts don't align up with folk concepts. We won't necessary get anywhere otherwise, for people's folk concepts differs, hence the reduction to experience (not to mention the possibility of inverse qualia, meaning that descriptions of experience could differ in ways that cannot be properly explicated by individual experiences). For instance, in the reduction of speaker in my example above, someone you reading this may have alternative intuitions over whether this is the case, and perhaps come up with some "counter-intuition" to it. I argue that this is fine, you have $Sp_2(a)$, a different speaker concept which can be reduced to concepts about phenomenal experience like the rest. 
 
-Descriptions are generic, but there can be a many-to-one function from content to phenomenal experience [[Phenomenal Intentionality (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/phenomenal-intentionality/#many-one)]
+**If you come up with any concept you think can't be reduced, comment it below and I'll try to reduce it the best I can.**
 
-While we could play the game of attempting to find the definition for it which eventually reduces down to phenomenal experience, we can instead focus on building them bottom-up. This may mean we leave out some everyday concepts and that the new concepts don't align up with folk concepts. We won't necessary get anywhere otherwise, for people's folk concepts differs, hence the reduction to experience (not to mention the possibility of inverse qualia, meaning that descriptions of experience could differ in ways that cannot be properly explicated by individual experiences). For instance, in the reduction of speaker in my example above, someone you reading this may have alternative intutions over whether this is the case, and perhaps come up with some "counter-intuition" to it. I argue that this is fine, you have $Sp_2(a)$, a different speaker concept which can be reduced to concepts about phenomenal experience like the rest. 
+Note that what I've said above is not about how we learn concepts psychologically. A being capable of developing concepts and rational reasoning may need to be bootstrapped with some concepts to develop new one, some critical mass of concepts needed for human-level concept understand and concept making. We could take Fodor's view to be the case that there are innate concepts, in the sense of "biological bootstrapping". But we can simply build up the concepts from the ground up, after we've learnt about phenomenal experience. We may need Neurath's boat to float, but we can always build a new smaller one from scratch on the side. Chomsky and Fodor can be right in that we may still be bootrapped as cognitive agents with certain concepts to which learn more concepts. But afterwards we can reduce them all to experiences anyways. Including logical concepts.
 
-
-If you come up with any concept you think can't be reduced, comment it below and I'll try to reduce it the best I can.
-
-
-A problem with continental philosophy is that they often run around in conceptual circles, with no foundation in experience. A skeptic could thus challenge the foundation of such a concept. 
-
-
-
-
-Some say science may involve public objects, but there are no truly public objects. One can experience $E$, form the belief that $E$ applies to concept "Human pointing at a dial which reads 23.4" and conclude that "public object" is somehow reducible to this. But I'm positing that the idea it has to be external is wrong. The best hypothesis is that two human-like consciousnesses $E_1\in E$ and $E_2\in E$, have some subset $O_1\subset E_1$ and $O_2\subset E_2$. 
+As an objection to the view, some say science must involve public objects. I will argue that "public objects" in a way robust against skepticism doesn't work, we have to adopt methodological solipsism the way Carnap did. One can experience $E$, form the belief that $E$ applies to concept "Human pointing at a dial which reads 23.4" and conclude that "public object" is somehow reducible to this. But I'm positing that the idea it has to be external is wrong. The best hypothesis is that two human-like consciousnesses $E_1\in E$ and $E_2\in E$, have some subset $O_1\subset E_1$ and $O_2\subset E_2$. 
 
 The possibility of semi-public objects are worth considering. Imagine for instance, three people of which one is colorblind looking at a 3 that the color blind person cannot see. Sometimes paranormal stuff where only some people see them can be considered semi-public, but that might be for other reasons. 
 
-
-
 # Ontological Commitment and metametaphysics
 
-As part of the goal, concepts will be constructed grounded in sense-data, just as in Carnap's aufbau. This will make the theory robust against external world skepticism, and makes sure that the account holds no metaphysical assumptions (and I really mean none, we might get back to this). Theories $T$ as part of PDS's may include any quantification realm, but never committed to it. 
+Concepts will be constructed grounded in sense-data, just as in Carnap's aufbau. This will make the theory robust against external world skepticism, and makes sure that the account holds no metaphysical commitments other than the existence of phenomenal experience. 
 
-Quinean commitments on reality as it is, leads to arguments about the existence of mountains. Mereological argument:
+But how should we characterize ontological commitment? Can theories $T$ as part of PDS's may include any quantification realm, but don't commit to existence of its domain or ontology of objects?
+
+Quine argued against such a view. Quinean commitments on reality as it is, leads to arguments about the existence of mountains. Mereological argument:
 
 $T=\{$Mountains are composites, No composites exist$\}$
 
@@ -307,6 +255,8 @@ We can formulate probabilistic arguments for Boltzmann brains and the Simulation
 Speculative metaphysics from premises is thus an epistemically inferior way of characterizing philosophy as a PDS, though I can see it plausibly work for that. I really work towards a more critical, guided by the limit of phenomenal experience, in a way some may perhaps could consider (neo)-Kantian metaphysics. 
 
 With a Carnapian view then, I don't have to accept my PDS as the ultimate truth or anything like that. As such, I make no metaphysical commitments (atleast, I don't think I do). 
+
+I'm starting to think Carnaps linguistic frameworks is the same as my PDS
 
 # Language
 
@@ -368,6 +318,8 @@ Sources
 https://plato.stanford.edu/entries/progress/
 
 
+
+But don't I risk trivializing the view if anything falls under it? Am I not just saying "Philosophy, science and math are all done within a language?". Yes, that is what I'm saying, and languages are formalizable. 
 
 # Conclusion
 
@@ -479,3 +431,13 @@ The issue is the myth of the given, which is remedied with a foundherentist syst
 There are two kinds of justification, S-justification and C-justification, depending on if sense data is justifying a theory or if theories are justifying sense-data. But foundherentism takes a special privileged role to sense data (though tbh I think she doesn't use the term 'sense data' so this might be a mischaracterization) because sense data is what upholds something which would otherwise be fully Coherentism, and thus the typical problems of Coherentism which includes that a coherent set of propositions could just be fictional.
 
 Coherence function on a set of propositions and coherence relations, aswell as 5 optimization algorithms that try to maximize which propositions to put in a set to maximize coherence. Including a formalism of Haacks work
+
+
+
+
+
+
+
+
+
+Putnam is utterly wrong. We have predictive world models of VR games. It can be the same in the world. A tree having properties $P_1,...P_n$ can be true in a virtual world just as well, with the added property of $P_{n+1}=$ "is digital". The causal theory of knowledge is weird anyways, and not what we're constructing anyways. 
