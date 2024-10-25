@@ -1,38 +1,33 @@
-# Formal Meta-Philosophy
-
+I would like to say in addition that philosophy is best done in a precise way which analyzes phenomenal consciousness and builds up all concepts with phenomenal concepts as its foundation which is also first philosophy, some kind of Empiricist Foundationalism.
 # Propositional Derivational Systems
 
-In its highest generality, philosophy, science and mathematics is about arguments from premises to conclusions. This includes observation sentences. Philosophy, science, mathematics and other similar studies will be named "propositional derivative systems" to indicate their foundation in formal logic. 
+In its highest generality, philosophy, science and mathematics is about arguments from premises to conclusions. This includes observation sentences. Philosophy, science, mathematics and other similar studies will be named "propositional derivative systems" to indicate their foundation in formal logic. They are similar to Carnaps' linguistic frameworks [Empiricism, Semantics, and Ontology](https://www.ditext.com/carnap/carnap.html).
 
-To formalize this notion we fix a formal system $S$ for some language $L$ for which to formalize some argument in. The structure of $L$ can remain vague for now. It can be the languages for propositional logic, a first order logic, second order, modal logic etc. $S$ can also remain vague, whether (under a propositional language) classical, intuitionistic, paraconsistent etc. or however it deals with quantifiers, identity etc. This allows us to not accidentally include hidden assumptions made in applying formal systems to theories., such as for instance, non-Meinongian quantification in standard first order logic (which could in principle be remedied by adding an existence predicate [Nonexistent Objects (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/nonexistent-objects/#ConcNoneObje)). 
+To formalize this notion we fix a logic $S$ for some language $L$ for which to formalize some argument in. The structure of $L$ can remain vague for now. It can be the languages for propositional logic, a first order logic, second order, modal logic etc. $S$ can also remain vague, whether (under a propositional language) classical, intuitionistic, paraconsistent etc. or however it deals with quantifiers, identity, inference rules, deductive system etc. This allows us to not accidentally include hidden assumptions made in applying formal systems to theories., such as for instance, non-Meinongian quantification in standard first order logic (which could in principle be remedied by adding an existence predicate [Nonexistent Objects (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/nonexistent-objects/#ConcNoneObje)). 
 
 In general, it will include formulas built up inductively from atomic formulas and grammatical rules, aswell as a set of inference rules. Some theory $T$ in $S$ holds the non-logical axioms of which an argument is formalized as. $T$ would then contain for instance, the axioms of $ZFC$ which are the premises of the conclusions in classical mathematics, $T$ may contain the postulates of quantum mechanics and definitions of observables which allows one to derive observation sentences describing the experiments, $T$ can be Reichenbach's axiomatic formalization of special relativity, $T$ may be the list of axioms in integrated information theory, $T$ can be Spinoza's axioms or $T$ can just be a small simple argument, for instance the cosmological argument or the no miracles argument. 
 
-We also get the logical closure of $T$ as $C(T)$ which include all derivations of $T$ given the inference rules in $S$ that $T$ is in. 
+We also get the logical closure of $T$ as $C(T)$ which include all derivations of $T$ given the inference rules in $S$ that $T$ is in. If $T$ is the empty set, then $C(T)$ will just be the tautologies of the system.
 
-We get a definition of philosophy as the set of all such theories
-Philosophy$=_{df} \{T_1,\dots T_n\}$
+We get a definition (where $=_{df}$ stands for "identical by definition) of philosophy as the set of all such theories:
 
-Or for some arbitrary indexing set, for instance if there's some one-to-one mapping from some infinite cardinal to possible theories in all languages and systems:
+$Philosophy=_{df} \{T_1,\dots T_n\}$.
 
-Philosophy$=_{df} \{T_i\}_{i\in I}$
+In the case of the set being larger than finite $n$, we can have some arbitrary indexing set $I$, for instance if there's some one-to-one mapping from some infinite cardinal to possible theories in all languages and systems:
+
+$Philosophy=_{df} \{T_i\}_{i\in I}$
 
 Carnap distinguishes the analytic and synthetic in a way which is not critiqued by Quine's dogmas. Whenever we have a fixed system in some language, we can take it that the tautologies are the analytic statements and anything derived from an axiom in some theory $T$ is synthetic. 
 
-We may distinguish philosophy from other propositional derivational systems such as science and mathematics in that it generally lacks observation statements while also containing synthetic propositions.
+Notably, by these definitions, mathematics is synthetic. Note that it might seem like we're assuming some kind of Logicism, or perhaps [Hilbert's thesis], the idea that mathematics is reducible to ZFC. But no, all of mathematics don't have to reduce to a single PDS. 
 
-Notably, by these definitions, mathematics is synthetic. Note that this might assume Hilbert's thesis, the idea that mathematics is reducible to ZFC, which is usually taken for granted but may not be the case. However, the view may assume a logicist view on mathematics, nor Hilbert's thesis. 
+We may distinguish philosophy from other propositional derivational systems such as science and mathematics in that it generally lacks observation statements while also containing synthetic propositions. 
 
-Note also that for scientific theories, it is not a restriction on scientific methodology. Fully formalized science is compatible with even Feyarabendian approaches to method restrictions (i.e the empty restriction) so long as theories are formalized. It might then seem to assume the syntactic structure of scientific theories, though with the right ZFC axioms in conjunction with the scientific theory we could easily accommodate the semantic view aswell, and all modern mathematics. Sometimes axiomatizations may require $S=$ second order logic or higher. Natural language is not special, the pragmatic account of scientific theories can likely also be accommodated. 
+Note also that for scientific theories, this is not to be taken as a restriction on scientific methodology. Fully formalized science is compatible with even Feyarabendian approaches to method restrictions (i.e the empty restriction) so long as theories are formalized. It might then seem to assume the syntactic structure of scientific theories, though with the right ZFC axioms in conjunction with the scientific theory we could easily accommodate the semantic view aswell, and all modern mathematics. Sometimes axiomatizations may require $S=$ second order logic or higher. Natural language is not special, the pragmatic account of scientific theories can likely also be accommodated. 
 
-I will argue that there is no genuine division between the propositional derivational systems science, mathematics and philosophy. Mathematical objects reduce to cognitive phenomenology. As such the propositional derivational systems can only be meaningfully reducible to sense-data, and thus "checkable from skepticism" if they reject the law of double negation (since we cannot think nor experience contradictory mathematical objects) 
+There is no genuine division between the PDSs that are considered parts of "science", "mathematics" and "philosophy". The content may differ, but they make more of a familiar resemblance then a strict separation. Perhaps we could define mathematical PDSs as those not containing observation sentences, however since observation sentences are simply formal sentences, they are not genuinely different.  
 
-
-Inspired by Sneed's project, We can define a natural history of certain propositional derivational systems as the adding of $T$'s 
-
-Historicism: More and more are added over time, adding to our collection of philosophies. A philosophy $T$ can be understood as adding to or negating a previous one. A full definition can be found in [structuralism in physics SEP].
-
-Example for a philosophy themed propositional derivational system:
+Example for a philosophy themed PDS:
 
 Descartes:
 
@@ -40,34 +35,33 @@ $T=\{ \diamondsuit\neg \exists x Hand(x), \diamondsuit\neg \exists x Hand(x)\to 
 
 $\{\neg K(\exists x Hand(x))\}\in C(T)$ (By modus Ponens)
 
-Moorean Shift:
+Another theory in the same language and formal system (which in this case is a Moorean shift):
 
 $T'=\{ K(\exists x Hand(x)), \diamondsuit\neg \exists x Hand(x)\to \neg K(\exists x Hand(x)) \}$
 
 $\{\neg \diamondsuit\neg \exists x Hand(x))\}\in C(T)$ (By modus tollens)
 
-I have been thinking of just how many notions this can fall under. Literature may also fall under it, though as an induction schema as we translate the piece of literature into a theory $T$. Art in general too, as we can simply formalize the experience of the art into formal phenomenology. Application areas are likely limited, though could be used to find inconsistencies in worldbuilding (however for sufficiently long novels this becomes untenable due to the exponential time complexity of derivational algorithms that check every consequence, not to mention possible incompleteness if the novel can derive sufficient arithmetic). It's worth noting that this may not be useful, even if it possible to do. But for my project it suffices that it's in principle possible, not whether it's useful for applications. 
+One could apply something like [Sneed's project], We can define a natural history of certain propositional derivational systems as the adding or negating propositions in $T$. A full exploration of how this can be applied will not be covered here. 
 
-It may be applicable to a kind of formalized Hermeneutics, where over time a finished formalism is done:
+Just how many notions this can PDS's fall under? Literature may also fall under it, though as an induction schema as we translate the piece of literature into a theory $T$. Art in general too, as we can simply formalize the experience of the art into formal phenomenology. Application areas are likely limited, though could be used to find inconsistencies in worldbuilding (however for sufficiently long novels this becomes untenable due to the exponential time complexity of derivational algorithms that check every consequence, not to mention possible incompleteness if the novel can derive sufficient arithmetic). It's worth noting that this may not be useful, even if it possible to do. But for my project it suffices that it's in principle possible, not whether it's useful for applications. 
+
+PDS may be applicable to a kind of formalized Hermeneutics, where over time a finished formalism is done:
 Adding propositions $T' = T\cup \{p\}$ 
 Removing contradictions: $T' = T / \{p\} \cup \{\neg p\}$
 Etc.
 
-It's worth noting that I'm not doing a rational reconstruction, or faithful reconstruction, of what mathematicians, scientists or philosophers actually do, for it is unimportant and those without proper foundations should be pointed out as having none. This is not sociology. I do not think that it's important that there just so happen to be humans who just so happen to be mathematicians, philosophers or scientists who just so happen to do things which also contradicts the philosophy presented in this article. In that case, the individual should be rejected or atleast it should be pointed out that they're not grounding it in phenomenal experience. It might not have been humans doing philosophy. Humans are just a mere contingency, a tiny speck in the space of possible minds. Things could have been different, and a philosophical system should ground itself only in what is completely evidently given i.e sense data. 
+It's worth noting that I'm not doing a rational reconstruction, or faithful reconstruction, of what mathematicians, scientists or philosophers actually do, for it is unimportant and those without proper foundations should be pointed out as having none. This is not sociology. I do not think that it's important that there just so happen to be humans who just so happen to be mathematicians, philosophers or scientists who just so happen to do things which also contradicts the philosophy presented in this article. Regarding anthropocentric reasoning, it might not have been humans doing philosophy. Humans are just a mere contingency, a tiny speck in the space of possible minds. 
 
 Some may wonder if there is there an explanation for why natural language is used in philosophy at all? NP-hardness makes searching the space of possibly philosophies extremely time consuming, and has to be efficient by algorithms searching through that space in P-time, which humans seem to be decent at? There's obviously a combinatorial explosion of possible philosophies, and diminishing the search space is efficient and useful. There is an assumption that philosophy is to be done in natural language. I will call this the NL-assumption. I will contend that the NL-assumption is false. 
 
-We can define positivism as the view that all propositional derivation systems are mathematical or scientific, with no extra categories. But how could philosophy differ if it does? As machery says:
+We can define positivism as the view that all propositional derivation systems are mathematical or scientific, with no extra categories. But how could philosophy differ if it does? As Machery says:
 
 > For much of the history of philosophy, philosophers could not have imagined their philosophizing as separate from not only mathematics, but also the empirical sciences.
 
--Machery Philosophy within its proper bounds
+- Machery Philosophy within its proper bounds
 
 This analysis of concepts could be what philosophy differs from science and mathematics. Conceptual analysis is done withing T's which would include intuition statements (which would probably be similar to observation statements in science). There may be no special conceptual analysis that makes Philosophy a distinct propositional derivational system. 
-
-Someone [who?] has argued that the english mereologists use is not quite english. I will argue for the Formal Language assumption FL-assumption as true. I would like to say in addition that philosophy is best done in a precise way which analyzes phenomenal consciousness and builds up all concepts with phenomenal concepts as its foundation which is also first philosophy, some kind of Empiricist Foundationalism.
-
-# Do concepts makes philosophy different?
+# Concepts
 
 Conceptual analysis is a possible hypothesis on what makes philosophy different from other PDS. How can we characterize concepts, and is it actually different from science?
 
@@ -90,13 +84,11 @@ The problematic intuition of the case in the possible world where the JBT is not
 
 ## Experimental philosophy
 
-The idea is to test intuitions on lay people. Are horribly dependent on irrational factors such as someone's sex, ethnicity or age. While I said I wasn't going to do sociology. hmm wait.
+The idea is to test intuitions on lay people. Are horribly dependent on irrational factors such as someone's sex, ethnicity or age. 
 
 Expertise defense states that there exists some special skill and/or talent philosophers have which has allowed them more fine-tuned intuitions which are actually true, just like fine-calibrating a scientific instrument to get the best scientific data. 
 
 Turns out most lay-people intuitions still apply to experts [Source]. Expert philosophers are bad at modal reasoning, if anything, mathematicians are the modal experts [Source]. Extrovert lay people are just as more likely to believe in free will than introverts as is the case for professional philosophers. 
-
-
 
 ## Conceptual Engineering, Method of Cases 2.0 and Familiar Resemblance
 
@@ -107,17 +99,6 @@ On a side-note, and potentially a fairly controversial one, is my view of gender
 One could explicate all concepts to be reducible to sense-experience, or as long descriptions of sense data, as this serves our goal of being robust against skeptical problems. 
 
 I also think that typically, the main reason there's disagreement is philosophy is because different agents hold slightly different unclarified folk-concepts. It's typically when concepts are clarified, observation sentences based on those concepts are derived and checked or falsified, as they are in the sciences, that agreement is reached. The conceptual constructions are standardized between individuals. I think the same does happen in philosophy a lot more often than people give credit for.
-
-In this regard, philosophical PDS it's no different from scientific PDS.
-
-Some words on the familiar resemblance theory of concepts: 
-It stanky
-
-
-Carnap
-Chalmers
-Machery
-
 
 # Skeptical problems and Phenomenalism
 
@@ -143,12 +124,9 @@ Memories and change in experiences promote a set of experiences over time $E_1,.
 
 A more general such semantics which has already been developed is dynamic semantics. Dynamics semantics does this on general possible worlds. This is preferable, given that we might want to model hypothesizes of things which are not phenomenal experience existing independently of phenomenal experience. As such, the set of indistinguishable worlds has become huge, and this is the same as underdetermination of hypothesizes. Experiences and memories of experiences can always be accommodated by a very large number of possible worlds, such as the [pea soup hypothesis] which is an infinite number of indistinguishable possible worlds. Imagine that at any radius $r$, everything outside of that is just pea soup which just so happen to look like the external world. One can see that any set of experiences and memories of experiences holds this entire set of worlds as indistinguishable. We accept this result, and take no steps to remove it or resolve it with ad-hoc values like "simplicity" or similar options. 
 
-However, from a decision theoretic standpoint, it can be good to establish a probability distribution over possible worlds, even if they are technically indistinguishable. Any rational individual must hold their credence's up to the laws of probability theory, lest be subject to [dutch books], which are guaranteed loosing bets. This includes the diachronic Dutch books, which state that rational agents updates their beliefs using Bayesian inference. And one good weighing of one's priors might be based on simplicity, such as minimized ontology of the hypothesis, for instance as adding one more existing thing decreases the probability of being correct. AIXI works on the basis that its prior probabilities are distributed over the one's with minimum Kolmogorov complexity, i.e the shortest computer program that can compute all the facts about that world (but that only works for computable possible worlds).  
+However, from a decision theoretic standpoint, it can be good to establish a probability distribution over possible worlds, even if they are technically indistinguishable. Any rational individual must hold their credence's up to the laws of probability theory, lest be subject to [dutch books], which are guaranteed loosing bets. This includes the diachronic Dutch books, which state that rational agents updates their beliefs using Bayes's formula. One good weighing of one's priors might be based on simplicity, such as minimized ontology of the hypothesis, for instance as adding one more existing thing decreases the probability of being correct. AIXI works on the basis that its prior probabilities are distributed over the one's with minimum Kolmogorov complexity, i.e the shortest computer program that can compute all the facts about that world (but that only works for computable possible worlds).  
 
 Given our construction of knowledge as distinguishability of worlds, justification is difficult to asses. As such this view doesn't get subject to any kind of Angrippan trilemma. The problem of the criterion too, as there's no need to "justify" the conceptual construction of knowledge this way, in any kind of substantive metaphysical universal "knowledge". But rather just as a means to the end of respecting external world skepticism.
-
-Memory skepticism: If we are FSTs we cannot generate the syntax we want in the Chomsky Hierarchy.
-
 ## The case for phenomenal intentionality via cognitive phenomenology
 
 To pursue the goal of constructing a PDS which admits to the goal of robustness against skepticism, we will advocate to include an account of [Phenomenal Intentionality (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/phenomenal-intentionality/) that is phenomenal and narrow. Some PDS's might benefit from both, which is where 2D semantics come in. We could establish such, but for the goal of robustness against skepticism, it is better to pick 
@@ -165,7 +143,7 @@ Reductionism: Cognitive phenomenology can be reduced to other experiences, such 
 
 Eliminativism: Cognitive Phenomenology doesn't exist, and is merely linguistic confusion to use it that way.
 
-I will argue for reductionism. We begin by taking a look at how primitivism could be modelled with formal phenomenology. We take it that the set of experiential points E = {V, A, T,...} for visual space V auditory space A and thought space T. I will argue that empirically, T is most likely reducible to V and A. The main argument will be appeal to mental images and inner thoughts.  people with aphantasia have predisposition to write it down, hence an experience. As such we make the following conjecture:
+I will argue for reductionism. We begin by taking a look at how primitivism could be modelled with formal phenomenology. We take it that the set of experiential points $E = \{V, A, T,...\}$ for visual space $V$ auditory space $A$ and thought space $T$. I will argue that empirically, $T$ is most likely reducible to $V$ and $A$. The main argument will be appeal to mental images and inner thoughts.  people with aphantasia have predisposition to write it down, hence an experience. As such we make the following conjecture:
 
 There exists $a\subset A$ and $v\subset V$, such that $T=\{a,v\}$
 
@@ -238,6 +216,8 @@ Concepts will be constructed grounded in sense-data, just as in Carnap's aufbau.
 
 But how should we characterize ontological commitment? Can theories $T$ as part of PDS's may include any quantification realm, but don't commit to existence of its domain or ontology of objects?
 
+If we're talking about the subset of PDS's that are in the language of first order logic (and others with quantification over objects in some way), the models hold the objects. But any $T$ will be satisfied by an arbitrary set of models using for instance the push-through construction [source]. We can always swap around the objects, constants and so on and keeping the theory satisfied with appropriate changes to predicates etc. Finding some arbitrary subset of "intended" models is arbitrary. Instead proposing a kind of structuralism, where the structures are what's important. Structuralism can thus work for both scientific, mathematical and philosophical PDS's. 
+
 Quine argued against such a view. Quinean commitments on reality as it is, leads to arguments about the existence of mountains. Mereological argument:
 
 $T=\{$Mountains are composites, No composites exist$\}$
@@ -248,45 +228,35 @@ So a consequence of this theory in a system which allows modus ponens yields "Th
 
 I will hence forth reject that any $T$ has privileged access to reality and is the true nature of it. I adopt a Carnapian view that existence just follows trivially from a theory. Let's say we formalize geology axiomatically as $G$ in some formal system. It's likely a consequence of $G$ that mountains exist. Geologists may not use $G$ though, as it may turn out a better theory for their goals is $G'$ which doesn't have that implication
 
-
-We can formulate probabilistic arguments for Boltzmann brains and the Simulation Hypothesis. However I will argue that this doesn't quite work. Both aforementioned assumes an upper world with the same laws as the experiential one. 
-
-
 Speculative metaphysics from premises is thus an epistemically inferior way of characterizing philosophy as a PDS, though I can see it plausibly work for that. I really work towards a more critical, guided by the limit of phenomenal experience, in a way some may perhaps could consider (neo)-Kantian metaphysics. 
 
 With a Carnapian view then, I don't have to accept my PDS as the ultimate truth or anything like that. As such, I make no metaphysical commitments (atleast, I don't think I do). 
 
-I'm starting to think Carnaps linguistic frameworks is the same as my PDS
-
+We can also look into scientific reductionism, such as Hempel-Schaffer reduction. If we have a scientific theory $T_b$ and a scientific theory $T_t$, we can say that if $T_b\vdash T_t$  then $T_b$ reduces $T_t$. The idea of such a reduction is that the theorems of $T_t$ is derivable using the inference rules in $\vdash$ from the bottom theory $T_b$. Keeping in mind the need for all theories to derive observation sentences to be confirmable or disconfirmable. Eventually one could form a long chain of theories with a bottom one, of which the ontology of the most fundamental theory $T_{fund}$ can be the ontology one commits to (for instance, the strings in string theory). This possibility assumes quite a few things of course, such as that theories are reducible this way and not "emergent" (emergence with the definition of supervenience without reduction) aswell as mereological nihilism. 
 # Language
 
-Meta level on the way this entire article has been written in a language with what seems to be assumptions.
+Meta level on the way this entire article has been written in a language with what seems to be assumptions. I have been making assumptions regarding the formalizability of philosophy. I will hereby state that there are two broad claims:
 
-The formalism assumption vs Natural language assumption.
+1. The Formal Language claim
+2. Natural language assumption.
 
-With the rise of Ideal language philosophy and Ordinary Language philosophy, no more substantive claims. 
+These can both be in turn have different versions such as possibilism i.e philosophy can in principle be formalized, or normative claim that it ought to be formalized and even a necessity claim that philosophy necessarily involves formalism (and that what is commonly called philosophy done before formal logic is not philosophy, or only a proto philosophy). I will argue for the necessity claim. 
 
-Substantive/Naturalized philosophy can make comeback. Philosophy is more than no substantial claims. Maybe idk... 
+Here's a great quote from Kriegel:
+> let it suffice to say that Rudolf Carnap’s Der logische Aufbau der Welt is like a breath of fresh air and that it is a paradigm case example of what philosophy should be like in the future. Indeed, this is my prediction: 80 years from now no philosopher will get away with doing philosophy without logical and mathematical means; it would be like doing modern theoretical physics without mathematics. There will be no trivial arguments, no hidden assumptions, no talking at cross purposes. Philosophy will be done in the way in which this young German does it, for it is the only way in which philosophy will make progress. I hear you say But there is no progress in philosophy—if only Carnap’s book had come out 80 years earlier…'
 
-Ideal language vs Ordinary article here, all of philosophy would then be analytic.
+With the rise of Ideal language philosophy and Ordinary Language philosophy, no more substantive claims. Substantive/Naturalized philosophy can make comeback. Philosophy is more than no substantial claims. Ideal language vs Ordinary article here, all of philosophy would then be analytic. As such I think of a combination of ideal and substantive philosophy, and a rejection of ordinary language. 
 
-As such I think of a combination of ideal and substantive philosophy, and a rejection of ordinary language. 
+A potential problem with talking about phenomenal experiences is that it may fall under the private language argument. I will argue that the argument not just fails to establish languages used for theories which are robust to skepticism, but also that public languages are the actually incoherent pseudo-languages which are at best supervenient on private languages. 
 
-Chomsky I-language and E-language. Rejecting the private language argument. 
+Chomsky's idea is a distinction of I-language and E-language. The I-language is the intentional, internal or private language, E-languages is the extentional, external or public language. 
 
-Rejecting Kripkenstein. 
-
-
-Semantic Phenomenalism
-
+Skeptical worries of the robustly skeptical theory T being inconsistent can be solved in two ways: Either we prove the consistency within the system, we accept paraconsistency. We could also simply accept that an inconsistency is possible, which is what most mathematicians have done with ZFC.
 
 ![[Frame 4.png]]
 
-Skeptical worries of our system being inconsistent can be solved in two ways: Either we prove the consistency within the system, we accept paraconsistency. We could also simply accept that an inconsistency is possible, which is what most mathematicians have done with ZFC.
 
-A skeptic may ask if the philosophical system is self-consitent. 
-
-We can almost certiantly say natural language is inconsistent. We can prove the consistency of formal systems with sufficient arithmetic only from stronger systems which retain sufficient arithmetic. What remains are a set of small languages which can define their own truth predicate and prove their own consistency, such as Pressburger Arithmetic.  
+We can almost certainty say natural language is inconsistent. We can prove the consistency of formal systems with sufficient arithmetic only from stronger systems which retain sufficient arithmetic. What remains are a set of small languages which can define their own truth predicate and prove their own consistency, such as Pressburger Arithmetic.  
 
 To truly stave it off, then, we may have to look into formalizing our philosophical system within a system which cannot express sufficient arithmetic, which can be done in many ways.
 
@@ -294,18 +264,19 @@ A possible objection is that a philosophical theory $T$ would include some kind 
 
 > "Even a world corresponding to a Gödel-complete mathematical structure could in could in principle contain observers capable of thinking about Gödel-incomplete mathematics, just as [finite-state digital computers](https://en.wikipedia.org/wiki/Turing_machine "Turing machine") can prove certain theorems about Gödel-incomplete formal systems like [Peano arithmetic](https://en.wikipedia.org/wiki/Peano_arithmetic "Peano arithmetic")."
 
-
-
-Conlangs demonstrate that natural languages are not all they're painted to be, and we'd be so much freer if we used a larger range of possible languages. 
-
+We may thus very well be able to formulate a philosophical PDS such that it lacks the arithmetic needed for those theorems to apply, thus allowing it to only talk about itself without any meta-philosophy. Thus, all that I have said is largely redundant, which in some way reminds me of the ending of Tractatus where you climb the ladder just to kick it down.
 
 PDS's can thus be completely self-contained, without reference to the larger project. Those languages can be built up from the inside, without a meta language. 
 
+But don't I risk trivializing the view if anything falls under it? Am I not just saying "Philosophy, science and math are all done within a language?". Yes, that is what I'm saying, and languages are formalizable. 
+
+The holy grail would be a theory that implies all observation sentences and that can express and prove it's own consistency and completeness. 
+# Conclusion
+I may have failed to construct certain concepts that I still end up using such as "rational", "me" etc. but I don't have time to write an entire book on every concept and may go on to expand that later. We can simply take it that whenever I'm using an undefined concept, imagine it's constructed in such a way that it makes sense to consider its properties that I give it. 
 
 
-So in a sense, philosophy is a highly technical branch of STEM. I condemn the rest as semi-philosophy, or semi-formal philosophy. 
 
-Sources
+# Sources
 
 [[Metaphilosophy Constructive Article]]
 
@@ -319,19 +290,11 @@ https://plato.stanford.edu/entries/progress/
 
 
 
-But don't I risk trivializing the view if anything falls under it? Am I not just saying "Philosophy, science and math are all done within a language?". Yes, that is what I'm saying, and languages are formalizable. 
-
-# Conclusion
-
-
-I may have failed to construct certain concepts that I still end up using such as "rational", "me" etc. but I don't have time to write an entire book on every concept and may go on to expand that later. We can simply take it that whenever I'm using an undefined concept, imagine it's constructed in such a way that it makes sense to consider its properties that I give it. 
-
-
 
 
 # Others
 
-let it suffice to say that Rudolf Carnap’s Der logische Aufbau der Welt is like a breath of fresh air and that it is a paradigm case example of what philosophy should be like in the future. Indeed, this is my prediction: 80 years from now no philosopher will get away with doing philosophy without logical and mathematical means; it would be like doing modern theoretical physics without mathematics. There will be no trivial arguments, no hidden assumptions, no talking at cross purposes. Philosophy will be done in the way in which this young German does it, for it is the only way in which philosophy will make progress. I hear you say But there is no progress in philosophy—if only Carnap’s book had come out 80 years earlier…'
+
 
 
 
@@ -440,4 +403,30 @@ Coherence function on a set of propositions and coherence relations, aswell as 5
 
 
 
-Putnam is utterly wrong. We have predictive world models of VR games. It can be the same in the world. A tree having properties $P_1,...P_n$ can be true in a virtual world just as well, with the added property of $P_{n+1}=$ "is digital". The causal theory of knowledge is weird anyways, and not what we're constructing anyways. 
+Putnam is  wrong. We have predictive world models of VR games. It can be the same in the world. A tree having properties $P_1,...P_n$ can be true in a virtual world just as well, with the added property of $P_{n+1}=$ "is digital". The causal theory of knowledge is weird anyways, and not what we're constructing anyways. 
+
+
+
+
+
+Conlangs demonstrate that natural languages are not all they're painted to be, and we'd be so much freer if we used a larger range of possible languages. 
+
+
+
+Philosophy is a highly technical branch of STEM. I condemn the rest as semi-philosophy, or semi-formal philosophy. 
+
+
+
+Someone [who?] has argued that the English mereologists use is not quite English. I will argue for the Formal Language assumption FL-assumption as true. 
+
+
+
+
+
+Memory skepticism: If we are FSTs we cannot generate the syntax we want in the Chomsky Hierarchy.
+
+
+
+We can formulate probabilistic arguments for Boltzmann brains and the Simulation Hypothesis. However I will argue that this doesn't quite work. Both aforementioned assumes an upper world with the same laws as the experiential one. 
+
+It might be likely that I'm reliving my life as a simulation before. Even with a small probability that I'd do it, the amount of times would still be staggering given the amount of time I can live in the post-singularity.  

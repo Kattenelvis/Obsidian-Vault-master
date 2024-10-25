@@ -1,4 +1,6 @@
 
+[Outperform Every Area Of Your Life (+2h Animation)](https://www.youtube.com/watch?v=S7RFQfClRF4&ab_channel=Outperform)
+
 
 CS degree (which specialization?, prolly AI)
 Economics degree (ecological economics?)
