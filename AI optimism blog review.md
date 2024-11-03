@@ -18,7 +18,9 @@ Do you think the AI could learn moral anti-realism, value anti-realism, moral sk
 "1.   
     Since values are _shared_ and understood by almost everyone in a society, they cannot be very complex. Unlike science and technology, where division of labor enables the accumulation of ever more complex knowledge, values must remain simple enough to be learned by children within a few years."
     
-Is that really true? Are they so ubiquitous? 
+Is that really true? Are they so ubiquitous? Why do we have specialists in bioethics etc. then?
+
+
 
 
 [Counting arguments provide no evidence for AI doom – AI Optimism (optimists.ai)](https://optimists.ai/2024/02/27/counting-arguments-provide-no-evidence-for-ai-doom/)

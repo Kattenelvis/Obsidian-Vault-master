@@ -4,81 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "6916e8e5636667cc",
+        "id": "c6187f213bca5fe7",
         "type": "tabs",
         "children": [
           {
-            "id": "e0a56ee3cf936360",
+            "id": "7fa2b35256193b48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML.md",
+                "file": "List of Bachelor Thesis ideas (or blog posts or YouTube videos!).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML"
+              "title": "List of Bachelor Thesis ideas (or blog posts or YouTube videos!)"
             }
           },
           {
-            "id": "cda63d248f75a6ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The analytic-synthetic distinction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The analytic-synthetic distinction"
-            }
-          },
-          {
-            "id": "6bf766fae4c7cb72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simulation Hypothesis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Simulation Hypothesis"
-            }
-          },
-          {
-            "id": "7246695e8bfd0d6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The AI philosophy Lab/Philosophy of AGI Lab.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Philosophy of AGI Lab"
-            }
-          },
-          {
-            "id": "e3fda16416e6ee4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pascals Wager.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pascals Wager"
-            }
-          },
-          {
-            "id": "3c5b784379899810",
+            "id": "2226db43579585aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,9 +34,51 @@
               "icon": "lucide-file",
               "title": "Metaphilosophy Article"
             }
+          },
+          {
+            "id": "d55faebf5e8fc5d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orthogonality Thesis and AI Optimism Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Orthogonality Thesis and AI Optimism Notes"
+            }
+          },
+          {
+            "id": "3a51963505c423de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evolutionary Game Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evolutionary Game Theory"
+            }
+          },
+          {
+            "id": "dfa042b218ff3cf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability Logics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Probability Logics"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "skibidi",
+                "query": "nora ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,11 +140,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 303.50418853759766
   },
   "right": {
     "id": "db970c8625f96ef3",
@@ -259,54 +246,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c5b784379899810",
+  "active": "d55faebf5e8fc5d7",
   "lastOpenFiles": [
-    "Simulation Hypothesis.md",
-    "Blog Posts WIP/Metaphilosophy Article.md",
-    "Life Path.md",
-    "The AI philosophy Lab/Philosophy of AGI Lab.md",
-    "Pascals Wager.md",
-    "The AI philosophy Lab/Website.md",
-    "Book Idea (AI Safety textbook)/Alignment.md",
-    "Artificial Life.md",
-    "Book Idea (Philosophy)/Metaphilosophy.md",
-    "Probability Theory.md",
-    "The analytic-synthetic distinction.md",
-    "HTML.md",
-    "Physicalism.md",
-    "Formal Philosophy.md",
-    "List of Bachelor Thesis ideas (or blog posts or YouTube videos!).md",
-    "Book Idea (Philosophy)/6. Transhumanism, AGI, ASI, alignment.md",
-    "Private Language.md",
-    "Book Idea (Philosophy)/Old formal system & God proof.md",
-    "Blog Posts WIP/Queer Labels as Inductive Hypothesis.md",
-    "To Transfer when update later/Formal Social Science.md",
     "Economics.md",
-    "Method of Cases and Conceptual Analysis.md",
-    "Horror.md",
-    "Physics.md",
-    "Philosophy of Mind.md",
-    "Philosophy of Biology.md",
-    "Pasted image 20231108162048.png",
-    "Pasted image 20231108224501.png",
-    "Pasted image 20231109105113.png",
-    "Pasted image 20231109120715.png",
-    "Pasted image 20231111210927.png",
-    "Pasted image 20231109121919.png",
-    "Pasted image 20231113164953.png",
-    "Pasted image 20231116140853.png",
-    "Pasted image 20231116140902.png",
-    "Pasted image 20231117114408.png",
+    "Orthogonality Thesis and AI Optimism Notes.md",
+    "AI optimism blog review.md",
+    "The AI philosophy Lab/P(doom) calculation unit.md",
+    "Pasted image 20241102014006.png",
+    "Probability Logics.md",
+    "Pasted image 20241101232736.png",
+    "Autobiographical.md",
+    "Evolutionary Game Theory.md",
+    "Blog Posts WIP/Metaphilosophy Article.md",
+    "List of Bachelor Thesis ideas (or blog posts or YouTube videos!).md",
+    "Blog Posts ideas/Idea for QM-GR-Consciousness unified theory.md",
+    "AI.md",
+    "The AI philosophy Lab/Philosophy of AGI Lab.md",
+    "Untitled 1.md",
+    "redblue gif.gif",
+    "redblue gif 1.gif",
+    "Untitled.md",
+    "Uni.md",
+    "The Hole Argument.md",
+    "Pasted image 20240928232631.png",
+    "LessWrong.md",
+    "Javascript.md",
+    "HTML.md",
+    "Frame 4.png",
+    "Formal Philosophy.md",
+    "Blog Posts WIP/Self Referential Sense-data signs logic.md",
+    "Artificial Life.md",
+    "AI politics.md",
     "520hz sine.wav",
-    "3. The logic of sense-data.pdf",
-    "1. Defeating scepticism and establishing the logical description of the world.pdf",
+    "Method of Cases and Reflective Equilibrium.md",
+    "Book Idea (Philosophy)/Metaphilosophy.md",
+    "Blog Posts ideas/LLMs and formal logical reasoning.md",
+    "Pasted image 20240904112541.png",
+    "Pasted image 20240904112507.png",
+    "Pasted image 20240904112324.png",
+    "Pasted image 20240903011106.png",
     "Worldbuilding Storytelling",
     "The AI philosophy Lab",
     "Book Idea (AI Safety textbook)/Computability and Complexity",
     "Blog Posts WIP",
+    "3. The logic of sense-data.pdf",
     "To Transfer when update later",
     "Untitled",
     "School/Phil of Rel",
+    "School/AI lectures",
     "Untitled.canvas"
   ]
 }

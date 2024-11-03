@@ -1,3 +1,63 @@
+Discord communities is where open-source AI happens.  
+During the past few years, I have been a member of multiple AI communities. These groups are comprised of intelligent and enthusiastic individuals committed to shaping the future and collaborating on open-sourcing the latest models.  
+  
+Here are some of the known and less-known Discord servers:  
+  
+𝐎𝐩𝐞𝐧𝐀𝐈 (𝟑𝐌 𝐌𝐞𝐦𝐛𝐞𝐫𝐬)  
+Updates about the OpenAI API, community discussions, and usage tips for DALL-E and GPT.  
+Invite link [https://lnkd.in/gPRNyrt4](https://lnkd.in/gPRNyrt4)  
+  
+𝐒𝐭𝐚𝐛𝐥𝐞 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 (𝟏𝟓𝟎𝐤 𝐌𝐞𝐦𝐛𝐞𝐫𝐬)  
+The main server for everything Stability AI, the maker of Stable Diffusion: news, usage tips, and discussions with other AI enthusiasts.  
+Invite link [https://lnkd.in/gpexbyee](https://lnkd.in/gpexbyee)  
+  
+𝗘𝗹𝗲𝘂𝘁𝗵𝗲𝗿 𝗔𝗜 (𝟮𝟬𝗸 𝗠𝗲𝗺𝗯𝗲𝗿𝘀)  
+A decentralized hacklab and research group focused on AI alignment, scaling, and open sourcing AI research.  
+Invite link [https://lnkd.in/gfkJt8SH](https://lnkd.in/gfkJt8SH)  
+  
+𝗟𝗔𝗜𝗢𝗡 (𝟮𝟬𝗸 𝗠𝗲𝗺𝗯𝗲𝗿𝘀)  
+A non-profit providing datasets, tools, and models for open-source AI. The maker of LAION-5B and OpenAssistant.  
+Invite link [https://lnkd.in/gaHWxfNs](https://lnkd.in/gaHWxfNs)  
+  
+𝗹𝗮𝗯𝗹𝗮𝗯.𝗮𝗶 (𝟭𝟮𝗸 𝗺𝗲𝗺𝗯𝗲𝗿𝘀)  
+A community of makers building with state-of-the-art AI. Hosting AI hackathons on an ongoing basis.  
+Invite link [https://lnkd.in/gR3keQPy](https://lnkd.in/gR3keQPy)  
+  
+𝗧𝘄𝗼 𝗠𝗶𝗻𝘂𝘁𝗲 𝗣𝗮𝗽𝗲𝗿𝘀 (𝟭𝟬𝗸 𝗠𝗲𝗺𝗯𝗲𝗿𝘀)  
+Research focused community that explains interesting AI-related papers in two minutes.  
+Invite link [https://lnkd.in/gcEkCWwE](https://lnkd.in/gcEkCWwE)  
+  
+𝗢𝗽𝗲𝗻𝗕𝗶𝗼𝗠𝗟 (𝟱𝗸 𝗠𝗲𝗺𝗯𝗲𝗿𝘀)  
+Discuss the latest developments at the intersection of ML and Biology and team up on projects addressing aging, protein folding, and genomics.  
+Invite link [https://lnkd.in/gaMV-9bD](https://lnkd.in/gaMV-9bD)  
+  
+𝗖𝗮𝗿𝗽𝗲𝗿𝗔𝗜 (𝟰𝗸 𝗠𝗲𝗺𝗯𝗲𝗿𝘀)  
+One of EleutherAI’s sub-communities, focused on RLHF - the technology behind the step change performance in ChatGPT.  
+Invite link [https://lnkd.in/giXn_44c](https://lnkd.in/giXn_44c)  
+  
+𝗗𝗲𝗲𝗽𝗙𝗹𝗼𝘆𝗱 (𝟰𝗸 𝗠𝗲𝗺𝗯𝗲𝗿𝘀)  
+An independent AI Research lab for discovering new facets of multimodality, starting with images.  
+Invite link [https://lnkd.in/gh2Nk77P](https://lnkd.in/gh2Nk77P)  
+  
+𝗠𝗲𝗱𝗔𝗥𝗖 (𝟭𝗸 𝗠𝗲𝗺𝗯𝗲𝗿𝘀)  
+A medical research community building and collaborating on  medical AI models.  
+Invite link [https://lnkd.in/g_dbzvim](https://lnkd.in/g_dbzvim)  
+  
+𝗖𝗼𝗱𝗲.𝗔𝗜 (𝟭𝗸 𝗠𝗲𝗺𝗯𝗲𝗿𝘀)  
+Hacking on open source state-of-the-art code generation.  
+Invite link [https://lnkd.in/gUTDnfMn](https://lnkd.in/gUTDnfMn)  
+  
+𝗛𝗼𝗺𝗲𝗯𝗿𝗲𝘄 𝗔𝗜 𝗖𝗹𝘂𝗯 (𝟱𝟬𝟬 𝗠𝗲𝗺𝗯𝗲𝗿𝘀)  
+A community of AI builders to share progress, demos, and ask for help. Often meet IRL in San Francisco.  
+Invite link [https://lnkd.in/gpFRQrr4](https://lnkd.in/gpFRQrr4)  
+  
+𝗔𝗜 𝗖𝗼𝘂𝗰𝗵 (𝟮𝟬𝟬 𝗠𝗲𝗺𝗯𝗲𝗿𝘀)  
+A San Francisco based community that meets regularly to exchange about the latest in AI.  
+Invite link [https://lnkd.in/gGZNeW-r](https://lnkd.in/gGZNeW-r)  
+  
+Full list [https://lnkd.in/gzN9Jd79](https://lnkd.in/gzN9Jd79)
+
+
 Tracking IQ tests AI
 https://trackingai.org/IQ
 

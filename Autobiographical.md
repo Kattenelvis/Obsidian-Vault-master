@@ -1,0 +1,10 @@
+My current role includes being a programmer at the association for digital democracy, which develops software for improving decision making in all kinds of organizations, combining liquid democracy and prediction markets into what we believe help organizations optimize decision making. I'm also a student studying mathematics, logic and philosophy. I'm currently writing a lot about philosophy in my spare time, especially the philosophy of AI, and I want to start or join some larger philosophy of AI/AGI project. Some of the things I've been writing about there includes a p(doom) calculation project, machine consciousness and its impact on alignment, optimal political strategy, mathematical derivations on social choice theoretic solutions to outer alignment, foundations of computation, lucas-penrose arguments, the singularity, post-singularity outcomes and more.
+
+
+One thing that makes it wildly successful is that I made important connections and pathways in furthering my philosophy of AGI project. For instance, knowing about funding sources, learning sources and how to optimize for good impact. I still feel as if I'm standing outside the AGI and AI alignment communities, looking in from the outside, and this mentorship program would bring me atleast to the edge but preferably to the inside.  
+  
+So my goal is fairly specific, find ways of becoming an AI researcher, especially in philosophical or foundational issues. If there's a lack of funding in those particular areas, work on becoming an AI policy researcher and write foundational issues on the side.
+
+I have gotten praise from my current employer that I work dutifully and come in time to meetings and so on. It wouldn't surprise me if I'd also would get praise for being fast learner.  
+  
+I'd love to improve academic research (how to write articles and how to get them actually published outside of my own personal blog). I'd also love to improve on being able to make long-term connections and collaborations.
