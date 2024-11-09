@@ -85,3 +85,15 @@ However, not all aggregation rule are pareto efficient, and will require, indeed
 
 
 Idea: Connections with [[Ramsey intergenerational welfare economics]] where the preference relation is about possible consumption patterns. Look more into the book on welfare economics by springer.  
+
+
+
+
+[May's theorem - Wikipedia](https://en.wikipedia.org/wiki/May%27s_theorem)
+
+[Mechanism design - Wikipedia](https://en.wikipedia.org/wiki/Mechanism_design)
+
+[paper4 247..266](https://www.iffs.se/media/2264/an-impossibility-theorem-for-welfarist-axiologies-in-ep-2000.pdf)
+
+[Holmström's theorem - Wikipedia](https://en.wikipedia.org/wiki/Holmstr%C3%B6m%27s_theorem)
+
