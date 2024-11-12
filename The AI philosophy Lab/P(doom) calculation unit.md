@@ -90,3 +90,26 @@ P("Current AI models exhibit instrumental convergence" | "AI will kills us all")
 
 
 this might be impossible nvm. Using probability logics, conditional probabilities can be atomic and not defined in terms of conjunction and division. 
+
+
+For any set of premises we can assume that extinction risk for current AI models is 0. 
+
+
+
+One of the premises in the two cited articles, namely premise two gives the probability that some input leads to power-seeking behavior. By instrumental convergence, this probability should be way higher, perhaps around 99%.
+
+We can calculate it by the proposals I have above
+
+
+
+
+The orthogonality thesis is violated by wireheading and utility hacking. 
+
+
+
+
+Attempted calculations  based on new assessments on their probabilities
+
+![[Pasted image 20241111193227.png]]
+
+the first one represents post-LLM where it seems that it's going to be less difficult than previously thought to build systems that have a sufficiently low probability of engaging in power-seeking behavior, mainly thanks to interpretability, goal missgeneralization and goal specification being less of a problem when belief states and goals can be elicited in natural language.
