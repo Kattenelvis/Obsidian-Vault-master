@@ -34,3 +34,13 @@ Connectedness
 Symmetrical
 
 Relational map: An arrow diagram can reprsent the structure of a relation between objects. Isomorphisms exists between same looking arrow diagrams. However science does not analyse this (scientific statements are not statements about relational structures with no care for the objects), they use definite descriptions of wordly objects. 
+
+
+
+[Linguistic Frameworks and Ontology A Re-Examination of Carnap’s Metaphilosophy.pdf](file:///C:/Users/Katte/Documents/Academic/Philosophy/Linguistic%20Frameworks%20and%20Ontology%20A%20Re-Examination%20of%20Carnap%E2%80%99s%20Metaphilosophy.pdf)
+![[Pasted image 20241117205904.png]]
+
+
+
+
+

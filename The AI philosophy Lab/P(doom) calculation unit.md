@@ -96,14 +96,16 @@ For any set of premises we can assume that extinction risk for current AI models
 
 
 
+
+(is the orthogonality thesis is violated by wireheading or utility hacking? Turns out no)
+
+
+
 One of the premises in the two cited articles, namely premise two gives the probability that some input leads to power-seeking behavior. By instrumental convergence, this probability should be way higher, perhaps around 99%.
 
 We can calculate it by the proposals I have above
 
 
-
-
-The orthogonality thesis is violated by wireheading and utility hacking. 
 
 
 
