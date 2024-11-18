@@ -1,4 +1,4 @@
-
+dis
 [[Probability Logics]]
 
 ![[Pasted image 20241102014006.png]]
@@ -68,6 +68,7 @@ Potential problems to adjust probabilities for
 - Robustness to Distributional Shift
 - Safe Exploration
 - Interpretability Challenges
+- The stop button problem
 - AI Race Dynamics
 - AI Governance Issues
 
@@ -113,3 +114,96 @@ Attempted calculations  based on new assessments on their probabilities
 ![[Pasted image 20241111193227.png]]
 
 the first one represents post-LLM where it seems that it's going to be less difficult than previously thought to build systems that have a sufficiently low probability of engaging in power-seeking behavior, mainly thanks to interpretability, goal missgeneralization and goal specification being less of a problem when belief states and goals can be elicited in natural language.
+
+
+
+Wireheading and Phenomenal Consciousness?
+
+
+One of the articles are wrong, orthogonality is not needed for X-risk. Instead it's "Orthogonality $\lor$ Wireheading". It requires some third goal setting, perhaps moral truth convergence. 
+
+
+
+
+> The two cornerstones of Omohundro–Bostrom theory are the orthogonality thesis and the instrumental convergence thesis.
+
+It has a name!
+
+Häggström attacks this theory
+
+> **The strong orthogonality thesis** would hold that given any environment, more or less any pair of intelligence level and final goal are compatible, 
+> **while the weak orthogonality** thesis would merely hold that for more or less any such pair, there exist environments in which they are compatible.
+
+
+Instrumental convergence ---> Orthogonality ?
+
+Since one instrumental goal is to prserve utility function?
+
+
+Specification gaming $\approx$ Wireheading?
+
+> Atemptingfurtherexampletopointoutasanexceptionmightbeso-calledwireheading,wherethe AGI picks a utility function that would easily allow it to get a huge amount of utility (see Yampolskiy 2014) [11], the prototypical example being that an AGI with final goal X has an internal memory unit—the utilometer—that measures progress on X, and discovers that it can achieve more utility by directly manipulating the utilometer than by promoting X.
+
+
+
+> While wireheading is a real concern, it contradicts the logic explained above that when an agent contemplates changing its final goal, it applies the old goal as a success criterion. We therefore think the wireheading situation is better understood in terms of us having been mistaken about what the AGI’s final goal was: it was not X, but rather maximizing the number stored in the utilometer. Progress of X was merely a means to maximize that number, and the AGI figured out an easier way to achieve that goal.
+
+There might be economical incentives to make AI's which are not subject to wireheading or specification gaming.
+
+
+[Assessing the Risk of Catastrophe from Large Language Models](https://gcrinstitute.org/papers/072_llm-takeover.pdf)
+
+> First is the speculation that LLM developers are fueling fear of takeover to make their products seem more advanced than they actually are, generating business interest (Merchant, 2023). Such behavior is plausible, though it would run counter to the longstanding pattern of corporations downplaying risks to avoid reputational damage and regulation (Oreskes and Conway, 2010; Baum, 2018a).
+
+
+
+> Second is the worry that takeover risk is a distraction from the more immediate issues posed by LLMs and other AI systems (Gebru et al., 2023). LLMs do indeed pose other important issues including exploitation of low-wage labor to orient LLMs away from harmful content (Perrigo, 2023); the potential production of misinformation at scale (Bell, 2023); a large environmental footprint (Stokel-Walker, 2023); potential application for dual-use research on hazardous materials (Boiko et al., 2023); and production of text that exhibits biases toward certain demographic groups (Treude and Hata, 2023); see Weidinger et al. (2021) for a review. These issues are all worthy of attention, **but that does not necessitate zero attention to takeover risk.**
+
+
+> Risk analysis of LLM takeover catastrophe can help clarify the amount and types of attention it should receive. Due to their extreme severity, catastrophic risks can be worth analyzing even if there is an expert consensus that the risk is minimal, due to the possibility (however small) that experts may be mistaken (Ord et al., 2010).
+
+
+
+>v'Furthermore, expert and policy communities and the public may be systematically biased against catastrophic risks for a variety of psychological, intellectual, and institutional reasons (Posner, 2004; Wiener, 2016; Lipsitch et al., 2017).
+
+
+Two scenarios on how LLMs could take over the world:
+
+> (1) Rapid single-system takeover. The goal of current LLMs is to identify the token (string of text) that best matches its training parameters given the text received from user input (Riedl, 2023; Zhao et al., 2023).6 In this scenario, an advanced LLM seeks to optimize its token identification by commandeering resources it can use for token identification calculations. To that end, it takes over the world and converts all of the world’s resources into a giant factory for optimizing its identification of tokens. This activity inadvertently kill all humans and perhaps also other forms of biological life on Earth. 
+> 
+> (2) Gradual multi-system takeover. Firms are currently exploring how to embed LLMs in their operations, including for the automation of jobs currently performed by humans (Rotman, 2023; Vallance, 2023). In this scenario, humans gradually use LLMs to automate more and more of the economy. This includes managing the computer systems that control industrial, military, and critical infrastructure systems. At first, LLM automation is successful, bringing windfall profits and economic growth. Over time, the economy becomes so automated that humans cannot remove the automation without significant systems failures and suffering. Eventually, human oversight of the LLMs is lost, leading to increasing erratic LLM behavior, ending in humans being squeezed out of the resources needed for survival.
+
+Christiano 2019 for another example on the latter scenario
+
+Ontology shifting might lead to meaningless final goals, such as "make as many souls as possible go to heaven" and the ASI somehow figures out that souls don't exist or heaven doesn't exist or both. 
+
+
+Recalculation of premise 4 from the argument in "language agents reduce existential risk" can be calculated using the premises regarding moral realism, moral justification, moral motivation and that moral maximising agents is atleast somewhat good for humans.
+Calculate the frequency $f$ of philosophers which support those viewpoints!
+
+$P(4) = 1- f(realism)f(justification)f(motivation)$
+
+[PhilPapers Survey 2020](https://survey2020.philpeople.org/survey/results/4866)
+$f(realism) = 0.61$
+https://survey2020.philpeople.org/survey/results/5078
+$f(justification)=0.7686$
+[PhilPapers Survey 2020](https://survey2020.philpeople.org/survey/results/4878)
+$f(motivation)=0.41$
+
+However they're likely correlated, luckily correlation degrees are available on the philpaper survey
+
+Multiplies to: $0.19222686$
+
+So the probability that an ASI which has acquired decisive strategic advantage will only have a $0,80777314$ probability of being an X-risk, assuming the moral truths don't kill or otherwise harm humans.
+
+
+The original calculations:
+![[Pasted image 20241111193227.png]]
+
+Revised: 
+![[Pasted image 20241113230634.png]]
+
+down from roughly 19% to 17%. Not a huge shift. 
+
+
+> Many humans tend to obsess about the (lack of) meaning of life, whereas less intelligent animals such as dogs and chimpanzees appear less prone to this. This might be taken as a (weak) sign that humans are right at the threshold intelligence level where not having a final goal becomes untenable. If it turned out that there is a positive correlation between intelligence and existential depression among humans, then that might provide additional support for my speculation; see Karpinski et al. (2018) for empirical findings pointing roughly in this direction, and Webb (2011) for a more informal discussion.

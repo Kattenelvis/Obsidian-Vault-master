@@ -30,6 +30,8 @@
 27. Evidential vs Causal Decision Theory
 28. Automating Philosophy with LLMs
 29. Aligning AI with phenomenal consciousness
+30. AI consciousness, wireheading vs orthogonality
+
 
 
 
