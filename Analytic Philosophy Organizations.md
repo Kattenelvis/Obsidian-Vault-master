@@ -4,3 +4,14 @@
 
 https://explainable-intelligent.systems/
 
+
+
+
+# EA related organizations
+
+![[Pasted image 20241115224636.png]]
+![[Pasted image 20241115224642.png]]
+
+
+
+
