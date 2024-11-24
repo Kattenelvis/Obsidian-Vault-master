@@ -1,299 +1,326 @@
 {
-    "main": {
-        "id": "2296b9d93223fc16",
-        "type": "split",
-        "children": [{
-            "id": "c6187f213bca5fe7",
-            "type": "tabs",
-            "children": [{
-                    "id": "7fa2b35256193b48",
-                    "type": "leaf",
-                    "state": {
-                        "type": "markdown",
-                        "state": {
-                            "file": "List of Bachelor Thesis ideas (or blog posts or YouTube videos!).md",
-                            "mode": "source",
-                            "source": false
-                        },
-                        "icon": "lucide-file",
-                        "title": "List of Bachelor Thesis ideas (or blog posts or YouTube videos!)"
-                    }
-                },
-                {
-                    "id": "d55faebf5e8fc5d7",
-                    "type": "leaf",
-                    "state": {
-                        "type": "markdown",
-                        "state": {
-                            "file": "Book Idea (AI Safety textbook)/OUTLINE.md",
-                            "mode": "source",
-                            "source": false
-                        },
-                        "icon": "lucide-file",
-                        "title": "OUTLINE"
-                    }
-                },
-                {
-                    "id": "8f7164bc85a085ce",
-                    "type": "leaf",
-                    "state": {
-                        "type": "markdown",
-                        "state": {
-                            "file": "Analytic Philosophy Organizations.md",
-                            "mode": "source",
-                            "source": false
-                        },
-                        "icon": "lucide-file",
-                        "title": "Analytic Philosophy Organizations"
-                    }
-                },
-                {
-                    "id": "bea08394538cee1d",
-                    "type": "leaf",
-                    "state": {
-                        "type": "markdown",
-                        "state": {
-                            "file": "Blog Posts WIP/Metaphilosophy Article.md",
-                            "mode": "source",
-                            "source": false
-                        },
-                        "icon": "lucide-file",
-                        "title": "Metaphilosophy Article"
-                    }
-                },
-                {
-                    "id": "8b048add6343e963",
-                    "type": "leaf",
-                    "state": {
-                        "type": "markdown",
-                        "state": {
-                            "file": "Book Idea (AI Safety textbook)/Alignment.md",
-                            "mode": "source",
-                            "source": false
-                        },
-                        "icon": "lucide-file",
-                        "title": "Alignment"
-                    }
-                },
-                {
-                    "id": "c23d8a609f330a24",
-                    "type": "leaf",
-                    "state": {
-                        "type": "markdown",
-                        "state": {
-                            "file": "The AI philosophy Lab/P(doom) calculation unit.md",
-                            "mode": "source",
-                            "source": false
-                        },
-                        "icon": "lucide-file",
-                        "title": "P(doom) calculation unit"
-                    }
-                }
-            ],
-            "currentTab": 4
-        }],
-        "direction": "vertical"
-    },
-    "left": {
-        "id": "a14b72f94702bf29",
-        "type": "split",
-        "children": [{
-            "id": "f9b15fb0fbbb105d",
-            "type": "tabs",
-            "children": [{
-                    "id": "cf56949fad42aa81",
-                    "type": "leaf",
-                    "state": {
-                        "type": "file-explorer",
-                        "state": {
-                            "sortOrder": "alphabetical"
-                        },
-                        "icon": "lucide-folder-closed",
-                        "title": "Files"
-                    }
-                },
-                {
-                    "id": "c7f4c58f08b67a79",
-                    "type": "leaf",
-                    "state": {
-                        "type": "search",
-                        "state": {
-                            "query": "nora ",
-                            "matchingCase": false,
-                            "explainSearch": false,
-                            "collapseAll": false,
-                            "extraContext": false,
-                            "sortOrder": "alphabetical"
-                        },
-                        "icon": "lucide-search",
-                        "title": "Search"
-                    }
-                },
-                {
-                    "id": "3720305b8759018b",
-                    "type": "leaf",
-                    "state": {
-                        "type": "starred",
-                        "state": {},
-                        "icon": "lucide-file",
-                        "title": "Plugin no longer active"
-                    }
-                },
-                {
-                    "id": "01c6e478fcc5f425",
-                    "type": "leaf",
-                    "state": {
-                        "type": "bookmarks",
-                        "state": {},
-                        "icon": "lucide-bookmark",
-                        "title": "Bookmarks"
-                    }
-                }
-            ]
-        }],
-        "direction": "horizontal",
-        "width": 303.50418853759766
-    },
-    "right": {
-        "id": "db970c8625f96ef3",
-        "type": "split",
-        "children": [{
-            "id": "441cc2a0a38c65fc",
-            "type": "tabs",
-            "children": [{
-                    "id": "cfad0336a72108cf",
-                    "type": "leaf",
-                    "state": {
-                        "type": "backlink",
-                        "state": {
-                            "file": "Blog Posts WIP/Metaphilosophy Article.md",
-                            "collapseAll": false,
-                            "extraContext": false,
-                            "sortOrder": "alphabetical",
-                            "showSearch": false,
-                            "searchQuery": "",
-                            "backlinkCollapsed": false,
-                            "unlinkedCollapsed": true
-                        },
-                        "icon": "links-coming-in",
-                        "title": "Backlinks for Metaphilosophy Article"
-                    }
-                },
-                {
-                    "id": "16f73b27594bd7b3",
-                    "type": "leaf",
-                    "state": {
-                        "type": "outgoing-link",
-                        "state": {
-                            "file": "Blog Posts WIP/Metaphilosophy Article.md",
-                            "linksCollapsed": false,
-                            "unlinkedCollapsed": true
-                        },
-                        "icon": "links-going-out",
-                        "title": "Outgoing links from Metaphilosophy Article"
-                    }
-                },
-                {
-                    "id": "d63003faa9baf0e8",
-                    "type": "leaf",
-                    "state": {
-                        "type": "tag",
-                        "state": {
-                            "sortOrder": "frequency",
-                            "useHierarchy": true
-                        },
-                        "icon": "lucide-tags",
-                        "title": "Tags"
-                    }
-                },
-                {
-                    "id": "9c0deec99b165197",
-                    "type": "leaf",
-                    "state": {
-                        "type": "outline",
-                        "state": {
-                            "file": "Blog Posts WIP/Metaphilosophy Article.md"
-                        },
-                        "icon": "lucide-list",
-                        "title": "Outline of Metaphilosophy Article"
-                    }
-                },
-                {
-                    "id": "5745fb43fab00535",
-                    "type": "leaf",
-                    "state": {
-                        "type": "all-properties",
-                        "state": {
-                            "sortOrder": "frequency",
-                            "showSearch": false,
-                            "searchQuery": ""
-                        },
-                        "icon": "lucide-archive",
-                        "title": "All properties"
-                    }
-                }
-            ],
-            "currentTab": 1
-        }],
-        "direction": "horizontal",
-        "width": 200,
-        "collapsed": true
-    },
-    "left-ribbon": {
-        "hiddenItems": {
-            "switcher:Open quick switcher": false,
-            "graph:Open graph view": false,
-            "canvas:Create new canvas": false,
-            "daily-notes:Open today's daily note": false,
-            "templates:Insert template": false,
-            "command-palette:Open command palette": false,
-            "obsidian-excalidraw-plugin:Create new drawing": false
-        }
-    },
-    "active": "bea08394538cee1d",
-    "lastOpenFiles": [
-        "Pasted image 20241111193227.png",
-        "Book Idea (AI Safety textbook)/Alignment.md",
-        "The AI philosophy Lab/P(doom) calculation unit.md",
-        "Blog Posts WIP/Metaphilosophy Article.md",
-        "List of Bachelor Thesis ideas (or blog posts or YouTube videos!).md",
-        "Blog Posts ideas/Metaphilosophy Constructive Article.md",
-        "Pasted image 20241111193227.png",
-        "Book Idea (AI Safety textbook)/OUTLINE.md",
-        "Large Language Models.md",
-        "Social Choice Theory.md",
-        "Book Idea (AI Safety textbook)/Economics.md",
-        "Probability Logics.md",
-        "Book Idea (AI Safety textbook)/Epistemological engineering.md",
-        "Book Idea (AI Safety textbook)/Introduction.md",
-        "Book Idea (AI Safety textbook)/Language.md",
-        "Book Idea (AI Safety textbook)/Ethics.md",
-        "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
-        "Book Idea (AI Safety textbook)/Political Philosophy.md",
-        "Book Idea (AI Safety textbook)/Law.md",
-        "Book Idea (AI Safety textbook)/Mind.md",
-        "Orthogonality Thesis and AI Optimism Notes.md",
-        "Evolutionary Game Theory.md",
-        "Economics.md",
-        "AI optimism blog review.md",
-        "Pasted image 20241102014006.png",
-        "Pasted image 20241101232736.png",
-        "Autobiographical.md",
-        "Blog Posts ideas/Idea for QM-GR-Consciousness unified theory.md",
-        "AI.md",
-        "redblue gif.gif",
-        "redblue gif 1.gif",
-        "Pasted image 20240928232631.png",
-        "520hz sine.wav",
-        "Worldbuilding Storytelling",
-        "The AI philosophy Lab",
-        "Book Idea (AI Safety textbook)/Computability and Complexity",
-        "Blog Posts WIP",
-        "3. The logic of sense-data.pdf",
-        "To Transfer when update later",
-        "Untitled",
-        "School/Phil of Rel",
-        "School/AI lectures",
-        "Untitled.canvas"
-    ]
+  "main": {
+    "id": "2296b9d93223fc16",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6187f213bca5fe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bea08394538cee1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other ideas/YouTube channel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "YouTube channel"
+            }
+          },
+          {
+            "id": "2226db43579585aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bayesian Epistemology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bayesian Epistemology"
+            }
+          },
+          {
+            "id": "7fa2b35256193b48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phil of Physics or Metaphysics"
+            }
+          },
+          {
+            "id": "8b048add6343e963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other ideas/YouTube channel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "YouTube channel"
+            }
+          },
+          {
+            "id": "931c4d74db835b6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics of AGI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Economics of AGI"
+            }
+          },
+          {
+            "id": "66af1f335cad8571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phil of Physics or Metaphysics"
+            }
+          },
+          {
+            "id": "0cf24f1cb9dbdc83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book Idea (AI Safety textbook)/Computability and Complexity/Computability and Complexity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computability and Complexity"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a14b72f94702bf29",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9b15fb0fbbb105d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf56949fad42aa81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c7f4c58f08b67a79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "f current LLMs is to identify the token (string of text) that best matches its training parameters given the text received from user input. In this scenario, an advanced LLM seeks to optimize its token identification b",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3720305b8759018b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "01c6e478fcc5f425",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.50418853759766
+  },
+  "right": {
+    "id": "db970c8625f96ef3",
+    "type": "split",
+    "children": [
+      {
+        "id": "441cc2a0a38c65fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfad0336a72108cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blog Posts WIP/Metaphilosophy Article.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Metaphilosophy Article"
+            }
+          },
+          {
+            "id": "16f73b27594bd7b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Blog Posts WIP/Metaphilosophy Article.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Metaphilosophy Article"
+            }
+          },
+          {
+            "id": "d63003faa9baf0e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9c0deec99b165197",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Blog Posts WIP/Metaphilosophy Article.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Metaphilosophy Article"
+            }
+          },
+          {
+            "id": "5745fb43fab00535",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "0cf24f1cb9dbdc83",
+  "lastOpenFiles": [
+    "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
+    "Blog Posts WIP/Metaphilosophy Article.md",
+    "Book Idea (AI Safety textbook)/Computability and Complexity/Computability and Complexity.md",
+    "Book Idea (AI Safety textbook)/Computability and Complexity/Math (other).md",
+    "Book Idea (AI Safety textbook)/Computability and Complexity/Church-Turing Thesis.md",
+    "Book Idea (AI Safety textbook)/Epistemological engineering.md",
+    "Wang's Paradox.md",
+    "Other ideas/YouTube channel.md",
+    "Economics of AGI.md",
+    "The AI philosophy Lab/Philosophy of AGI Lab research project.md",
+    "Physicalism.md",
+    "Korinek-chart2.jpg",
+    "Korinek-chart1.jpg",
+    "List of Bachelor Thesis ideas (or blog posts or YouTube videos!).md",
+    "Bayesian Epistemology.md",
+    "Book Idea (AI Safety textbook)/Alignment.md",
+    "The AI philosophy Lab/P(doom) calculation unit.md",
+    "Bayes's Formula.md",
+    "Ayer.md",
+    "Axiomatic Theory of Truth.md",
+    "Automated Philosophy.md",
+    "Autobiographical.md",
+    "Automata Theory.md",
+    "Autism.md",
+    "Artificial Intelligence.md",
+    "Associationist theory of thought.md",
+    "Artificial Life.md",
+    "Aromanticism.md",
+    "520hz sine.wav",
+    "3. The logic of sense-data.pdf",
+    "1. Defeating scepticism and establishing the logical description of the world.pdf",
+    "Pasted image 20241113230634.png",
+    "Pasted image 20241117205904.png",
+    "Pasted image 20241115224642.png",
+    "Pasted image 20241115224636.png",
+    "Pasted image 20241111193227.png",
+    "Pasted image 20241102014006.png",
+    "Pasted image 20241101232736.png",
+    "redblue gif.gif",
+    "Worldbuilding Storytelling",
+    "The AI philosophy Lab",
+    "Book Idea (AI Safety textbook)/Computability and Complexity",
+    "Blog Posts WIP",
+    "To Transfer when update later",
+    "Untitled",
+    "School/Phil of Rel",
+    "Untitled.canvas"
+  ]
 }

@@ -18,7 +18,7 @@
 15. History of Neo-Kantian philosophy
 16. Jury Theorem's in social epistemology
 17. Branching time temporal logic
-18. The philosophy of general relativity
+18. The philosophy of general relativity (the hole problem)
 19. Different notions of information (semantic etc.)
 20. Husserlian phenomenology and Brouwers intuitionism, choice sequences
 21. Sense-data view vs direct realism vs representationalism

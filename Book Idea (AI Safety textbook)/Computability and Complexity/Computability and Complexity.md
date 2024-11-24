@@ -1,3 +1,4 @@
+Alt title: The Foundation of Computation
 
 AI's are computational. But what really is computation? 
 
@@ -7,7 +8,9 @@ The intuitive notion of a computation is that of a some *starting symbols*  with
 
 How this idea works more formally is what will be explicated in this chapter. We will also dive into results which shape this field into something truly spectacular. 
 
-## Foundations of computation
+## Foundations of computation and the Chomsky hierarchy
+
+There are 4 main levels of the Chomsky hierarchy, of which the higher levels contain the lower levels. 
 
 We begin by considering symbols, and an alphabet. This is foundational for all of logic. We introduce symbols as the first principle
 
@@ -123,9 +126,17 @@ Keep in mind this is only for a general algorithm. Some algorithms do exist that
 
 All of these self-referential paradoxes can be generalized into the fixed point theorem in category theory. 
 
+## Hypercomputation
+
+If hypercomputers existed however, we'd just use brute force algorithms and even do uncomputable algorithms such as AIXI. Of course, how to align an AIXI would still have to be debated, but it would be really easy to have vastly smarter-than-human intelligence.
 
 
-## Computational Complexity: Can a big enough computer with enough time just solve any problem?
+[Zeno machine - Wikipedia](https://en.wikipedia.org/wiki/Zeno_machine)
+
+
+
+
+## Computational Complexity: Can a big enough computer with enough time just solve any decidable problem?
 
 
 
@@ -162,14 +173,6 @@ Look up tables for Searle's chinese room thought experiment. Grows exponentially
 
 Waterfal/Putnam all possible computations thingy
 
-## Hypercomputation
-
-If hypercomputers existed however, we'd just use brute force algorithms and even do uncomputable algorithms such as AIXI. Of course, how to align an AIXI would still have to be debated, but it would be really easy to have vastly smarter-than-human intelligence.
-
-
-[Zeno machine - Wikipedia](https://en.wikipedia.org/wiki/Zeno_machine)
-
-
 
 
 # Logic - Computation correspondences
@@ -177,12 +180,8 @@ Do I need this section?
 
 Logic, such as first order logic- has an equivalent computation that proves all theorems in that system. Proof systems are in that sense computational. 
 
-## Curry Howard Correspondence
+## Curry Howard (Lambek) Correspondence
 As such, the lambda calculus has a correspondence with first order intuitionistic logic.
-
-
-
-## Basic Programming Theory
 
 
 
@@ -241,4 +240,5 @@ Theorem proovers, math is bad, people rush through and fail often. Sometimes for
 If this happends to proofs regarding AI safety, we could put all of humanity into danger.
 
 We have to apply rigirious use of theorem prooving machines before for safety standards!
+
 

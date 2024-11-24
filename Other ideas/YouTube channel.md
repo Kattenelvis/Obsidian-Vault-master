@@ -1,3 +1,16 @@
+My five-week plan:
+
+Church-Turing, Gaddy's argument, phenomenological arguments
+Physical computation
+Functionalism
+Integrated Information Theory
+Orthogonality Thesis and AI consciousness
+
+I should have produced all five videos by 29:th december 2024. Which from writing this (24:th november 2024) should give me one week per video. 
+
+
+
+
 Sorted by playlist and episode:
 
 ### Metaphilosophy
@@ -9,7 +22,7 @@ Sorted by playlist and episode:
 6. Post-analytic philosophy (Rorty)
 7. Logical positivism and post-positivism
 8. Oxford school of linguistic analysis (Later Wittgenstein)
-9. Naturalization projects
+9. Naturalization projects (Canberra Plan)
 10. Philosophy's place in society
 11. Experimental/Computational philosophy
 
@@ -24,6 +37,7 @@ Sorted by playlist and episode:
 1. Completeness and Consistency of Propositional logic
 2. Gödel's Incompleteness theorems
 3. The category of theories
+4. Löwenheim-Skolem theorem and Skolem's paradox
 
 ### Modal Logic
 1. Axiomatic systems overview (K, T, S5,...) and consequences
@@ -164,11 +178,12 @@ Sorted by playlist and episode:
 1. Cognitivsm vs Non-cognitivism
 2. How do you know moral facts?
 3. Moral anti-realism
+4. Error-theory
 ### Normative ethics
 1. Introduction
 2. Utilitarianism
 3. Deontology
-4. Virtua ethics
+4. Virtue ethics
 5. Egoism
 6. Contractarianism
 7. Natural law

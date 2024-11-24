@@ -1,7 +1,7 @@
 # Metaphilosophy
 
 Philosophy is best done in a precise way which begins with phenomenal consciousness and builds up all concepts with phenomenal concepts as its foundation which is also first philosophy, some kind of Empiricist Foundationalism under formal systems.
-# Propositional Derivational Systems
+# Linguistic Systems
 
 In its highest generality, philosophy, science and mathematics is about arguments from premises to conclusions. This includes observation sentences. Philosophy, science, mathematics and other similar studies will be named "propositional derivative systems" to indicate their foundation in formal logic. They are similar to Carnaps' linguistic frameworks [Empiricism, Semantics, and Ontology](https://www.ditext.com/carnap/carnap.html).
 

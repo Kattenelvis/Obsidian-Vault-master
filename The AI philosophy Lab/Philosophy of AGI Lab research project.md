@@ -40,3 +40,12 @@ NARS, epistemology and logic of AGI
 P(Doom) calculation unit
 Post-AGI society (the dyson sphere article etc.)
 "Truthfull" AI? Misinformation and AI
+
+
+
+
+
+AGI transition project: A political economic calculation and goal setting of post-AGI states.
+
+[[Economics of AGI]]
+

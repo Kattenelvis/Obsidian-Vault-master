@@ -209,3 +209,9 @@ down from roughly 19% to 17%. Not a huge shift.
 
 
 > Many humans tend to obsess about the (lack of) meaning of life, whereas less intelligent animals such as dogs and chimpanzees appear less prone to this. This might be taken as a (weak) sign that humans are right at the threshold intelligence level where not having a final goal becomes untenable. If it turned out that there is a positive correlation between intelligence and existential depression among humans, then that might provide additional support for my speculation; see Karpinski et al. (2018) for empirical findings pointing roughly in this direction, and Webb (2011) for a more informal discussion.
+
+
+
+ICE_CREAM reply on discord:
+
+P(doom) = AGI construction possible * AGI gains autonomy * AGI given instrumentally convergent goal * AGI capable of extermination humans * AGI given misaligned goal * Misaligned goal carries existential risk I would then make the following estimates (they came to me in a dream): AGI construction possible: 0.99 AGI gains autonomy: 0.35 AGI given instrumentally convergent goal: 0.9 AGI capable of extermination humans: 0.9 AGI given misaligned goal: 0.3 Misaligned goal carries existential risk: 0.85 **P(doom) = 0.071 => 7%**
