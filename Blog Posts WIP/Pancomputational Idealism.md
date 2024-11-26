@@ -5,7 +5,7 @@ Shortly speaking, the CTT states that computations, such as say, multiplication,
 
 
 
-[[Church-Turing Thesis]] applied to formal phenomenology
+[[2. Church-Turing Thesis]] applied to formal phenomenology
 
 
 "The arguments which I shall use are of three kinds. 

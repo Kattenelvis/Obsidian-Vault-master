@@ -115,3 +115,24 @@ Idea: Formalise that into logic
 
 
 "the URT (Unified Reality Theory) of Steven Kaufman and the CTMU (Cognitive-Theoretic Model of the Universe) by Chris Langan bring digital physics and panpsychism together in a surprising manner"
+
+
+
+
+[MENPCP.pdf](https://philpapers.org/archive/MENPCP.pdf)
+
+> The most pressing worry for panpsychism is arguably the combination problem, the problem of intelligibly explaining how the experiences of microphysical entities combine to form the experiences of macrophysical entities such as ourselves. This chapter argues that the combination problem is similar in kind to other problems of mental combination that are problems for everyone: the problem of phenomenal unity, the problem of mental structure, and the problem of new quality spaces. The ubiquity of combination problems suggests the ignorance hypothesis, the hypothesis that we are ignorant of certain key facts about mental combination, which allows the panpsychist to avoid certain objections based on the combination problem.
+
+
+A1: $M \neq m_1 \wedge ... \wedge M\neq m_n$ 
+A2: $\forall x M(x)\bigwedge_i\neg m_i(x)$
+A3: 
+
+
+
+
+[SEAPAA](https://philarchive.org/archive/SEAPAA)
+Deferential Monadic Panpsychism
+> Deferential Monadic Panpsychism (DMP) is a view that accepts that physical science is capable of discovering the basic structure of reality. However, it denies that reality is fully and exhaustively described purely in terms of physical science. Consciousness is missing from the physical description and cannot be reduced to it. DMP explores the idea that the physically fundamental features of the world possess some intrinsic mental aspect. It thereby faces a severe problem of understanding how more complex mental states emerge from the mental features of the fundamental features. Here I explore the idea that a new form of aggregative emergence, which I call ‘combinatorial infusion’ could shed light on this problem and bolster the prospects for this form of panpsychism
+
+

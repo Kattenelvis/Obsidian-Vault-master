@@ -188,3 +188,28 @@ using subjective probabilities, see Fitelson (1999)."
 \bibliographystyle{acm}
 
 \end{document}
+
+
+
+[Why The Focus on Expected Utility Maximisers? — LessWrong](https://www.lesswrong.com/posts/XYDsYSbBjqgPAgcoQ/why-the-focus-on-expected-utility-maximisers?commentId=a5tn6B8iKdta6zGFu)
+
+
+> My take is that the concept of expected utility maximization is a mistake. In Eliezer's [Coherent decisions imply consistent utilities](https://www.lesswrong.com/posts/RQpNHSiWaXTvDxt6R/coherent-decisions-imply-consistent-utilities), you can see the mistake where he writes:
+
+> From your perspective, you are now in Scenario 1B. Having observed the coin and updated on its state, you now think you have a 90% chance of getting $5 million and a 10% chance of getting nothing.
+
+Reflectively stable agents are updateless. When they make an observation, they do not limit their caring as though all the possible worlds where their observation differs do not exist.
+
+As far as I know, every argument for utility assumes (or implies) that whenever you make an observation, you stop caring about the possible worlds where that observation went differently.
+
+The original Timeless Decision Theory was not updateless. Nor were any of the more traditional ways of thinking about decision. Updateless Decision Theory, and subsequent decision theories corrected this mistake.
+
+Von Neumann did not notice this mistake because he was too busy inventing the entire field. The point where we discover updatelessness is the point where we are supposed to realize that all of utility theory is wrong. I think we failed to notice.
+
+Ironically the community that was the birthplace of updatelessness became the flag for taking utility seriously. (To be fair, this probably is the birthplace of updatelessness _because_ we took utility seriously.)
+
+Unfortunately, because utility theory is so simple, and so obviously correct if you haven't thought about updatelessness, it ended up being assumed all over the place, without tracking the dependency. I think we use a lot of concepts that are built on the foundation of utility without us even realizing it.
+
+(Note that I am saying here that utility theory is a theoretical mistake! This is much stronger than just saying that humans don't have utility functions.)"
+
+

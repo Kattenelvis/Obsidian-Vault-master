@@ -8,105 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bea08394538cee1d",
+            "id": "2f12656f22342727",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other ideas/YouTube channel.md",
+                "file": "Book Idea (AI Safety textbook)/3. AI Models/2. Language.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YouTube channel"
+              "title": "2. Language"
             }
           },
           {
-            "id": "2226db43579585aa",
+            "id": "65eeac1f33947642",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bayesian Epistemology.md",
+                "file": "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society/Economics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bayesian Epistemology"
-            }
-          },
-          {
-            "id": "7fa2b35256193b48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phil of Physics or Metaphysics"
-            }
-          },
-          {
-            "id": "8b048add6343e963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other ideas/YouTube channel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "YouTube channel"
-            }
-          },
-          {
-            "id": "931c4d74db835b6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics of AGI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Economics of AGI"
-            }
-          },
-          {
-            "id": "66af1f335cad8571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phil of Physics or Metaphysics"
-            }
-          },
-          {
-            "id": "0cf24f1cb9dbdc83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book Idea (AI Safety textbook)/Computability and Complexity/Computability and Complexity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Computability and Complexity"
+              "title": "Economics"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "f current LLMs is to identify the token (string of text) that best matches its training parameters given the text received from user input. In this scenario, an advanced LLM seeks to optimize its token identification b",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -273,36 +203,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0cf24f1cb9dbdc83",
+  "active": "65eeac1f33947642",
   "lastOpenFiles": [
-    "Book Idea (AI Safety textbook)/Phil of Physics or Metaphysics.md",
-    "Blog Posts WIP/Metaphilosophy Article.md",
-    "Book Idea (AI Safety textbook)/Computability and Complexity/Computability and Complexity.md",
-    "Book Idea (AI Safety textbook)/Computability and Complexity/Math (other).md",
-    "Book Idea (AI Safety textbook)/Computability and Complexity/Church-Turing Thesis.md",
-    "Book Idea (AI Safety textbook)/Epistemological engineering.md",
-    "Wang's Paradox.md",
+    "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society/1. Ethics.md",
+    "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society/Political Philosophy.md",
+    "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society/Economics.md",
+    "Book Idea (AI Safety textbook)/3. AI Models/1. Epistemological engineering.md",
+    "Book Idea (AI Safety textbook)/2. AI Minds/Mind (Other).md",
+    "Book Idea (AI Safety textbook)/2. AI Minds/Functionalism and CTM.md",
+    "Functionalism.md",
+    "Book Idea (AI Safety textbook)/2. AI Minds/Integrated Information Theory.md",
+    "Book Idea (AI Safety textbook)/1. Computability and Complexity/3. Phil of Physics or Metaphysics.md",
+    "Book Idea (AI Safety textbook)/1. Computability and Complexity/2. Church-Turing Thesis.md",
+    "Book Idea (AI Safety textbook)/3. AI Models/Alignment.md",
+    "Book Idea (AI Safety textbook)/3. AI Models/Phil of Science.md",
+    "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society/Law.md",
+    "Book Idea (AI Safety textbook)/3. AI Models/Rationality.md",
+    "Book Idea (AI Safety textbook)/3. AI Models/1. Probability and Statistics.md",
+    "Book Idea (AI Safety textbook)/3. AI Models/2. Language.md",
+    "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society",
+    "Book Idea (AI Safety textbook)/3. AI Models",
     "Other ideas/YouTube channel.md",
+    "Blog Posts ideas/Meaning of life.md",
+    "Book Idea (AI Safety textbook)/Introduction.md",
     "Economics of AGI.md",
-    "The AI philosophy Lab/Philosophy of AGI Lab research project.md",
-    "Physicalism.md",
+    "Blog Posts WIP/Self Referential Sense-data signs logic.md",
+    "Book Idea (AI Safety textbook)/1. Computability and Complexity/1. Computability and Complexity.md",
+    "Dutch Book Arguments.md",
+    "The AI philosophy Lab/P(doom) calculation unit.md",
+    "Panpsychism.md",
+    "Cooperative AI.md",
+    "Pasted image 20241125131747.png",
+    "David J. Chalmers - Philosophy of Mind_ Classical and Contemporary Readings (2002, Oxford University Press, USA) - libgen.li.pdf",
+    "Book Idea (AI Safety textbook)/2. AI Minds",
     "Korinek-chart2.jpg",
     "Korinek-chart1.jpg",
-    "List of Bachelor Thesis ideas (or blog posts or YouTube videos!).md",
-    "Bayesian Epistemology.md",
-    "Book Idea (AI Safety textbook)/Alignment.md",
-    "The AI philosophy Lab/P(doom) calculation unit.md",
-    "Bayes's Formula.md",
-    "Ayer.md",
-    "Axiomatic Theory of Truth.md",
-    "Automated Philosophy.md",
-    "Autobiographical.md",
-    "Automata Theory.md",
-    "Autism.md",
-    "Artificial Intelligence.md",
-    "Associationist theory of thought.md",
-    "Artificial Life.md",
-    "Aromanticism.md",
     "520hz sine.wav",
     "3. The logic of sense-data.pdf",
     "1. Defeating scepticism and establishing the logical description of the world.pdf",
@@ -313,14 +248,9 @@
     "Pasted image 20241111193227.png",
     "Pasted image 20241102014006.png",
     "Pasted image 20241101232736.png",
-    "redblue gif.gif",
     "Worldbuilding Storytelling",
     "The AI philosophy Lab",
-    "Book Idea (AI Safety textbook)/Computability and Complexity",
-    "Blog Posts WIP",
-    "To Transfer when update later",
-    "Untitled",
-    "School/Phil of Rel",
+    "Book Idea (AI Safety textbook)/1. Computability and Complexity",
     "Untitled.canvas"
   ]
 }
