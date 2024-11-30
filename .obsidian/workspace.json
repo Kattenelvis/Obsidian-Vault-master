@@ -8,35 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f12656f22342727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book Idea (AI Safety textbook)/3. AI Models/2. Language.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Language"
-            }
-          },
-          {
             "id": "65eeac1f33947642",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society/Economics.md",
+                "file": "Paranormal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Economics"
+              "title": "Paranormal"
+            }
+          },
+          {
+            "id": "c2fee25f68c1bd71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Politics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Politics"
+            }
+          },
+          {
+            "id": "b95dc71a0d35ef3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog Posts Finished/Formal neo-carnapian metaphilosophy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Formal neo-carnapian metaphilosophy"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SPEAKER",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,36 +217,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65eeac1f33947642",
+  "active": "b95dc71a0d35ef3e",
   "lastOpenFiles": [
-    "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society/1. Ethics.md",
-    "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society/Political Philosophy.md",
-    "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society/Economics.md",
-    "Book Idea (AI Safety textbook)/3. AI Models/1. Epistemological engineering.md",
+    "Frame 4.png",
+    "Blog Posts Finished/Formal neo-carnapian metaphilosophy.md",
+    "Blog Posts WIP/Metaphilosophy Article.md",
+    "Blog Posts ideas/Metaphilosophy Constructive Article.md",
+    "Book Idea (Philosophy)/Metaphilosophy.md",
+    "Paranormal.md",
+    "Syntax A Generative Introduction.md",
+    "AI Governance/Project.md",
     "Book Idea (AI Safety textbook)/2. AI Minds/Mind (Other).md",
-    "Book Idea (AI Safety textbook)/2. AI Minds/Functionalism and CTM.md",
-    "Functionalism.md",
-    "Book Idea (AI Safety textbook)/2. AI Minds/Integrated Information Theory.md",
-    "Book Idea (AI Safety textbook)/1. Computability and Complexity/3. Phil of Physics or Metaphysics.md",
-    "Book Idea (AI Safety textbook)/1. Computability and Complexity/2. Church-Turing Thesis.md",
-    "Book Idea (AI Safety textbook)/3. AI Models/Alignment.md",
-    "Book Idea (AI Safety textbook)/3. AI Models/Phil of Science.md",
-    "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society/Law.md",
-    "Book Idea (AI Safety textbook)/3. AI Models/Rationality.md",
-    "Book Idea (AI Safety textbook)/3. AI Models/1. Probability and Statistics.md",
+    "School/Liú.md",
+    "Indeterminacy of Meaning.md",
+    "dd.md",
+    "Context Sensitivity.md",
     "Book Idea (AI Safety textbook)/3. AI Models/2. Language.md",
+    "Book Idea (Philosophy)/Political Manifesto.md",
+    "Politics.md",
+    "Transhumanism.md",
+    "The AI philosophy Lab/Philosophy of AGI Lab research project.md",
+    "Book Idea (AI Safety textbook)/1. Computability and Complexity/2. Church-Turing Thesis.md",
+    "Book Idea (AI Safety textbook)/1. Computability and Complexity/1. Computability and Complexity.md",
+    "Book Idea (AI Safety textbook)/3. AI Models/1. Epistemological engineering.md",
+    "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society/1. Ethics.md",
+    "Book Idea (Philosophy)/3. Formal Phenomenology.md",
+    "AGI.md",
+    "Blog Posts ideas/World Model.md",
+    "Book Idea (AI Safety textbook)/3. AI Models/Rationality.md",
     "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society",
     "Book Idea (AI Safety textbook)/3. AI Models",
-    "Other ideas/YouTube channel.md",
-    "Blog Posts ideas/Meaning of life.md",
-    "Book Idea (AI Safety textbook)/Introduction.md",
-    "Economics of AGI.md",
-    "Blog Posts WIP/Self Referential Sense-data signs logic.md",
-    "Book Idea (AI Safety textbook)/1. Computability and Complexity/1. Computability and Complexity.md",
-    "Dutch Book Arguments.md",
-    "The AI philosophy Lab/P(doom) calculation unit.md",
-    "Panpsychism.md",
-    "Cooperative AI.md",
     "Pasted image 20241125131747.png",
     "David J. Chalmers - Philosophy of Mind_ Classical and Contemporary Readings (2002, Oxford University Press, USA) - libgen.li.pdf",
     "Book Idea (AI Safety textbook)/2. AI Minds",

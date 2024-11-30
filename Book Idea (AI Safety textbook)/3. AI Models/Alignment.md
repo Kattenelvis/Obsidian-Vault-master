@@ -1,3 +1,6 @@
+
+https://scholar.google.com/citations?user=0_Rq68cAAAAJ&hl=en
+
 With a good overview of Rationality, we now get into Alignment.
 
 

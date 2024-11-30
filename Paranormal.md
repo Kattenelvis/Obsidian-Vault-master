@@ -1,0 +1,1 @@
+The possibility of semi-public objects are worth considering. Imagine for instance, three people of which one is colorblind looking at a 3 that the color blind person cannot see. Sometimes paranormal events where only some people claim to see something can be considered semi-public, but that might be for other reasons (mass hysteria and so on).
