@@ -33,3 +33,32 @@ Anti-Summativism: No
 
 
 $\sum_{t=0}^T \lambda_t U_t(a)$ 
+
+
+
+# Zollman effect
+
+[Formal Epistemology (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/formal-epistemology/#FifCasStuSocEpi)
+
+![[Pasted image 20241203164053.png]]
+
+Doctors update beliefs using Bayes' formula comparing two treatments at 0.499 vs 0.501
+
+Does the community converge? Maybe not.
+
+![[Pasted image 20241203164151.png]]> But notice that a bigger community is more likely to find the truth too. Why? Because bigger, less connected networks are better insulated against misleading results.
+
+![[Pasted image 20241203164222.png]]
+
+
+Polarization when there's some degree of misstrust
+
+![[Pasted image 20241203170445.png]]
+
+
+
+For a different formal approach to polarization, see Dorst (2020, Other Internet Resources). For other work on network epistemology see Zollman (2013) and [§4.3 of the entry on social epistemology](https://plato.stanford.edu/entries/epistemology-social/#NetwEpisMode), and the references therein.
+
+Other formal projects in social epistemology include work on the relationship between social and individual rationality (Mayo-Wilson, Zollman, and Danks 2011); on judgment aggregation/opinion pooling (Genest and Zidek 1986; List and Pettit 2002; Russell, Hawthorne, and Buchak 2015); on learning from the beliefs of others (Easwaran _et al_ 2016; Bradley 2018); and on the social benefits of competing update rules, such as Conditionalization vs. Inference to the Best Explanation (Douven and Wenmackers 2017; Pettigrew m.s., Other Internet Resources).
+
+

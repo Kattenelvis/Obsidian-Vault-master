@@ -81,7 +81,7 @@ Improving Earth now:
 	1. Fair and just blah blah you get the point.
 	2. Legal realism, more of use of probability theory?
 10. Services
-	1. 
+	1. Better work conditions for service industry workers. Better rights to bargain against employer, unionization. 
 11. Infrastructure
 	1. Global interconnected high-speed train system, to replace airplanes.
 	2. Space elevators?
@@ -104,9 +104,12 @@ Improving Earth now:
 	3. Archologies?
 	4. Large green zones, city parks. 
 	5. Every city a functioning sewage system.
-17. Rights
-	1. LGBTQ+ rights enshrined everywhere. 
-	2. Rights of other minorities. 
+17. Minority Rights
+	1. LGBTQ+ rights. Easier for trans people to get help, better vetting process, free government paid medicine and surgery. Gay rights ensured to never slip. 
+	2. Disability rights, architecture restrictions, public places ease of access, easier medical payouts.
+	3. Gender issues. Primary focus on women rights, but some men's issues too. 
+	4. Anti-Racism.
+	5. And so on. Intersectionality is generally good, especially from game theoretic perspective. 
 18. Safety
 	1. Abolishment of standing armies, the draft, globally. 
 19. Population ethics.
@@ -116,6 +119,5 @@ Improving Earth now:
 	1. End meat and dairy subsidies.
 	2. End factory farming. Shrimp health project.
 	3. Focus on new protein sources. 
-
 
 

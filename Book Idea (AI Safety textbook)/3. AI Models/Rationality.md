@@ -371,3 +371,14 @@ We have seen how the dutch book theorems can be used to derive the dutch book ar
 Beyond Preferences in AI Alignment [2408.16984](https://arxiv.org/pdf/2408.16984)
 [DutchBooks.pdf](https://lyariv.mycpanel.princeton.edu//papers/DutchBooks.pdf)
 [Coherence arguments do not entail goal-directed behavior — AI Alignment Forum](https://www.alignmentforum.org/posts/NxF5G6CJiof6cemTw/coherence-arguments-do-not-entail-goal-directed-behavior)
+
+
+
+
+
+[Meta-optimization - Wikipedia](https://en.wikipedia.org/wiki/Meta-optimization)
+
+
+[Automated machine learning - Wikipedia](https://en.wikipedia.org/wiki/Automated_machine_learning)
+
+[Hyper-heuristic - Wikipedia](https://en.wikipedia.org/wiki/Hyper-heuristic)

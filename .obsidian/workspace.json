@@ -13,44 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paranormal.md",
+                "file": "Book Idea (Philosophy)/Political Manifesto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paranormal"
+              "title": "Political Manifesto"
             }
           },
           {
-            "id": "c2fee25f68c1bd71",
+            "id": "07324b46742332d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politics.md",
+                "file": "Book Idea (AI Safety textbook)/3. AI Models/2. Connectionist AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Politics"
+              "title": "2. Connectionist AI"
             }
           },
           {
-            "id": "b95dc71a0d35ef3e",
+            "id": "b06c5bfd14f311eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog Posts Finished/Formal neo-carnapian metaphilosophy.md",
+                "file": "Book Idea (AI Safety textbook)/3. AI Models/Alignment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formal neo-carnapian metaphilosophy"
+              "title": "Alignment"
+            }
+          },
+          {
+            "id": "ed0fa38b7bba5196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Review Loke C-uppsats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Review Loke C-uppsats"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SPEAKER",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,51 +231,51 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b95dc71a0d35ef3e",
+  "active": "07324b46742332d9",
   "lastOpenFiles": [
-    "Frame 4.png",
-    "Blog Posts Finished/Formal neo-carnapian metaphilosophy.md",
-    "Blog Posts WIP/Metaphilosophy Article.md",
-    "Blog Posts ideas/Metaphilosophy Constructive Article.md",
-    "Book Idea (Philosophy)/Metaphilosophy.md",
-    "Paranormal.md",
-    "Syntax A Generative Introduction.md",
-    "AI Governance/Project.md",
-    "Book Idea (AI Safety textbook)/2. AI Minds/Mind (Other).md",
-    "School/Liú.md",
-    "Indeterminacy of Meaning.md",
-    "dd.md",
-    "Context Sensitivity.md",
-    "Book Idea (AI Safety textbook)/3. AI Models/2. Language.md",
+    "Book Idea (AI Safety textbook)/3. AI Models/Alignment.md",
+    "Machine Psychology.md",
+    "Review Loke C-uppsats.md",
     "Book Idea (Philosophy)/Political Manifesto.md",
-    "Politics.md",
-    "Transhumanism.md",
-    "The AI philosophy Lab/Philosophy of AGI Lab research project.md",
-    "Book Idea (AI Safety textbook)/1. Computability and Complexity/2. Church-Turing Thesis.md",
-    "Book Idea (AI Safety textbook)/1. Computability and Complexity/1. Computability and Complexity.md",
-    "Book Idea (AI Safety textbook)/3. AI Models/1. Epistemological engineering.md",
-    "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society/1. Ethics.md",
-    "Book Idea (Philosophy)/3. Formal Phenomenology.md",
-    "AGI.md",
-    "Blog Posts ideas/World Model.md",
+    "Book Idea (AI Safety textbook)/3. AI Models/2. Connectionist AI.md",
+    "Pasted image 20241211154018.png",
+    "Pasted image 20241211153930.png",
+    "Pasted image 20241211152602.png",
+    "Pasted image 20241211152537.png",
+    "Pasted image 20241211144203.png",
+    "The AI philosophy Lab/P(doom) calculation unit.md",
+    "Pasted image 20241211142005.png",
+    "Pasted image 20241211133622.png",
+    "Pasted image 20241211133034.png",
+    "Pasted image 20241211132732.png",
+    "Pasted image 20241211132433.png",
+    "Untitled 2.md",
     "Book Idea (AI Safety textbook)/3. AI Models/Rationality.md",
+    "Book Idea (AI Safety textbook)/3. AI Models/3. Language.md",
+    "Book Idea (AI Safety textbook)/3. AI Models/1. Epistemological engineering.md",
+    "Book Idea (AI Safety textbook)/3. AI Models/0. Logic Based AI.md",
+    "Book Idea (AI Safety textbook)/3. AI Models/Probability and Statistics.md",
+    "Book Idea (AI Safety textbook)/3. AI Models/Phil of Science.md",
+    "Book Idea (AI Safety textbook)/3. AI Models/Brain Emulation.md",
+    "Book Idea (AI Safety textbook)/2. AI Minds/Mind (Other).md",
+    "Book Idea (AI Safety textbook)/2. AI Minds/Integrated Information Theory.md",
+    "Book Idea (AI Safety textbook)/2. AI Minds/Functionalism and CTM.md",
+    "Book Idea (AI Safety textbook)/1. Computability and Complexity/2. Church-Turing Thesis.md",
+    "Book Idea (AI Safety textbook)/1. Computability and Complexity/3. Phil of Physics or Metaphysics.md",
+    "Continental Philosophy.md",
+    "Economics of AGI.md",
+    "Politics.md",
+    "Anarchism.md",
+    "Book Idea (AI Safety textbook)/1. Computability and Complexity/1. Computability and Complexity.md",
+    "History of AI.md",
+    "Book Idea (AI Safety textbook)/OUTLINE.md",
     "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society",
     "Book Idea (AI Safety textbook)/3. AI Models",
-    "Pasted image 20241125131747.png",
     "David J. Chalmers - Philosophy of Mind_ Classical and Contemporary Readings (2002, Oxford University Press, USA) - libgen.li.pdf",
     "Book Idea (AI Safety textbook)/2. AI Minds",
-    "Korinek-chart2.jpg",
-    "Korinek-chart1.jpg",
     "520hz sine.wav",
     "3. The logic of sense-data.pdf",
     "1. Defeating scepticism and establishing the logical description of the world.pdf",
-    "Pasted image 20241113230634.png",
-    "Pasted image 20241117205904.png",
-    "Pasted image 20241115224642.png",
-    "Pasted image 20241115224636.png",
-    "Pasted image 20241111193227.png",
-    "Pasted image 20241102014006.png",
-    "Pasted image 20241101232736.png",
     "Worldbuilding Storytelling",
     "The AI philosophy Lab",
     "Book Idea (AI Safety textbook)/1. Computability and Complexity",

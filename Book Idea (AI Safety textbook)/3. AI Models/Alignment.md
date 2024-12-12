@@ -6,14 +6,28 @@ With a good overview of Rationality, we now get into Alignment.
 
 All problems, involving arguments and their premises (premises that may have been explored in earlier chapters)
 
-- Orthogonality thesis (added)
+- Orthogonality thesis
 - Reward misspecification 
-- The alignment problem 
+- Inner misalignment 
 - The control problem
-- The value loading problem 
+- The value loading problem/outer alignment 
 - Reward hacking
-- Instrumental Convergence (Added)
-- Goal missgeneralization (Added)
+- Instrumental Convergence
+- Goal missgeneralization
+- Unexpected capabilities increase
+- Deceptive Alignment
+- Goodhart's Law
+- Wireheading
+- Specification Gaming
+- Corrigibility
+- Mesa-Optimization
+- Robustness to Distributional Shift
+- Safe Exploration
+- Interpretability Challenges
+- The stop button problem
+- AI Race Dynamics
+- AI Governance Issues
+
 
 oh my this is a huge can of worms you open at late night. But nah I'm generally not a doomer (not on a Yudkowski level atleast). I think alignment is doable and existential risk assesments that I've read published in academic journals put it at 2%-10% (still large and very worthwhile working on, by Boströms argument in "astronomical waste"). The older arguments, on instrumental convergence, goal-missgeneralization, reward misspecification etc. may no longer work on LLM's because those arguments really only work on reinforcment-learning agents likely following some Bayesian epistemology with the Von-Neuman Morgenstern axioms of rational choice. LLM's are diffrent, they are probability calculators. If AI continues in this way, then those old arguments may need to be reworked. Alternatively, good arguments might be made that such agents will make a comeback, likely combined with an LLM module. But LLMs make some risks much less likely, as argued in one paper, specifically the problem of goal misspecification. Back with the decision-theoretic paradigm, specifying the goal function with a mathematical formula was genuinely hard. But now it's less hard with natural language that LLMs seems to get. We should still be cautious though, and I'm pro-pause (even participated in a protest). At the very least, we should focus very hard on safety research and slowing down the arms-race between tech companies. You wouldn't get on a plane that has a 10% chance of killing you.
 
