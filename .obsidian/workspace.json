@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "0a95564ab735aeb2",
+        "id": "2fd62ed1d4fc1c53",
         "type": "tabs",
         "children": [
           {
-            "id": "6e503265edcb47aa",
+            "id": "c49be0b32ed93e4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Idea (AI Safety textbook)/Rececnt Laptop work to move over/Predictive Coding.md",
+                "file": "List of Bachelor Thesis ideas (or blog posts or YouTube videos!).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Predictive Coding"
+              "title": "List of Bachelor Thesis ideas (or blog posts or YouTube videos!)"
+            }
+          },
+          {
+            "id": "37ad5b73f54d1bbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The AI philosophy Lab/Reproduce NARS vs Q-learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reproduce NARS vs Q-learning"
+            }
+          },
+          {
+            "id": "e8b7cd6a06e50b92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book Idea (AI Safety textbook)/Rececnt Laptop work to move over/Alignment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alignment"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -52,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "27.",
+                "query": "28.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,47 +217,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e503265edcb47aa",
+  "active": "e8b7cd6a06e50b92",
   "lastOpenFiles": [
+    "Pasted image 20250103211149.png",
+    "Pasted image 20250103180140.png",
     "List of Bachelor Thesis ideas (or blog posts or YouTube videos!).md",
+    "Fermi Estimations, Exponentials and Orders of Magnitude.md",
+    "Pasted image 20250102190811.png",
+    "Pasted image 20250102175431.png",
+    "Pasted image 20250102175424.png",
+    "Pasted image 20250102170514.png",
+    "Transhumanism.md",
+    "Pasted image 20250102170446.png",
+    "Pasted image 20250102162043.png",
+    "Book Idea (AI Safety textbook)/Rececnt Laptop work to move over/Economics Society.md",
+    "Book Idea (AI Safety textbook)/Rececnt Laptop work to move over/Alignment.md",
+    "Pasted image 20250101131043.png",
+    "The AI philosophy Lab/Reproduce NARS vs Q-learning.md",
+    "Book Idea (Philosophy)/3. Formal Phenomenology.md",
+    "Blog Posts WIP/Radical Anti-Environmentalism.md",
+    "Philosophy of Religion.md",
+    "School/Glackin Expressive Responding, Experimental Philosophy, and  Philosophical Expertise.md",
+    "Blog Posts ideas/Expectedly little suffering.md",
+    "Ethereal Forest.md",
+    "Book Idea (Philosophy)/6. Transhumanism, AGI, ASI, alignment.md",
+    "Blog Posts ideas/4 futures.md",
+    "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society/1. Ethics.md",
+    "Omnipotence.md",
+    "Schopenhauer.md",
     "Book Idea (AI Safety textbook)/Rececnt Laptop work to move over/Predictive Coding.md",
     "Hegel.md",
     "Book Idea (AI Safety textbook)/Rececnt Laptop work to move over/Definitions of AGI.md",
     "Pasted image 20241226205123.png",
     "Pasted image 20241226205041.png",
     "Book Idea (AI Safety textbook)/Rececnt Laptop work to move over/Meaning Language.md",
-    "Book Idea (AI Safety textbook)/Rececnt Laptop work to move over/Economics Society.md",
     "Book Idea (AI Safety textbook)/Rececnt Laptop work to move over/Syntax Semantics Room.md",
-    "Pasted image 20241225105618.png",
-    "Pasted image 20241225105605.png",
     "Book Idea (AI Safety textbook)/Rececnt Laptop work to move over/Untitled",
-    "Pasted image 20241225102646.png",
-    "Pasted image 20241225102637.png",
-    "Pasted image 20241225102626.png",
     "To Transfer when update later/Potential Solution to Outer Alignment + Value Lock in.md",
     "To Transfer when update later/Möte Anteckningar.md",
     "The AI philosophy Lab/P(doom) calculation unit.md",
-    "The AI philosophy Lab/Website.md",
-    "The AI philosophy Lab/Philosophy of AGI Lab research project.md",
-    "Book Idea (AI Safety textbook)/OUTLINE.md",
-    "Pasted image 20241223002123.png",
     "Book Idea (AI Safety textbook)/Rececnt Laptop work to move over",
-    "Analytic Philosophy Organizations.md",
-    "World War 2.md",
-    "Wang's Paradox.md",
-    "Untitled 2.md",
-    "Review Loke C-uppsats.md",
-    "Political Engagement.md",
-    "Pasted image 20241211154018.png",
-    "Pasted image 20241211153930.png",
-    "Paranormal.md",
-    "NARS.md",
-    "Machine Psychology.md",
-    "Formalism.md",
-    "Economics of AGI.md",
     "David J. Chalmers - Philosophy of Mind_ Classical and Contemporary Readings (2002, Oxford University Press, USA) - libgen.li.pdf",
-    "Cooperative AI.md",
-    "Book Idea (Philosophy)/Political Manifesto.md",
     "Book Idea (AI Safety textbook)/4. Practical Philosophy and Society",
     "Book Idea (AI Safety textbook)/3. AI Models",
     "Book Idea (AI Safety textbook)/2. AI Minds",

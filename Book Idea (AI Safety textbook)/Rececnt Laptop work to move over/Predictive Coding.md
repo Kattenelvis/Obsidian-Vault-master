@@ -35,3 +35,9 @@ Idea: Are blind people less intelligent? Born blind vs becoming blind? I assume 
 
 We might expect an agent $A$ of which minimizes prediction error to always be sitting in a dark empty room. We expect agents to be slightly more multi-faceted in its goal structure or preference relation other than minimization of prediction error.
 
+
+
+
+
+
+

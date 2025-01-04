@@ -8,3 +8,12 @@ Idea: The SEP article discusses omnipotence in the context of a newtonian univer
 [Descartes on God's Ability to Do the Logically Impossible | Canadian Journal of Philosophy | Cambridge Core](https://www.cambridge.org/core/journals/canadian-journal-of-philosophy/article/abs/descartes-on-gods-ability-to-do-the-logically-impossible/44E25CE77444B6A6F00B4E505AD908E6)
 
 
+
+
+Countable infinity vs Uncountably infinite power.
+
+Absolute infinity, Frege and God
+
+A character that's infinitely powerful, but only countably infinite, would not be able to defeat God.
+
+
