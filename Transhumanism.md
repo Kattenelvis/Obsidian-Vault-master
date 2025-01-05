@@ -77,3 +77,13 @@ Tags
 
 
 
+
+![[Pasted image 20250102162043.png]]
+From life 3.0
+
+A paper in 2000: Limit to computation speed by $E=h/4T$ 
+operation in time $T$ 
+
+
+![[Pasted image 20250102170446.png]]
+

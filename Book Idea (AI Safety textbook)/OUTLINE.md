@@ -177,3 +177,141 @@ Idea: Incorporate mathematics/logic/computability more fluidly with the rest of 
 
 
 
+
+ChatGPT generated one, maybe one can take inspiration:
+
+### **Artificial General Intelligence (AGI)**
+
+#### **1. Introduction**
+
+- Definition of AGI: Intelligence comparable to human cognitive abilities across a wide range of tasks.
+- Distinction between AGI and Narrow AI.
+- Historical context and emergence of the concept.
+- Relevance to philosophy, computer science, and ethics.
+
+---
+
+#### **2. Theoretical Foundations of AGI**
+
+- **2.1 Computational Models of Intelligence**
+    - Turing Machine and Church-Turing Thesis.
+    - Connectionism vs. Symbolic AI.
+    - Computationalism and the mind as a computer.
+- **2.2 Cognitive Architectures**
+    - Overview of unified cognitive theories (e.g., SOAR, ACT-R).
+    - Relation to AGI design.
+- **2.3 Intelligence Metrics**
+    - Turing Test and its limitations.
+    - Alternatives: Lovelace Test 2.0, Universal Intelligence Test.
+- **2.4 Embodiment in AGI**
+    - Role of embodiment in intelligence.
+    - Theories of situated cognition and embodied AI.
+
+---
+
+#### **3. Approaches to AGI Development**
+
+- **3.1 Symbolic Approaches**
+    - Logic-based systems and expert systems.
+    - Knowledge representation and reasoning.
+- **3.2 Connectionist Approaches**
+    - Neural networks and deep learning as tools for AGI.
+    - Brain-inspired AGI models.
+- **3.3 Hybrid Approaches**
+    - Combining symbolic and neural methods.
+    - Examples: Neuro-Symbolic AI.
+- **3.4 Evolutionary and Emergent Methods**
+    - Evolutionary algorithms for AGI.
+    - Emergent properties in complex systems.
+- **3.5 Alternative Paradigms**
+    - Quantum computing for AGI.
+    - Probabilistic programming and Bayesian networks.
+
+---
+
+#### **4. Key Philosophical Questions**
+
+- **4.1 Nature of Intelligence**
+    - What is intelligence? Can it be quantified?
+    - Differences between human intelligence and machine intelligence.
+- **4.2 Consciousness and AGI**
+    - The Hard Problem of Consciousness (Chalmers).
+    - Can AGI be conscious? If so, how would we know?
+- **4.3 Mind and Agency**
+    - Functionalism and AGI: Is the mind reducible to functions?
+    - Can AGI have free will or moral agency?
+- **4.4 Epistemology and AGI**
+    - How does AGI acquire, process, and validate knowledge?
+    - Implications of AGI epistemology for human knowledge systems.
+
+---
+
+#### **5. Technical Challenges in AGI**
+
+- **5.1 Scalability of Machine Learning**
+    - Resource requirements for AGI.
+    - Generalization across tasks and environments.
+- **5.2 Alignment and Safety**
+    - Alignment problem: Ensuring AGI’s goals align with human values.
+    - Control problem: Avoiding runaway scenarios.
+- **5.3 Robustness and Interpretability**
+    - Making AGI systems reliable and explainable.
+    - Addressing adversarial attacks and biases.
+
+---
+
+#### **6. Ethical and Societal Implications**
+
+- **6.1 Moral Status of AGI**
+    - Can AGI have rights? Should it?
+    - Ethical responsibilities toward AGI systems.
+- **6.2 AGI and Human Society**
+    - Potential disruptions to labor, economy, and governance.
+    - Risks of misuse (e.g., surveillance, autonomous weapons).
+- **6.3 Existential Risks**
+    - Bostrom’s “Superintelligence” and paperclip maximizer thought experiment.
+    - Managing catastrophic risks associated with AGI development.
+
+---
+
+#### **7. Contemporary Theories and Research Directions**
+
+- **7.1 Open Problems in AGI**
+    - The Frame Problem.
+    - Transfer learning and zero-shot reasoning.
+- **7.2 Prominent AGI Research Paradigms**
+    - OpenAI, DeepMind, and other leading AGI initiatives.
+    - Comparison of goals and approaches.
+- **7.3 Philosophical Perspectives on AGI**
+    - Realism vs. Skepticism about AGI’s feasibility.
+    - Interpretations of progress toward AGI.
+
+---
+
+#### **8. Future Directions**
+
+- **8.1 Timelines for AGI**
+    - Predictions on when AGI might emerge.
+    - Uncertainty and methodological critiques.
+- **8.2 Post-AGI Scenarios**
+    - Potential futures with AGI: Utopian, dystopian, or otherwise.
+    - Technological singularity and its philosophical implications.
+- **8.3 Human-AGI Collaboration**
+    - Co-evolution of humans and AGI systems.
+    - Designing AGI as a partner, not a competitor.
+
+---
+
+#### **9. Conclusion**
+
+- Summary of key technical, philosophical, and ethical points.
+- The interdisciplinary nature of AGI studies.
+- Open-ended questions for the future of AGI research and philosophy.
+
+---
+
+#### **References and Further Reading**
+
+- Comprehensive list of academic and popular resources on AGI.
+- Key texts in philosophy, computer science, and cognitive science.
+- Links to AGI research institutions and think tanks.
