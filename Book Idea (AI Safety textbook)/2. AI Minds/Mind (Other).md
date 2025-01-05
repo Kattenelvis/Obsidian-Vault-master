@@ -221,6 +221,23 @@ https://oronshagrir.huji.ac.il/sites/default/files/oronshagrir/files/ver19_physi
 
 Formal Phenomenology?
 
+> Early modern psychology relied on introspection to parse mental processes but ultimately abandoned it due to worries about introspection’s reliability (Feest 2012; Spener 2018). Introspection was judged to be an unreliable method for addressing questions about mental processing (and it is still seen with suspicion by some; Schwitzgebel 2008). To address these worries, we must understand how introspection works, but unlike many other psychological capacities, detailed models of introspection of consciousness are hard to develop (Feest 2014; for theories of introspecting propositional attitudes, see Nichols & Stich 2003; Heal 1996; Carruthers 2011).
+
+
+> Such introspection has revealed many phenomenal features that are targets of active investigation such as the phenomenology of mineness (Ehrsson 2009), sense of agency (Bayne 2011; Vignemont & Fourneret 2004; Marcel 2003; Horgan, Tienson, & Graham 2003), transparency (Harman 1990; Tye 1992), self-consciousness (Kriegel 2003: 122), cognitive phenomenology (Bayne & Montague 2011); phenomenal unity (Bayne & Chalmers 2003)
+
+
+> Introspection illustrates a type of cognitive access, for a state that is introspected is access conscious. This raises a question that has epistemic implications: is access consciousness necessary for phenomenal consciousness? If it is not, then there can be phenomenal states that are not access conscious, so are in principle not reportable. That is, phenomenal consciousness can _overflow_ access consciousness (Block 2007).
+
+
+> Access is tied to attention, and attention is tied to report. Some views hold that attention is necessary for access, which entails phenomenal consciousness (e.g., the Global Workspace theory [[section 3.1](https://plato.stanford.edu/entries/consciousness-neuroscience/#GlobNeurWork)]).[[4](https://plato.stanford.edu/entries/consciousness-neuroscience/notes.html#note-4)] In contrast, other theories (e.g., recurrent processing theory [section 3.2](https://plato.stanford.edu/entries/consciousness-neuroscience/#RecuProcTheo)]), hold that there can be phenomenal states that are not accessible.
+
+
+
+Introspective detection theory.
+[Detection theory - Wikipedia](https://en.wikipedia.org/wiki/Detection_theory)
+
+![[Pasted image 20241214195216.png]]
 
 ### Is it important if AI has phenomenal consciousness or not?
 
@@ -492,3 +509,14 @@ Consciousness in AI
 
 
 [2402.19379 (arxiv.org)](https://arxiv.org/pdf/2402.19379)
+
+
+
+# Predictive Coding
+
+
+[Connectionism (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/connectionism/)
+
+> It is too early to evaluate the importance and scope of PC models in accounting for the various aspects of cognition. Providing a unified theory of brain function in general is, after all, an impossibly high standard. Clark’s target article (2013) provides a useful forum for airing complaints against PC models and some possible responses. One objection that is often heard is that an organism with a PC brain can be expected to curl up in a dark room and die, for this is the best way to minimize error at its sensory inputs. However, that view may take too narrow a view of the sophistication of the predictions available to the organism. If it is to survive at all, its genetic endowment coupled with what it can learn along the way may very well endow it with the expectation that it go out and seek needed resources in the environment. Minimizing error for that prediction of its behavior will get it out of the dark room. However, it remains to be seen whether a theory of biological urges is usefully recast in PC terminology in this way, or whether PC theory is better characterized as only part of the explanation. Another complaint is that the top-down influence on our perception coupled with the constraint that the brain receives error signals rather than raw data would impose an unrealistic divide between a represented world of fantasy and the world as it really is. It is hard to evaluate whether that qualifies as a serious objection. Were PC models actually to provide an account of our phenomenological experience, and characterize the relations between that experience and what we count as real, then skeptical conclusions to be drawn would count as features of the view rather than objections to it. A number of responders to Clark’s target article also worry that PC-models count as overly general. In trying to explain everything they explain nothing. Without sufficient constraints on the architecture, it is too easy to pretend to explain cognitive phenomena by merely redescribing them in a story written in the vocabulary of prediction, comparison, error minimization, and optimized precision. The real proof of the pudding will come with the development of more complex and detailed computer models in the PC framework that are biologically plausible, and able to demonstrate the defining features of cognition.
+
+

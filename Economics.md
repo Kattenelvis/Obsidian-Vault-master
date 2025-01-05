@@ -1,3 +1,6 @@
+[Browse by Category, Concise Encyclopedia of Economics, 1st edition | Library of Economics and Liberty](https://www.econlib.org/library/Enc1/CEECategory.html)
+
+
 I think it's unoptimized because individiuals are not rational and markets are not in perfect competition. If everyone was perfectly rational with perfect information, under perfect competition (no monoplies etc.) then the theorems of neoclassical economics would actually hold and capitalism would be extremely optimal according to the fundamental theorem of welfare economics (the situation ends up being best for everyone). I also think one leftist economist found that when taking into account a game-theoretic formalism of power dynamics between employer and employee, most theorems in neoclassical economics no longer hold. So assuming non-rationality, non-perfect markets and power dynamics, then we're better of with a socialist distribution system. Preferably something like worker cooperatives in cooperative agreements with consumer cooperatives, ran on a (liquid) democratic basis. Democratic decision making, such as liquid democracy with score voting, can be very close to being optimised for pareto efficiency when people delegate to people more knowlegable than themselves. Applying this to economic planning would likely be more optimized.
 
 

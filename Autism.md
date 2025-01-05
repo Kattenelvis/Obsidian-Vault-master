@@ -1,4 +1,8 @@
 
+Oxytocin spray as a "cure" for social cognition aspects of autism?
+https://www.thetransmitter.org/spectrum/the-connection-between-oxytocin-and-autism-explained/
+
+
 [document (psu.edu)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2c3b2d857068b8ac5a144e90892de5a5dde3a3fd)
 "Violations of Grice’s (1975) conversational maxims" hmmm
 

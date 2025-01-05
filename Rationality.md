@@ -1,4 +1,8 @@
 
+Rationality > Freedom > Avoiding Harm > Well being?
+
+
+
 [(PDF) Foundations of Visual Perception (researchgate.net)](https://www.researchgate.net/publication/228045045_Foundations_of_Visual_Perception)
 ![[Pasted image 20240726153931.png]]
 

@@ -327,3 +327,191 @@ left * green is of combined typed location \* color
 ![[Pasted image 20241211154018.png]]
 
 
+# Lecture 5
+
+
+
+![[Pasted image 20241213092401.png]]
+
+![[Pasted image 20241213092506.png]]
+
+
+Intelligence has more to do with general purpose cognition and being able to reason in novel conditions. Under resource and time constraints.
+
+Find programs that find the best explanations of observations. 
+
+Catastrophic forgetting. With fixed memory, data might be overwritten. 
+
+![[Pasted image 20241213093158.png]]
+
+
+![[Pasted image 20241213093321.png]]
+
+Domain independence it can learn about many concepts.
+
+rich expressing power in terms of logic. Implications, conjunctions etc. 
+
+Predictive coding
+
+![[Pasted image 20241213101313.png]]
+
+![[Pasted image 20241213101850.png]]
+
+![[Pasted image 20241213102211.png]]
+
+
+Formalizing human knowledge into fol in an earlier project.
+Didn't quite work because of universally quantified statements are often false. So you add exceptions. "All ravens are black except instance 1,2,...n" (say, albino ravens) which is not good for resource constrained agents. 
+
+
+Term logic based deduction, induction, abduction and revision
+
+![[Pasted image 20241213103243.png]]
+
+
+![[Pasted image 20241213103827.png]]
+
+
+
+![[Pasted image 20241213104144.png]]
+
+![[Pasted image 20241213111202.png]]
+
+
+Question:Does instrumental convergence apply to NARS. That is to say, when subgoaling there is a small set of sub-goals which end up useful for a large set of goals?
+
+
+Answer: Revision of goals
+
+Want to achieve 
+![[Pasted image 20241213112617.png]]
+
+if also w accumilitates evidence. 
+
+Reinfocrmcent learning: Model-free and model-based reinforcment learning.
+
+Model-free: Utility function maximization. Doesn't know much about states other than reward?
+Model-based: Modeling state transition and inferences. Encodes states. 
+
+
+
+# Lecture 6
+
+
+![[Pasted image 20241217130842.png]]
+
+
+
+
+
+![[Pasted image 20241217134027.png]]
+Temporal reasoning, temporal induction (found in operant condition aswell)
+
+vs Abstraction, variable introduction
+
+
+
+Functional equivalence + implications Stage 5. Moderated learning.
+
+Multiple standard (i.e non-meta) regularities involved at the same time.
+
+![[Pasted image 20241217144542.png]]
+
+Substitutable events
+
+
+![[Pasted image 20241217151240.png]]
+
+$R_i$ means pressing button $i$, perhaps at some location.
+
+![[Pasted image 20241217151431.png]]
+![[Pasted image 20241217151500.png]]
+
+
+http://91.203.212.130/AniNAL/demo.html
+
+
+
+
+# Lecture 7 
+
+Arbitrarily Applicable Relational Responding
+Relational Frame Theory
+
+![[Pasted image 20241218131125.png]]
+
+
+Imitation game. Turing argues that "can machine think" is hard/indeterminate to answer without a definition of "think". So he skips it and changes the question.
+
+We can go back with defining what thinking is with the help of relational frame theory.
+
+
+Murray Sidman Reading and auditory-visual equivalences. A menatlly handicapped boy who couldn't read.
+
+![[Pasted image 20241218132639.png]]
+He knew A-B-D but was trained to do A-C
+
+He got to know things he wasn't explicitly trained in. Could point between the word "cat" and pictures of cat. 
+
+
+![[Pasted image 20241218132816.png]]
+
+Upheval in cog sci: People thought it was only through operant condition that someone learnt. Common behaviourist L and cognitivist W.
+
+
+Transitivity and reflexivity. Sameness.
+
+![[Pasted image 20241218133448.png]]
+
+
+![[Pasted image 20241218133907.png]]
+
+
+The key part of intelligence: Being able to derive many relations from a few.
+
+From
+A > B
+B > C
+
+You can derive
+A > C
+B < A
+C < A
+B < C
+
+![[Pasted image 20241218140253.png]]
+
+![[Pasted image 20241218140527.png]]
+
+
+
+Equivalence relations
+
+![[Pasted image 20241218141505.png]]
+
+![[Pasted image 20241218141650.png]]
+
+![[Pasted image 20241218141717.png]]
+
+Measuring skin-conductance under fear response when trained under a greater-schock relation between A, B, C.
+
+![[Pasted image 20241218142227.png]]
+
+![[Pasted image 20241218142443.png]]
+
+![[Pasted image 20241218142624.png]]
+
+![[Pasted image 20241218142933.png]]
+
+![[Pasted image 20241218143128.png]]
+
+![[Pasted image 20241218151229.png]]
+
+![[Pasted image 20241218151955.png]]
+
+![[Pasted image 20241218152325.png]]
+
+![[Pasted image 20241218152916.png]]
+
+
+

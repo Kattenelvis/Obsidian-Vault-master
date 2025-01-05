@@ -1,4 +1,8 @@
 
+Activism:
+
+> https://www.youtube.com/watch?v=c__fDd1dN_U
+Take lessons from this guy. 1. Be informed about your topic and its wider implications. 2. Don't talk down to the people listening, twice he acknowledged the audience and didn't dismiss or belittle them either time. 3. DRIVE YOUR POINTS. He drove taxing multinationals, getting royalties to invest into retraining and creating new jobs and no new fossil fuel projects. 4. Don't get distracted, if your opposition makes a false claim or tries to twist your words, gently and firmly correct them and then drive your points again. Bloody masterclass in handling hostile interviews.
 
 Plan: Curb two industries: The tech industry and the carbon intensive industries.
 

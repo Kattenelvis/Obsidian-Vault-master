@@ -33,3 +33,8 @@ cal virtues:
 -Coheres with other theories with many virtues
 
 
+[Temporal Consciousness > Some Relevant Empirical Findings (Psychology, Psychophysics, Neuroscience) (Stanford Encyclopedia of Philosophy/Fall 2017 Edition)](https://plato.stanford.edu/archivES/FALL2017/Entries/consciousness-temporal/empirical-findings.html)
+
+> In §5.2 we encountered the ‘discrete block’ conception: according to some philosophers (e.g., Bradley, Sprigge, Whitehead) our streams of consciousness are composed of non-overlapping sequences of Jamesian duration-blocks. To put it another way, our experience is _chunked_ or _quantized_. This model has its merits – it offers a phenomenologically plausible account of individual specious presents – it is also problematic: if awareness of phenomenal continuity is confined to the interiors of non-overlapping duration-blocks, it is hard to see how our experience could be as continuous as it is often thought to be.
+
+
