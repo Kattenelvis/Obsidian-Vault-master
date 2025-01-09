@@ -22,16 +22,6 @@ $T(\{E_i,\dots E_{i+k}\})=\{E_{i+1},\dots E_{i+k+1}\}$
 "The extensional and retentional models are currently the two most influential forms of realism, with both approaches being developed in a variety of different ways. The task facing antirealists is in one respect the easier of the two: unlike their realist counterparts, they are under no obligation to provide an intelligible account of how it is possible for our consciousness to embrace seemingly temporally extended phenomena. But in another respect their task is the more difficult. Antirealists are under an obligation to “save the (temporal) phenomena”: they need to supply a credible explanation as to why so many of us find it so natural to _say_ we perceive movement and change if in fact we don’t. After all, it _does_ seem perfectly natural to hold that we can see clouds move across the sky, feel water flowing through our fingers and hear melodies. This is the task facing those cinematic theorists—e.g., Chuard (2017)—who hold that we do not directly perceive change or succession but who also accept that we seem to."
 
 
-Theoreti
-
-cal virtues:
--Simplicity
--Empirically adequate
--Explanatory
--Consistent
--Coherent
--Coheres with other theories with many virtues
-
 
 [Temporal Consciousness > Some Relevant Empirical Findings (Psychology, Psychophysics, Neuroscience) (Stanford Encyclopedia of Philosophy/Fall 2017 Edition)](https://plato.stanford.edu/archivES/FALL2017/Entries/consciousness-temporal/empirical-findings.html)
 

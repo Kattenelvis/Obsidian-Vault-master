@@ -11,3 +11,8 @@
 
 Open Access Books:
 https://cla.umn.edu/mcps/publications/minnesota-studies-philosophy-science
+
+
+
+[Stanford School - Wikipedia](https://en.wikipedia.org/wiki/Stanford_School)
+

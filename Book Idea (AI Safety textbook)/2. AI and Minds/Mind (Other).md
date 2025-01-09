@@ -520,3 +520,18 @@ Consciousness in AI
 > It is too early to evaluate the importance and scope of PC models in accounting for the various aspects of cognition. Providing a unified theory of brain function in general is, after all, an impossibly high standard. Clark’s target article (2013) provides a useful forum for airing complaints against PC models and some possible responses. One objection that is often heard is that an organism with a PC brain can be expected to curl up in a dark room and die, for this is the best way to minimize error at its sensory inputs. However, that view may take too narrow a view of the sophistication of the predictions available to the organism. If it is to survive at all, its genetic endowment coupled with what it can learn along the way may very well endow it with the expectation that it go out and seek needed resources in the environment. Minimizing error for that prediction of its behavior will get it out of the dark room. However, it remains to be seen whether a theory of biological urges is usefully recast in PC terminology in this way, or whether PC theory is better characterized as only part of the explanation. Another complaint is that the top-down influence on our perception coupled with the constraint that the brain receives error signals rather than raw data would impose an unrealistic divide between a represented world of fantasy and the world as it really is. It is hard to evaluate whether that qualifies as a serious objection. Were PC models actually to provide an account of our phenomenological experience, and characterize the relations between that experience and what we count as real, then skeptical conclusions to be drawn would count as features of the view rather than objections to it. A number of responders to Clark’s target article also worry that PC-models count as overly general. In trying to explain everything they explain nothing. Without sufficient constraints on the architecture, it is too easy to pretend to explain cognitive phenomena by merely redescribing them in a story written in the vocabulary of prediction, comparison, error minimization, and optimized precision. The real proof of the pudding will come with the development of more complex and detailed computer models in the PC framework that are biologically plausible, and able to demonstrate the defining features of cognition.
 
 
+
+
+
+# Brain Simulation
+
+Massive brain simulation on 14k GPU's!
+[2211.15963](https://arxiv.org/pdf/2211.15963)
+
+> In previous research, the European Human Brain Project (HBP) aimed to create a digital infrastructure for neuroscience. For example, the SpiNNakker5, as well as other simulators such as NEST 6, can perform simulations at the neuronal level of brains7.
+
+
+> These approaches have been useful in, for example, simulating networks in both local circuits8 and large-scale networks of multiple brain regions9,10. The Virtual Brain (TVB) also encompasses a large number of software tools, brain atlases, experimental datasets computational models and so forth, and is currently undergoing a large clinical trial on brain diseases11,12. However, there are still computational challenges to establish a digital brain: (1) how to efficiently simulate spiking neuronal networks at the large neuron scale of the human brain; (2) how to statistically infer such a “big” model by limited experimental data.
+
+
+> In the present work, we have implemented a Digital Brain (DB) platform to simulate the activity of the whole human brain, going beyond the mean field, by implementing a spiking neuronal network with up to 86 billion neurons and 47.8 trillion synapses.
