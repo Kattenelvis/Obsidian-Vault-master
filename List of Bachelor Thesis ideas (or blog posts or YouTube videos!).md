@@ -1,12 +1,12 @@
 
-1. Ideal Language Philosophy and Formal Philosophy vs Ordinary Language Philosophy
+1. Ideal Language Philosophy vs Ordinary Language Philosophy
 2. Skepticism and responses (Cartesian, External-world, Phyrronian, Semantic (Quine, Kripkenstein), Problem of Criterion, Humean, of the a priori)
 3. Integrated Information Theory vs Global Workspace Theory
 4. Mechanism/Computational Theory of Mind (Lucas-Penrose arguments etc.)
 5. Interpretations of Quantum Mechanics
 6. Reductionism in Science (Hempel-Schaffer reduction vs Emergence)
 7. Linear development of Science vs Kuhnian views (Sneed's project)
-8. Bayesian reasoning/IBE. Bayesian vs Frequentist.
+8. Bayesian reasoning/IBE. Bayesian vs Frequentist statistics.
 9. Philosophy of AI, particularly the Technological Singularity
 10. Multi Agent dynamics epistemic, maybe in addition to preference logic
 11. Compactness, completeness etc. Theorems for intuitionistic and intermediate logic
@@ -26,12 +26,23 @@
 23. Gödel Modal Logical argument for God
 24. Fine Tuning, Anthropics and the multiverse
 25. P=NP?
-26. Automation of Philosophy (With LLM?)
-27. Evidential vs Causal Decision Theory
-28. Automating Philosophy with LLMs
-29. Aligning AI with phenomenal consciousness
-30. AI consciousness, wireheading vs orthogonality
-31. Ramsey sentences and Carnap sentences
+26. Evidential vs Causal Decision Theory
+27. Automating Philosophy with LLMs
+28. Aligning AI using phenomenal consciousness
+29. AI consciousness, wireheading vs orthogonality
+30. Ramsey sentences and Carnap sentences
+31. Constructive Neologicism (using  intuitionistic relevance logic)
+
+
+
+Narrowing of 9.: 
+- Intelligence explosion, Boström, Chalmers, Hutter
+- Definition of AI, Wang, Goertzel, Hutter
+- Weak vs Strong AI, Gödel, Lukas, Penrose, Tonini, Chalmers, Searle
+- Philosophical AI. Dennett.
+- Rationality and coherence arguments, Omohundro, Boström, Häggström
+
+Can the singularity argument be applied to LLMs?
 
 
 

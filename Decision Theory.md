@@ -1,3 +1,5 @@
+For my university course look here [[Decision Theory (Course)]]
+
 \<idea> 
 Dynamic Decision theory. Assume a subjective interpretation of probability theory, such that the probabilities indicate credence/belief. Then for any lottery $L$ these credences would update over time as new information was gathered about $L$ aswell as new possible actions and outcomes being discovered. This could update forever as there's always a diminishingly small chance that one is wrong about $L$. At what point is it the most rational to stop and take the best option? An maximiser might keep going forever, especially among two almost identical options (Burundian's ass moment) but a satisficer can pick the best after just a short while. 
 
@@ -20,3 +22,11 @@ Two-boxers, HOWEVER:
 
 
 Positivists don't like it becuase they don't believe in causality. Or atleast, they don't believe causality is a meaningful concept. 
+
+
+
+Completeness in preference relations
+
+[Conflicting Reasons in the Small-Improvement Argument](https://johanegustafsson.net/papers/conflicting-reasons-in-the-small-improvement-argument.pdf)
+
+

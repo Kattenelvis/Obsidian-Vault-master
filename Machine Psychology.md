@@ -515,3 +515,25 @@ Measuring skin-conductance under fear response when trained under a greater-scho
 
 
 
+
+# Lecture 9 Ethics
+
+
+Bias
+
+Deep Learning requires labeled data, typically have an over-representation of some groups over others.
+
+"The meaning of symbols is based on its experience" Heck yeah.
+
+
+Responsibility gaps when training NARS systems. Independence of AI agents. 
+
+
+Make many simulations of depression!?
+
+
+![[Pasted image 20250114104926.png]]
+
+![[Pasted image 20250114105406.png]]
+
+

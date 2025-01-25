@@ -382,3 +382,7 @@ Beyond Preferences in AI Alignment [2408.16984](https://arxiv.org/pdf/2408.16984
 [Automated machine learning - Wikipedia](https://en.wikipedia.org/wiki/Automated_machine_learning)
 
 [Hyper-heuristic - Wikipedia](https://en.wikipedia.org/wiki/Hyper-heuristic)
+
+
+
+In NARS there's the assumption of limited resources and knowledge. 

@@ -535,3 +535,24 @@ Massive brain simulation on 14k GPU's!
 
 
 > In the present work, we have implemented a Digital Brain (DB) platform to simulate the activity of the whole human brain, going beyond the mean field, by implementing a spiking neuronal network with up to 86 billion neurons and 47.8 trillion synapses.
+
+
+
+
+# AI as Philosophy
+
+Dennett thinks AI is a part of epistemology and consciousness
+
+Dennett sees the potential flaw, as reflected in:
+
+> It has seemed to some philosophers that AI cannot plausibly be so construed because it takes on an additional burden: it restricts itself to _mechanistic_ solutions, and hence its domain is not the Kantian domain of all possible modes of intelligence, but just all possible mechanistically realizable modes of intelligence. This, it is claimed, would beg the question against vitalists, dualists, and other anti-mechanists. (Dennett 1979, 61)
+
+Dennett has a ready answer to this objection. He writes:
+
+> But … the mechanism requirement of AI is not an additional constraint of any moment, for if psychology is possible at all, and if Church’s thesis is true, the constraint of mechanism is no more severe than the constraint against begging the question in psychology, and who would wish to evade that? (Dennett 1979, 61)
+
+
+
+Structure idea: Put the dualism parts (lucas-penrose, Gödel's disjunction) after these.
+
+

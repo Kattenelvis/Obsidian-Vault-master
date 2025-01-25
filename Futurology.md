@@ -13,3 +13,10 @@
     
     
     Relative probabilities, I have a very limited idea about.
+
+
+
+
+Starlifting: Instead of building dyson sphere's, dismantle stars and build fusion reactors
+
+Better yet: Integrate fusion reactors into computers running virtual minds. The computer can be partially composed of hydrogen-helium and will be dismantled over time. 
