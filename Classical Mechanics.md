@@ -1,3 +1,14 @@
+
+1. So anyways with Lagrangian mechanics and a system in N dimensions you end up having to solve N second order differential equations
+    
+2. _[_00:39_]_
+    
+    Meanwhile with Hamiltionan mechanics in N dimension you have a system of 2N (possibly coupled) linear differential equations
+
+
+
+
+
 https://en.wikipedia.org/wiki/List_of_equations_in_classical_mechanics
 
 

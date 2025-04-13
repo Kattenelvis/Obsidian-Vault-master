@@ -1,4 +1,4 @@
-
+Idea: Exponential prisoners dilemma. For every cooperation, the defect score doubbles. 
 
 
 Multiple Worlds Semantics?!

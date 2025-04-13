@@ -6,4 +6,4 @@
 
 
 
-Goertzel on post-language and direct telepathic communication. 
+Goertzel on post-language and direct telepathic communication with the help of future technology. 

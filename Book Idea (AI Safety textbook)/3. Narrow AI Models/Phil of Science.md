@@ -31,8 +31,6 @@ So what are the core beliefs and what are belt-beliefs of different research pro
 ## How to spot a degenerating research program
 
 
-You can't LOOOL jk jk jk /hj /s /srs
-
 We already know that many AI research programs have degenerated to the point of no return, especially most GOAI programs. As such, we will explore how to spot if AI safety programs are degenerating, and when one should "jump the ship", so to speak, instead of merely changing belt beliefs. 
 
 

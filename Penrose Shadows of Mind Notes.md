@@ -34,3 +34,39 @@ B is weak AI
 
 
 "There are, however, other approaches to the computational issues raised by continuous systems, in which the systems are treated as mathematical structures in their own right, with their own notion of 'computability'-a notion which generalizes the idea of Turing computability from the discrete to the continuous. 1 2 Using such a notion, it becomes unnecessary to approxi mate a continuous system by discrete parameters in order that the conventional notion of Turing computability can be applied. Such ideas are interesting from the mathematical point of view, but unfortunately they do not seem to have achieved, as yet, the compelling naturalness and uniqueness that applies to the standard notion of Turing computability for discrete systems. Moreover, there are certain anomalies whereby a technical 'non-computabil ity' arises for simple systems where it is not clear that such a terminology is really appropriate (e.g. even for the simple 'wave equation' of physics; cf. Pour el and Richards (1981 ), ENM pp. 187-8). It should be mentioned, on the other hand, that some fairly recent work (Rubel 1989) has shown that theoretical analogue computers, belonging to a certain rather broad class, cannot reach beyond ordinary Turing computability. I believe that these are interesting and important matters which will be illuminated by further research. However it is not clear to me that this body of work, as a whole, has yet reached the point where it can be applied in a definitive way to the issues under discussion here."
+
+
+
+
+https://www.youtube.com/watch?v=_rI2kVWjPJs&t=1593s
+
+Lecture at one point. Finite and discrete NON-COMPUTATIONAL rules. 
+
+Will tiling x tile the plane? If yes, move one step, if no, move two steps. It is undecidable whether the shapes tile the plane. Ergo it's uncomputable. 
+
+
+
+
+Idea: So it appears that the premises in Penrose's and Lucas's are.
+1. Gödel's incompleteness theorem (and hence the 3 premises therein, that one has a 1. finitely axiomatizable 2. consistent formal system with atleast 3. peano arithmetic)
+2. Platonism about mathematics and/or finishing infinite mathematical reasoning steps in finite time
+3. Human minds are consistent/would implement a consistent computation if computational?
+
+Conclusion: Human minds are not computational.
+
+
+
+
+https://www.cantorsparadise.org/platonist-roger-penrose-sees-mathematical-truths-61a45840fe00/
+
+> So [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing?ref=cantorsparadise.org) is a good counterweight to bring in here.
+
+> Although Turing accepted Gödel’s theorems, he didn’t also accept some of the things which were said to be consequences of his theorems. (Many see Turing’s [Halting problem](https://en.wikipedia.org/wiki/Halting_problem?ref=cantorsparadise.org) as the “computational equivalent” of Gödel’s first incompleteness theorem.) More specifically, Turing accepted that (what Gödel called) “intuition” is used in order to see the truth of a formally unprovable Gödel sentence. What he _didn’t_ accept was that the brain and mind go beyond the “mechanical”. That is, Turing might well have asked Gödel how it is possible that _non-mechanical intuition_ is carried out by a physically and embodied brain. (See Turing’s own [‘Computing Machinery and Intelligence’](https://academic.oup.com/mind/article/LIX/236/433/986238?ref=cantorsparadise.org) — 1950 — for a very clear account of Gödel’s theorems and why he believed that they’d been somewhat overstretched.)
+
+> One other argument Turing offered is this. Because the brain is so complex, it simply _appears_ to to us to transcend its mechanical (or rule-following) nature. He also argued that (what he called) “initiative” doesn’t require uncomputable steps. (See Andrew Hodges’ [‘The Logical and the Physical’](https://books.google.co.uk/books?id=pzf7_sT58PUC&pg=PA667&lpg=PA667&dq=Hodges%2C+%27The+Logical+and+the+Physical%27&ots=KW_o2trFJu&sig=ACfU3U3sm2AtDDrMj94wFHh7yzGSWypaGQ&hl=en&sa=X&ved=2ahUKEwiOr5_Fm67pAhUxonEKHUkbBeYQ6AEwBHoECAoQAQ&ref=cantorsparadise.org#v=onepage&q=Hodges%2C%20%27The%20Logical%20and%20the%20Physical%27&f=false).) However, a machine’s (or computer’s) computations could still go beyond any programmer’s programme. (See also Turing’s [“randomizer”](https://books.google.co.uk/books?id=pzf7_sT58PUC&pg=PA667&lpg=PA667&dq=Hodges%2C+%27The+Logical+and+the+Physical%27&ots=KW_o2trFJu&sig=ACfU3U3sm2AtDDrMj94wFHh7yzGSWypaGQ&hl=en&sa=X&ved=2ahUKEwiOr5_Fm67pAhUxonEKHUkbBeYQ6AEwBHoECAoQAQ&ref=cantorsparadise.org#v=onepage&q=Hodges%2C%20%27The%20Logical%20and%20the%20Physical%27&f=false).)
+
+> All this meant that Turing didn’t conclude (i.e., from Gödel’s theorems) what Penrose later came to conclude about the human mind or consciousness. And it also meant that Turing was happy with the idea of what came to be called (firstly in 1956) [“artificial intelligence”](https://en.wikipedia.org/wiki/Artificial_intelligence?ref=cantorsparadise.org#History).
+
+
+
+ 

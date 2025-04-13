@@ -4,7 +4,7 @@ One definition: Qualia is non-representational intrinsic phenomenal experiences 
 ![[Pasted image 20230719090727.png]]
 
 
-Physicalist theory of Qualia: Qualia is or is supervenient on the microphysical. Arguments against include Mary's room, What it's like to be a bat, and the zombie one.
+Physicalist theory of Qualia: Qualia is identical with the physical, or is supervenient on the microphysical. Arguments against include Mary's room, What it's like to be a bat, and the zombie one.
 
 "Philosophical zombies pose a serious threat to physicalist views of qualia. To begin with, if zombie replicas are metaphysically possible, then there is a simple argument that seems to show that phenomenal states are not identical with internal, objective, physical states. Suppose objective, physical state _P_ can occur without phenomenal state _S_ in some appropriate zombie replica (in the metaphysical sense of ‘can’ noted above). Intuitively _S_ cannot occur without _S_. Pain, for example, cannot be felt without pain. So, _P_ has a modal property _S_ lacks, namely the property of _possibly_ occurring without _S_. So, by Leibniz’ Law (the law that for anything _x_ and for anything _y_, if _x_ is identical with _y_ then _x_ and _y_ share _all_ the same properties), _S_ is not identical with _P_.
 

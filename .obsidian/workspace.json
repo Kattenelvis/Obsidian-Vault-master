@@ -8,161 +8,76 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65eeac1f33947642",
+            "id": "49928e2382923bfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Idea (Philosophy)/Political Manifesto.md",
+                "file": "Flowback TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Political Manifesto"
+              "title": "Flowback TODO"
             }
           },
           {
-            "id": "07324b46742332d9",
+            "id": "cfb239cf11a24738",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rationality.md",
+                "file": "School/X-phi/Criticizing intuition without risking skepticism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rationality"
+              "title": "Criticizing intuition without risking skepticism"
             }
           },
           {
-            "id": "b06c5bfd14f311eb",
+            "id": "5d4927040f9d37e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Idea (AI Safety textbook)/3. Narrow AI Models/3. NLP and Language Models.md",
+                "file": "Blog Posts ideas/A better calculation for the probability of AI killing us all.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. NLP and Language Models"
+              "title": "A better calculation for the probability of AI killing us all"
             }
           },
           {
-            "id": "b4330e582d63e432",
+            "id": "baa5e0d529e563d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Psychology.md",
+                "file": "Personality Psychology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machine Psychology"
+              "title": "Personality Psychology"
             }
           },
           {
-            "id": "f6fd8f756ef0fb47",
+            "id": "4b771cf58e55e5f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog Posts ideas/Uncertain Contractarian Utilitarianism.md",
+                "file": "Decision Theory Project Essay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uncertain Contractarian Utilitarianism"
-            }
-          },
-          {
-            "id": "c66be0962bcb04e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Morality and Rational Choice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Morality and Rational Choice"
-            }
-          },
-          {
-            "id": "e8028f59e2be1676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog Posts ideas/Uncertain Contractarian Utilitarianism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Uncertain Contractarian Utilitarianism"
-            }
-          },
-          {
-            "id": "12956a008f5c22e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "List of Bachelor Thesis ideas (or blog posts or YouTube videos!).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "List of Bachelor Thesis ideas (or blog posts or YouTube videos!)"
-            }
-          },
-          {
-            "id": "7231ed2c56354fe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Decision Theory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Decision Theory"
-            }
-          },
-          {
-            "id": "a8097023c786d922",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog Posts ideas/Political Language 21 and 22 centuries.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Political Language 21 and 22 centuries"
-            }
-          },
-          {
-            "id": "db7300f10c3e8920",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gödel's Disjunct.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gödel's Disjunct"
+              "title": "Decision Theory Project Essay"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +96,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -193,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Is possible\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50418853759766
+    "width": 336.5
   },
   "right": {
     "id": "db970c8625f96ef3",
@@ -329,53 +245,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db7300f10c3e8920",
+  "active": "49928e2382923bfb",
   "lastOpenFiles": [
+    "Book Idea (Philosophy)/New set of axioms.md",
+    "Checklista.md",
+    "Personality Psychology.md",
+    "Book Idea (AI Safety textbook)/2. AI and Minds/Integrated Information Theory.md",
+    "Pasted image 20250407005940.png",
+    "Pasted image 20250407003354.png",
+    "Book Idea (AI Safety textbook)/1. Computability and Complexity/desktop.ini",
+    "Worldbuilding Storytelling/Untitled.md",
+    "Decision Theory Project Essay.md",
+    "Worldbuilding Storytelling/Magic System in the Chomsky Hierarchy.md",
+    "Book Idea (AI Safety textbook)/1. Computability and Complexity/2. Church-Turing Thesis.md",
+    "Decision Theory (Course).md",
+    "Blog Posts ideas/Carnap.md",
+    "Blog Posts ideas/A better calculation for the probability of AI killing us all.md",
+    "Book Idea (Philosophy)/4.7 Spatial logic.md",
+    "Book Idea (Philosophy)/Just straight up Tractatus.md",
+    "Blog Posts ideas/Idea for QM-GR-Consciousness unified theory.md",
+    "Blog Posts ideas/LLM, alignment and reflective equilibrium.md",
+    "Blog Posts ideas/LLMs and formal logical reasoning.md",
+    "Blog Posts ideas/Mathematics Philosophy.md",
+    "Blog Posts ideas/Meaning of life.md",
+    "Blog Posts ideas/Metaphilosophy Constructive Article.md",
+    "Blog Posts ideas/My Political views.md",
+    "Consciousness.md",
+    "Core Logic.md",
+    "Pasted image 20250329213152.png",
+    "Quantum Computing.md",
+    "Pasted image 20250327201344.png",
+    "Pasted image 20250327201341.png",
+    "Penrose Shadows of Mind Notes.md",
+    "Ontological Argument.md",
+    "Pasted image 20250327130109.png",
+    "Blog Posts WIP/Queer Labels as Inductive Hypothesis.md",
+    "School/X-phi",
+    "A priori/desktop.ini",
+    "Pasted image 20250223132733.png",
+    "Blog Backup/desktop.ini",
+    "Pasted image 20250212141911.png",
+    "Pasted image 20250212135824.png",
+    "Pasted image 20250212103622.png",
+    "Analytic/desktop.ini",
     "Blog Backup/inductive-statistical.pdf",
-    "Blog Backup/Myter om Patenter.md",
-    "Blog Backup/Ancaps and Private Property.md",
-    "Blog Backup/Decentraliseringen av Industri och Produktion.md",
-    "Blog Backup/The case for democratic schooling.md",
-    "Blog Backup/The Algae.md",
-    "Blog Backup/Pehr G Gyllenhammar och Volvos korporativism.md",
-    "Blog Backup/The good life according to artificial general intelligence.md",
-    "Blog Backup/Myths about patents.md",
-    "Blog Backup/Direct-Democratic digital economic planning.md",
-    "Blog Backup/DEMOKRATISK DIGITAL EKONOMIPLANERING.md",
-    "Blog Backup/Idealism is more parsemonious than solipsism.md",
-    "Blog Backup/Formal Phenomenology.md",
-    "Blog Backup/Dynamic value-Pluralist Preferences.md",
-    "Blog Backup/Experimental Phenomenal Consciousness Research.md",
-    "Blog Backup/Logical empiricism is good, actually.md",
-    "Blog Backup/Phenomenalist Ontology and Mereology, with connections to Physics.md",
     "Blog Backup/aixdemocracy.pdf",
     "Blog Backup/aixdemocracy.pdf.crdownload",
     "Blog Backup/reduction.pdf",
     "Blog Backup/reduction.pdf.crdownload",
-    "Blog Backup/dutch-books.pdf",
-    "Blog Backup/dutch-books.pdf.crdownload",
-    "Blog Backup/bayesian-epistemology.pdf",
-    "Blog Backup/bayesian-epistemology.pdf.crdownload",
-    "Blog Backup/inductive-statistical.pdf.crdownload",
-    "Blog Backup/Uploading into experience machines powered by artificial superintelligence.md",
-    "Blog Backup/Self Referential Sense-data signs logic.md",
-    "Blog Backup/Calculating p(doom) from misaligned artificial intelligence, and getting 13% as the result..md",
-    "Blog Backup/Formal Neo-Carnapian Metaphilosophy, Metascience and Metamathematics.md",
-    "Black Swans, New Nostradamuses, Voodoo decision theories.md",
-    "Blog Posts ideas/Uncertain Contractarian Utilitarianism.md",
-    "Pasted image 20250124213120.png",
-    "Stellaris.md",
-    "Book Idea (AI Safety textbook)/2. AI and Minds/Predictive Coding.md",
-    "Pasted image 20250124155749.png",
-    "Pasted image 20250124155716.png",
-    "Pasted image 20250124155521.png",
-    "Pasted image 20250124153639.png",
-    "Gödel's Disjunct.md",
-    "Pasted image 20250122220526.png",
-    "Pasted image 20250122140919.png",
-    "Pasted image 20250122134536.png",
-    "Pasted image 20250122132249.png",
-    "Pasted image 20250121184439.png",
     "Untitled.canvas"
   ]
 }

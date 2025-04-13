@@ -1,3 +1,5 @@
+
+
 [[Philosophy of Perception]]
 
 Sellars argue that Sense-datum theories cannot infer from sensing that region s is red to knowing s is red. We have an ordinary language usage of the word 'know' which is used beforehand. 

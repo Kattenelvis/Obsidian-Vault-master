@@ -10,7 +10,7 @@
 
 - [[Semantical theories]] aswell such as Chomsky grammar, Montague semantics, Multiple-worlds semantics, truth maker/bearer semantics e.t.c e.t.c
 
-- The development of the philosophy of science such as Popperian [[falsificationism]], Carnap's [[verificationism]], [[the unity of science]], strong use of science in philosophical investigation, Kuhn's [[paradigm shifts]], debates in [[realism vs anti-realism]] e.t.c e.t.c
+- The development of the philosophy of science such as Popperian [[falsificationism]], Carnap's [[Verificationism]], [[the unity of science]], strong use of science in philosophical investigation, Kuhn's [[paradigm shifts]], debates in [[realism vs anti-realism]] e.t.c e.t.c
   
 - Philosophy of mind, Functionalism, Computationalism, Connectivism, Epiphenomenalism. The 2010s saw the rise of panpsychist materialism (chalmers) and the analytic idealism counter movement (Hoffman, Kastrup). 
 

@@ -1,4 +1,7 @@
 
+
+[Vertiginous question - Wikipedia](https://en.wikipedia.org/wiki/Vertiginous_question)
+
 Combination laws apply to these two?
 [Krista and Tatiana Hogan - Wikipedia](https://en.wikipedia.org/wiki/Krista_and_Tatiana_Hogan)
 

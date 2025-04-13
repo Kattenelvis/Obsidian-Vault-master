@@ -56,7 +56,7 @@ Megacorp, to understand trade and fix mid-game energy crisis?
 
 Machine intelligence, rushing unity nanites ascention.
 
-
+Machine intelligence, rushing arc-furnace and scaling towards virtuality
 
 
 
