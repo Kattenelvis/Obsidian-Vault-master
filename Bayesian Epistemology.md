@@ -1,3 +1,12 @@
+
+Approximation: https://en.wikipedia.org/wiki/AdaBoost
+
+
+http://www.math.huji.ac.il/raumann/pdf/Agreeing%20to%20Disagree.pdf
+Aumann's agreement theorem
+![[Pasted image 20250504195553.png]]
+
+
 Algorithmic BE [2403.07949 (arxiv.org)](https://arxiv.org/pdf/2403.07949)
 
 Underdetermination as explained by Bayesian confirmation theory: Underdetermination 
