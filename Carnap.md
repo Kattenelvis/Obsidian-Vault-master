@@ -42,5 +42,30 @@ Relational map: An arrow diagram can reprsent the structure of a relation betwee
 
 
 
+https://www.reddit.com/r/askphilosophy/comments/u19hcr/what_is_the_current_status_of_carnaps/
 
+> # What is the current status of Carnap's external-internal distinction in modern philosophy?
+
+
+> This is a hard one, because no one is really addressing the set of questions in those terms these days. That said, there have been a host of projects over the last couple decades that have touched on the distinction or on related topics. Probably the most famous recent-ish paper in this area is
+
+> Yalbo, Stephen. 1998. "Does Ontology Rest on a Mistake?" _Proceedings of the Aristotelian Society_ 72: 229-61. [link](https://www.mit.edu/~yablo/om.pdf)
+
+I can tell you that Yalbo's paper has been extremely influential, but I couldn't tell you whether that's because people accept it or because they don't.
+
+In the same vein as Yablo, there's a whole bunch of recent work by by metaphysicians that is often called "neo-Carnapian." I sortof find this work to not engage with Carnap's actual views is any interesting way, but certainly there's something like the "internal-external" distinction that shows is Amie Thomasson's work. And her work is really good, so that's another place you might look.
+
+By contrast to the above, you might consider:
+
+> Friedman, Michael. 2001. _Dynamics of Reason._
+
+Yablo tackles the distinction from a _very_ metaphysical viewpoint, with a particular focus on _ESO_. Friedman's more historical and more focused on issues in philosophy of science. The picture that he offers is one that combines the Carnap internal/external distinction with a Kuhnian or quasi-Kuhnian picture.
+
+Speaking of historical. I haven't yet read
+
+> Gary Ebbs. 2017. _Carnap, Quine, and Putnam on Methods of Inquiry_.
+
+but one of the essays in that volume is on Carnap's ontological views and (knowing Ebbs' other work), I would expect it to be both excellent and a really good resource, though he's liable to focus more on the historical questions than on contemporary applications.
+
+Finally, there's supposed to be a volume titled _Philosophical Methodology After Carnap_ in the works. I last heard about that in 2019 maybe? and can't find anything new on the subject, so I guess it's still forthcoming. I imagine that will have some essays that touch on the distinction, but who knows.
 

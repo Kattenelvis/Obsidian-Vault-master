@@ -42,3 +42,11 @@ A criticism of the singularity:
 "Even if there is nothing special about the problem of improving artificial agents, could there be something special about the researchers we put this problem to? Perhaps dimin ishing research productivity afflicts human researchers, but not artificial agents. There is a sliver of truth to this objection: one cause of diminishing research productivity is the difficultyofmaintaininglargeknowledgestocks(Jones2009),aproblematwhichartificial agents excel. However, the underlying problem of fishing-out is a feature of problems, not agents, and as suchit cannot be eliminated by enlisting artificial agents as researchers. After a while, any sensible investigatory process will have made more than its share of the easiest discoveries, and subsequent discoveries will become harder. Past that point, research productivity will diminish."
 
 
+
+> ¿ ”Some recent authors have set out to construct arguments for existential risk from ar-
+tificial agents which do not rely on the singularity hypothesis (Carlsmith, 2021; Cotra,
+2020; Ngo Bales, forthcoming). ” https://link.springer.com/content/pdf/10.1007/s11098-
+024-02143-5.pdf
+
+
+

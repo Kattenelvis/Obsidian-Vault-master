@@ -22,3 +22,12 @@ Alright the blue square needs to be extended back to before the point of diverge
 One way to charactarize free will: A substance (call it "soul" or whatever) that is a decision agent that causally interacts with matter and/or mind substance in ways that are non-deterministic and non-probabilistic (and also doesn't split the timeline into all arbitrary choices but that's technically a deterministic process). 
 
 One problem with this view might for empiricists be that the justification of such a substance is seemingly impossible with observation. We cannot directly observe this substance. A rationalist might be fine with that. 
+
+
+
+
+
+
+Free will might be incompatible with reason, see Plantinga naturalistic argument
+
+Causally bound to say or generate sequences which we call "sound arguments", "valid arguments", "true statements" etc. 

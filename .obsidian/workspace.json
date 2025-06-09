@@ -4,80 +4,161 @@
     "type": "split",
     "children": [
       {
-        "id": "c6187f213bca5fe7",
+        "id": "4ce5043a3cc1a1c1",
         "type": "tabs",
         "children": [
           {
-            "id": "792cee3155d23f06",
+            "id": "11d5060bc9cd574c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Decision Theory/Exercise set 1.md",
+                "file": "School/Tentamen förberedande.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exercise set 1"
+              "title": "Tentamen förberedande"
             }
           },
           {
-            "id": "5d4927040f9d37e1",
+            "id": "fc465262932bf349",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Blog Posts ideas/A better calculation for the probability of AI killing us all.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Egalitarian.md"
               },
-              "icon": "lucide-file",
-              "title": "A better calculation for the probability of AI killing us all"
+              "icon": "excalidraw-icon",
+              "title": "Egalitarian"
             }
           },
           {
-            "id": "baa5e0d529e563d6",
+            "id": "aea0d36af3deaeae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Personality Psychology.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Egalitarian 2.md"
               },
-              "icon": "lucide-file",
-              "title": "Personality Psychology"
+              "icon": "excalidraw-icon",
+              "title": "Egalitarian 2"
             }
           },
           {
-            "id": "4b771cf58e55e5f7",
+            "id": "47f70f8b2da58e51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decision Theory Project Essay.md",
+                "file": "Blog Posts ideas/EDT vs CDT vs FDT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decision Theory Project Essay"
+              "title": "EDT vs CDT vs FDT"
             }
           },
           {
-            "id": "8dc6db1b1ad56e71",
+            "id": "84b2b2bdebf923ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sense Datum.md",
+                "file": "School/Opposition Zitetik.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sense Datum"
+              "title": "Opposition Zitetik"
+            }
+          },
+          {
+            "id": "05623880397365cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Autism"
+            }
+          },
+          {
+            "id": "b2b24f3f119131fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Bachelor Thesis notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bachelor Thesis notes"
+            }
+          },
+          {
+            "id": "3caa345aafcc74b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Opposition andra notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Opposition andra notes"
+            }
+          },
+          {
+            "id": "205a6a8d8ba6d454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog Posts ideas/Why focus on X-risk and S-risk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Why focus on X-risk and S-risk"
+            }
+          },
+          {
+            "id": "293d0f1f843b979a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/IR notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IR notes"
+            }
+          },
+          {
+            "id": "5bb88ddbf184d3d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Carnap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Carnap"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stargate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,54 +326,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf56949fad42aa81",
+  "active": "84b2b2bdebf923ea",
   "lastOpenFiles": [
+    "Carnap.md",
+    "School/IR notes.md",
+    "Pasted image 20250608163500.png",
+    "Pasted image 20250608160908.png",
+    "Pasted image 20250608160850.png",
+    "Pasted image 20250608160845.png",
+    "Blog Posts ideas/AI alignment is a wicked problem.md",
+    "School/Compensation 2 Decision Theory.md",
+    "School/Tentamen förberedande.md",
+    "School/Opposition Zitetik.md",
+    "Blog Posts ideas/Why focus on X-risk and S-risk.md",
+    "Pasted image 20250608000150.png",
+    "Pasted image 20250607235859.png",
+    "Excalidraw/Return to Foundationalism SIKE.excalidraw.md",
+    "Excalidraw/Return to Foundationalism SIKE.excalidraw.png",
+    "Excalidraw/Representation.excalidraw.md",
+    "Excalidraw/New Philosophical Project.excalidraw.md",
+    "Excalidraw/Orthogonality.excalidraw.md",
+    "Excalidraw/LifePath .excalidraw.md",
+    "Excalidraw/Life Simulator Game Idea.excalidraw.md",
+    "Excalidraw/God.excalidraw.md",
+    "Excalidraw/Exercise 11 decsion tree.excalidraw.md",
+    "Excalidraw/ethicsNonTransitive.excalidraw.md",
+    "Excalidraw/EthicsNoNeither.excalidraw.md",
+    "Excalidraw/ethicsNonComplete.excalidraw.md",
+    "Excalidraw/Egalitarian 2.md",
+    "Excalidraw/Egalitarian.md",
+    "Excalidraw/Drawing 2024-06-28 11.48.45.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-17 20.23.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-07 22.58.49.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-27 11.11.32.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-20 10.36.38.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-07 14.14.47.excalidraw.md",
+    "Pasted image 20250607134437.png",
+    "Pasted image 20250607123611.png",
+    "Pasted image 20250607122003.png",
+    "Blog Posts Finished/desktop.ini",
+    "The AI philosophy Lab/desktop.ini",
+    "Blog Posts WIP/desktop.ini",
+    "520hz sine.wav",
+    "3. The logic of sense-data.pdf",
     "School/Decision Theory/desktop.ini",
-    "Philosophy of Religion.md",
-    "School/Decision Theory/Exercise set 1.md",
     "School/Decision Theory",
-    "School/Frog.md",
     "School/X-phi/desktop.ini",
     "Blog Backup/desktop.ini",
-    "Blog Posts ideas/Skepticism.md",
-    "Book Idea (AI Safety textbook)/3.5 Future of AI/X-Risk and S-Risk.md",
-    "Pasted image 20250515144351.png",
     "GqHNnI-bYAATupU 1.jif",
-    "GqHNnI-bYAATupU.jif",
-    "Book Idea (AI Safety textbook)/3.5 Future of AI/13. Alignment.md",
-    "GqHF7THaoAAMDKw.png",
-    "Solomonoff Induction.md",
-    "Blog Posts ideas/A better calculation for the probability of AI killing us all.md",
-    "School/X-phi/Criticizing intuition without risking skepticism.md",
-    "Flowback TODO.md",
-    "Book Idea (AI Safety textbook)/3. Narrow AI Models/Bayesian Models.md",
-    "Pasted image 20250514161321.png",
-    "Bayesian Epistemology.md",
-    "Bayes's Formula.md",
-    "Book Idea (AI Safety textbook)/3. Narrow AI Models/8. Connectionist AI.md",
-    "Moral Psychology.md",
-    "School/Int politics/Seminar 1.md",
-    "School/Int politics",
-    "Blog Posts ideas/Confederated World State to solve game theoretic issues.md",
-    "Blog Posts ideas/desktop.ini",
-    "Pasted image 20250504195553.png",
-    "Blog Posts ideas/Panpsychism, Combination, Parfit style identity, implies falsity of ethical egoism and the truth of longtermism.md",
-    "Sense Datum.md",
-    "Infinite Ethics.md",
-    "Repugnant Conclusion.md",
-    "Book Idea (AI Safety textbook)/1. Computability and Complexity/2. Church-Turing Thesis.md",
-    "Book Idea (AI Safety textbook)/3. Narrow AI Models/7. Logic Based AI.md",
-    "Book Idea (AI Safety textbook)/1. Computability and Complexity/1. Computability and Complexity.md",
-    "Book Idea (AI Safety textbook)/1. Computability and Complexity/3. Probability and Statistics.md",
-    "Pasted image 20250407005940.png",
-    "Pasted image 20250407003354.png",
-    "Book Idea (AI Safety textbook)/1. Computability and Complexity/desktop.ini",
-    "Pasted image 20250329213152.png",
-    "Pasted image 20250327201344.png",
-    "Pasted image 20250327201341.png",
-    "Pasted image 20250327130109.png",
-    "School/X-phi",
-    "A priori/desktop.ini",
     "Untitled.canvas"
   ]
 }

@@ -10,7 +10,7 @@
 \maketitle
 
 \section{}
-Ass semantics solve the sea battle given that they've formalised the problem in a formal system and have provided an answer. However, which one best solves it depends on the metaphysics of determinism and indeterminism. 
+As semantics solve the sea battle given that they've formalised the problem in a formal system and have provided an answer. However, which one best solves it depends on the metaphysics of determinism and indeterminism. 
 
 If determinism is true, then Occamist semantics solves it the best. 
 

@@ -84,3 +84,7 @@ Argument from rationality: Given the uncertainty of what happens in the future, 
 
 
 
+Issues of Gauthier in Parfit
+
+
+Parfit vs Gauthier?

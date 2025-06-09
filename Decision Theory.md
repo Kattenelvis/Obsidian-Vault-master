@@ -1,3 +1,11 @@
+Would Kantians be EDTers?
+
+EDT implies one ought to act morally: If I do something that is good for the overall rather than slightly better for me but much worse for others, that gives me evidence that others act in this way, and that's bad for me. Instead I ought to act rationally according to EDT.
+
+Therefore, I will to make EDT universal law? 
+
+
+
 For my university course look here [[Decision Theory (Course)]]
 
 \<idea> 
