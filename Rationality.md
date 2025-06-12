@@ -58,3 +58,5 @@ https://gwern.net/
 
 [Complete Class: Consequentialist Foundations — LessWrong](https://www.lesswrong.com/posts/sZuw6SGfmZHvcAAEP/complete-class-consequentialist-foundations)
 
+https://forum.effectivealtruism.org/posts/ZS9GDsBtWJMDEyFXh/eliezer-yudkowsky-is-frequently-confidently-egregiously
+

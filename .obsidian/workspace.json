@@ -8,86 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11d5060bc9cd574c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Tentamen förberedande.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tentamen förberedande"
-            }
-          },
-          {
-            "id": "fc465262932bf349",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Egalitarian.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Egalitarian"
-            }
-          },
-          {
-            "id": "aea0d36af3deaeae",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Egalitarian 2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Egalitarian 2"
-            }
-          },
-          {
-            "id": "47f70f8b2da58e51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog Posts ideas/EDT vs CDT vs FDT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EDT vs CDT vs FDT"
-            }
-          },
-          {
-            "id": "84b2b2bdebf923ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Opposition Zitetik.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Opposition Zitetik"
-            }
-          },
-          {
-            "id": "05623880397365cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Autism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Autism"
-            }
-          },
-          {
             "id": "b2b24f3f119131fb",
             "type": "leaf",
             "state": {
@@ -99,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Bachelor Thesis notes"
-            }
-          },
-          {
-            "id": "3caa345aafcc74b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Opposition andra notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Opposition andra notes"
             }
           },
           {
@@ -130,35 +36,21 @@
             }
           },
           {
-            "id": "293d0f1f843b979a",
+            "id": "694da8807ba88d7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/IR notes.md",
+                "file": "Decision Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IR notes"
-            }
-          },
-          {
-            "id": "5bb88ddbf184d3d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Carnap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Carnap"
+              "title": "Decision Theory"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -326,8 +218,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84b2b2bdebf923ea",
+  "active": "694da8807ba88d7d",
   "lastOpenFiles": [
+    "Blog Posts ideas/EDT vs CDT.md",
+    "School/Bachelor Thesis notes.md",
+    "Theology.md",
+    "i83tricaqc6f1.png",
+    "AGI.md",
+    "Rationality.md",
+    "Blog Posts ideas/Argument for EA.md",
+    "Blog Posts ideas/Why focus on X-risk and S-risk.md",
+    "Autism.md",
+    "EU.md",
+    "Blog Posts ideas/Positive Modal Realism implies Theism.md",
+    "School/Opposition Zitetik.md",
+    "Gender.md",
     "Carnap.md",
     "School/IR notes.md",
     "Pasted image 20250608163500.png",
@@ -337,8 +242,6 @@
     "Blog Posts ideas/AI alignment is a wicked problem.md",
     "School/Compensation 2 Decision Theory.md",
     "School/Tentamen förberedande.md",
-    "School/Opposition Zitetik.md",
-    "Blog Posts ideas/Why focus on X-risk and S-risk.md",
     "Pasted image 20250608000150.png",
     "Pasted image 20250607235859.png",
     "Excalidraw/Return to Foundationalism SIKE.excalidraw.md",
@@ -351,19 +254,8 @@
     "Excalidraw/God.excalidraw.md",
     "Excalidraw/Exercise 11 decsion tree.excalidraw.md",
     "Excalidraw/ethicsNonTransitive.excalidraw.md",
-    "Excalidraw/EthicsNoNeither.excalidraw.md",
-    "Excalidraw/ethicsNonComplete.excalidraw.md",
-    "Excalidraw/Egalitarian 2.md",
-    "Excalidraw/Egalitarian.md",
-    "Excalidraw/Drawing 2024-06-28 11.48.45.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-17 20.23.04.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-07 22.58.49.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-27 11.11.32.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-20 10.36.38.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-07 14.14.47.excalidraw.md",
     "Pasted image 20250607134437.png",
     "Pasted image 20250607123611.png",
-    "Pasted image 20250607122003.png",
     "Blog Posts Finished/desktop.ini",
     "The AI philosophy Lab/desktop.ini",
     "Blog Posts WIP/desktop.ini",

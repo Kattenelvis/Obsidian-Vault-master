@@ -126,3 +126,17 @@ https://www.cell.com/trends/cognitive-sciences/pdf/S1364-6613(21)00125-X.pdf
 
 
 
+https://en.wikipedia.org/wiki/Jim_Sinclair_(activist)
+
+https://www.bostonreview.net/forum_response/make-neurodiversity-boring/
+
+https://www.reddit.com/r/AutisticPeeps/comments/1glaa7z/leaders_and_the_founder_of_the_neurodiversity/?show=original
+
+https://www.autreat.com/dont_mourn.html
+
+
+
+
+https://www.youtube.com/watch?v=y13iwEhZ3iE&list=PLqX76-dlOQuR9qMrNa1mjrQ1Wkq4I6-hZ&index=6
+
+

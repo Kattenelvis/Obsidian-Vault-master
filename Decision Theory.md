@@ -38,3 +38,25 @@ Completeness in preference relations
 [Conflicting Reasons in the Small-Improvement Argument](https://johanegustafsson.net/papers/conflicting-reasons-in-the-small-improvement-argument.pdf)
 
 
+
+
+file:///C:/Users/Katte/Downloads/the-value-of-risk-in-transformative-experience.pdf
+
+½ If we accept that chances can have non-linear value, either generally or in cases
+involving constitutive risk, we have to reject an assumption of EUT based on the
+vNM framework, chance instrumentalism (CI), which says that rational agents should
+be indifferent between getting something for sure and a gamble with equivalent
+expected utility. According to CI, chances only have value insofar as they give an
+agent the chance to obtain some good – they do not have any value independent of
+the good (Stefánsson and Bradley 2015: 603). Stefánsson and Bradley prove that CI
+and the principal principle together result in linearity about the value of chances, so
+one must be rejected. The principal principle, introduced by Lewis (1980) concerns
+the relationship between rational credences and chances. If the evidence suggests that
+some outcome has a 5% chance of occurring, then a rational agent ought to set their
+credence at 0.05 in line with the evidentially supported chances. The principal principle
+is intuitive, widely accepted (in various forms), and plausibly a requirement of ration-
+ality, so I reject CI in line with Stefánsson and Bradley
+
+
+
+
