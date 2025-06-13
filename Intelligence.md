@@ -1,3 +1,7 @@
+Idea: "Intelligence" as a function from subsets on mind space based on their goal mapping how good they are in arbitrary environments at achieving that goal is not a total ordering, but does have a minimal and maximal element. Maximal: Either omniscient omnipotent being, or more compatible with Wangs AKIR: AIXI. Minimal: The empty mind. 
+
+
+
 https://journals.sagepub.com/doi/abs/10.1177/0956797618774253?journalCode=pssa&journalCode=pssa
 
 Seems that more education leads to more intelligence, fluid intelligence may not peak at age 25!
