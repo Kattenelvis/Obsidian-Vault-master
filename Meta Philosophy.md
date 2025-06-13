@@ -1,3 +1,15 @@
+
+Collected papers de gruyter studies in metaphilosophy
+
+![[Pasted image 20250520160313.png]]
+
+
+
+
+
+
+
+
 Methodologies:
 
 

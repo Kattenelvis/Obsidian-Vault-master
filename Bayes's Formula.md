@@ -4,3 +4,5 @@ From here [(174) Induction Without Rules - YouTube](https://www.youtube.com/watc
 
 ![[Pasted image 20230803140835.png]]
 
+
+

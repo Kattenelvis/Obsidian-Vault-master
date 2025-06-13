@@ -88,3 +88,55 @@ Autists better at deliberate reasoning? Or atleast, they utilize it more, compar
 
 ![[Pasted image 20240501164837.png]]![[Pasted image 20240501164842.png]]
 
+
+
+Enhanced rationality in autism
+spectrum disorder
+
+https://www.cell.com/trends/cognitive-sciences/pdf/S1364-6613(21)00125-X.pdf
+
+
+
+
+
+[Do you have High-Functioning Asperger's Syndrome? — LessWrong](https://www.lesswrong.com/posts/vHDk5xr9JDC64rb8T/do-you-have-high-functioning-asperger-s-syndrome)
+
+
+
+[(PDF) Religious Belief Systems of Persons with High Functioning Autism](https://www.researchgate.net/publication/267781804_Religious_Belief_Systems_of_Persons_with_High_Functioning_Autism?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ)
+
+
+[Optimisé pour l'impression - Sexuality in autism hypersexual and paraphilic behavior in women and men with high-functioning autism spectrum disorder.pdf](https://www.tandfonline.com/doi/pdf/10.31887/DCNS.2017.19.4/dschoettle)
+
+
+
+[Neurotypical Peers are Less Willing to Interact with Those with Autism based on Thin Slice Judgments | Scientific Reports](https://www.nature.com/articles/srep40700)
+
+
+[The relationship between psychopathy and autism: a systematic review and narrative synthesis - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11004474/)
+
+
+[Autism and a more accurate perception of reality. – Counterintuitive conclusions](https://counterintuitive.home.blog/2019/04/26/autism-a-more-accurate-perception-of-reality/)
+
+
+https://www.cell.com/trends/cognitive-sciences/pdf/S1364-6613(21)00125-X.pdf
+
+![[Pasted image 20250607134437.png]]
+
+
+
+
+https://en.wikipedia.org/wiki/Jim_Sinclair_(activist)
+
+https://www.bostonreview.net/forum_response/make-neurodiversity-boring/
+
+https://www.reddit.com/r/AutisticPeeps/comments/1glaa7z/leaders_and_the_founder_of_the_neurodiversity/?show=original
+
+https://www.autreat.com/dont_mourn.html
+
+
+
+
+https://www.youtube.com/watch?v=y13iwEhZ3iE&list=PLqX76-dlOQuR9qMrNa1mjrQ1Wkq4I6-hZ&index=6
+
+

@@ -97,3 +97,20 @@ Idea: Connections with [[Ramsey intergenerational welfare economics]] where the 
 
 [Holmström's theorem - Wikipedia](https://en.wikipedia.org/wiki/Holmstr%C3%B6m%27s_theorem)
 
+
+
+
+Rejecting Irrelevant alternatives is just fine
+from  Martin Peterson - An Introduction to Decision Theory-Cambridge University Press (2009):
+
+> It can hardly be denied that people sometimes reason like this. But is
+this holistic reasoning rational? I think so. When stating preferences
+over a set of alternatives, it is rational to compare each alternative with
+the entire set of alternatives, even if some of those alternatives are
+certain not to be chosen. By adding a new object to the choice set, the
+relational properties of the initial objects may change, and sometimes
+our preferences are based on relational properties, such as uniqueness
+
+
+
+

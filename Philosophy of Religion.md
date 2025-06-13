@@ -233,3 +233,13 @@ In Islam, there is a heavy emphasis on obeying particular laws (i.e., Sharia law
 A possible critique of Islam, as opposed to the other Abrahamic religions, would be that the combination of strict lawfulness with the belief that the law applies to everyone is a uniquely dangerous combination, psychologically speaking.
 
 Obviously, this is an extremely general claim - but it struck me as an interesting observation nonetheless."
+
+
+
+
+
+
+Well I personally found it to be a very interesting course. Theology in general goes by the assumption that God exists, and I wanted to figure out if it was positive expected utility to study theology by first figuring out if God exists (one can do Pascal's wager style arguments that one gets positive expected utility from studying theology). The course went in-depth on arguments for and against the existence of God, such as the cosmological argument, ontological argument, the fine-tuning argument, creation of life argument, the cosmic disproportionality argument, the evolutionary argument, the problem of evil and so on. Other parts of the philosophy of religion are vastly less important for maximizing expected utilty given Pascal style arguments, and so I'm less rationally inclined towards studying that.
+
+
+Well I almost exclusively engage in 21:th and 20:th century philosophy in the analytical tradition. The philosophers I've engaged with the most include Carnap, Chalmers, Ayer, Quine, Russell, Boström, Parfit, Tarski and so on. When it comes to theistic philosophers I've only studied Craig and Plantinga. Almost none of that references the bible or other scripture (I know of 0 examples). Religious scripture is not used as premises in any arguments. One does not need to know arguments in theology or scripture to engage with arguments in this tradition. I personally know almost nothing about scripture, yet I was able to follow the book "Types, Tableux and Gödels God" perfectly well because it includes no references to any scripture, just historical arguments (Such as Descartes, Leibniz, and Kants criticism) and some knowledge of logic (primarily modal logic, free logic, type theory and the logic of definite descriptions). Depending on what counts as "theology", the krakow circle has engaged in what I believe is called "natural theology" under the analytic tradition, and modern analytic thomists do similar arguments but I haven't engaged in that.
