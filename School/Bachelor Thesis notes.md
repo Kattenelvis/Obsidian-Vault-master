@@ -27,6 +27,7 @@ Not fleshing out the argument
 Detail on the argument is exactly what is he arguing against. 
 Arbitrary to throw out terms
 Couple paragraphs fleshing it out
+
 Jargon that's hard for the uninitiated to know what it means
 for instance: GOFAI, Sub-symbolic processing
 The main point still stands. 
