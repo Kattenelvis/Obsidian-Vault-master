@@ -50,3 +50,13 @@ tificial agents which do not rely on the singularity hypothesis (Carlsmith, 2021
 
 
 
+https://globalprioritiesinstitute.org/wp-content/uploads/David-Thorstad-Against-the-singularity-hypothesis.pdf
+
+has been the subject of a special issue of the Journal of Consciousness Studies (Awret 2012)
+and several volumes of essays (Eden et al. 2012; Callaghan et al. 2017). The singular-
+ity hypothesis has become intertwined with philosophical debates about consciousness
+(Dennett 2012), digital minds (Dreyfus 2012), and philanthropic giving (Greaves et al.
+forthcoming). And the hypothesis attracts continued interdisciplinary discussion (Arm-
+strong et al. 2016; Yampolskiy 2016).
+
+
