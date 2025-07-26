@@ -1,4 +1,4 @@
-Soar cognitive architecture, inspired by Fodors mentalistic account of cognition. 
+Soar cognitive architecture, inspired by Fodor's mentalistic account of cognition. 
 https://en.wikipedia.org/wiki/Soar_(cognitive_architecture)
 
 Fodor

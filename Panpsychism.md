@@ -1,4 +1,19 @@
 
+Idea: Parfit is wrong about some ethical consequences from combination and separation laws
+Assume we have 3 agents. The universe is cyclic, and there's a natural law that 2 agents (call them a1 and a2) will combine and then separate before the universe cycles. Then there's no rational reason for a1 or a2 to increase pleasure sensations for a3, likewise the opposite, since neither gains. 
+
+
+
+
+Idea: Panpsychism and Cosmopsychism are mathematically similar
+Let $U$ be the universe, $\phi$ be a separation function, $\psi$ be a combination function, and $E_i$ be some macro-consciousness and let $e_i$ be some micro-consciousness
+
+$\phi (U) = \{E_1,...E_n\}$
+
+$\psi (\{e_1,...e_m\}) = \{E_1,...E_n\}$
+
+
+
 Combination laws apply to these two?
 [Krista and Tatiana Hogan - Wikipedia](https://en.wikipedia.org/wiki/Krista_and_Tatiana_Hogan)
 

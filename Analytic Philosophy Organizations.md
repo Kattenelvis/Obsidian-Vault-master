@@ -15,3 +15,32 @@ https://explainable-intelligent.systems/
 
 
 
+https://qri.org
+
+Institute for future studies
+https://www.iffs.se/en/research/research-program/
+
+
+https://foresight.org/
+
+
+
+Stockholm Center for AI Safety
+EA Stockholm
+EA Sweden
+EA Uppsala
+
+
+Nick Boström
+Olle Häggström
+Sandberg
+
+
+
+Svenska politiska institut
+
+V-Dem institute varieties of democracy. Gothenburg University.
+check for meetup SOON
+
+
+

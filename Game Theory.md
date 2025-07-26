@@ -1,3 +1,17 @@
+Idea Blackmail:
+
+
+| Blackmailer\Blackmaile            | Pay up   | Don't pay up |
+| --------------------------------- | -------- | ------------ |
+| **Send Blackmail material**       | (m,-k-m) | (0,-k)       |
+| **Don't send Blackmail material** | (m,-m)   | (0,0)        |
+M is utility of money
+K is utility of being exposed by blackmail
+
+
+
+
+
 Idea: Exponential prisoners dilemma. For every cooperation, the defect score doubbles. 
 
 

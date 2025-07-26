@@ -1,4 +1,8 @@
 
+![[Pasted image 20250701222622.png]]
+
+
+
 ## Aufbau
 That preface is POWERFUL
 

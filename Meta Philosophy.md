@@ -8,7 +8,22 @@ Collected papers de gruyter studies in metaphilosophy
 
 
 
-
+- Thought Experiments,
+- Intuitions,
+- Conceptual Analysis,
+- Conceptual Engineering,
+- Reflective Equilibrium,
+- Experimental Philosophy,
+- Psychology of Philosophy,
+- Academia and Philosophy,
+- Studies on philosophers (philpapers survey, psychology of philosopers),
+- Analytical and Post-Analytical Philosophy braodly,
+- Pragmatic and Neo-Pragmatic Philosophy broadly,
+- Continental philosophy broadly,
+- Continental vs Analytic debate,
+- Historicity of Philosophy,
+- History of Philosophy,
+- Problem of Beginning
 
 Methodologies:
 

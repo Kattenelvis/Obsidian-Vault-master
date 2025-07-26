@@ -122,7 +122,7 @@ Scroll step:s (to the left)
 
 Where in the last step a 0 tape comes in. Likely that information is stored somewhere else in the universe, perhaps similarly the way it does for our experiences as they change over time.
 
-While it might be clear with pixels or atleast for the average human reading this, regions of colors, the symbolic systems in typical descriptions of turing machines are not at all very different, since they are also experiences updating over time.
+While it might be clear with pixels or atleast for the average human reading this, regions of colors, the symbolic systems in typical descriptions of Turing machines are not at all very different, since they are also experiences updating over time.
 
 The idea might be that, given that idealism, or (something like "metaphysical phenomenalism" where all that exists is phenomenal experience) and the phenomenal experiences of the world update following some rule, in discrete steps, then pancomputationalism, i.e the view that everything is computational, is true. 
 

@@ -1,4 +1,25 @@
-Idea: Methods for applying normative ethical systems to applied ethics. Are applied cases generalised to normative ethical cases (sorta particularism) or are metaethical systems used to deduce rules in applied ethics (sorta universalism)
+
+
+> 1. Yeah, so I actually think many Singer-style arguments rely on a Sorites-style paradox.
+    
+    ![👀](https://discord.com/assets/4b6781044811b929.svg)
+    
+    1
+    
+
+nytt
+
+3. _[_22:37_]_
+    
+    The argument essentially goes like so; letting kE denote performing E, an action, k times.
+    
+    1. If it is good to _n_X even if _n_X-ing causes _n_Y, then it is good to _(n+1)_X even if it causes _(n+1)_Y,
+    2. It is good to save one child even if it causes you to lose 2 dollars,
+    3. Ergo, it is good to save _n_ children even if it causes you to lose _2n_ dollars for all _n_,
+
+
+
+Idea: Methods for applying normative ethical systems to applied ethics. Are applied cases generalized to normative ethical cases (sorta particularism) or are metaethical systems used to deduce rules in applied ethics (sorta universalism)
 
 
 Medical Ethics

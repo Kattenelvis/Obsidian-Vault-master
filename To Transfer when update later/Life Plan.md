@@ -1,38 +1,28 @@
 
-# Basic Values and Rationality
-I value certain things intrinsically. I introspect and model my preference relation. It is rational to climb the preference relation, so I take actions that maximise my probability of doing so.
+I value certain things intrinsically. I introspect and model my preference relation. It is rational to pick options that is at the highest point of my preference relation, so I take actions that maximize my probability of doing so. To be more precise, I apply expected utility maximization:
 
-# The case for Transhumanism
-It is generally more effective to do this connected to a virtual world (hereafter "vorld"). Everyone can accept some kind of principle that is "I get my own Vorld, you get your own Vorld". Liberal Transhumanism (but don't call it that?). We need to prevent unnecessary copying of minds, to prevent malthusian resourcelack and some repugnant conclusion like situation.
+$EU(a)=\Sigma_{o\in O}^n P(o,a)U(o)$
 
-Chalmers and virtual objects. He held up a glass of water and said "if we're in a simulation, this glass of water is not fake, it is just virtual. We've merely learnt a new property about the object". A virtual world is not fake, it is real, and it's certiantly a real experience. A full mind upload into such a matrix would be good, if we're in control of a good experience, and needless involuntary suffering is not a part of it. 
+I have not entirely decided on causal decision theory or evidential decision theory, so for now $P(o,a)$ will be generic until I've decided. I am currently writing a longer text on the debate and finishing this will probably help my future plans more.
 
-We empower such virtual worlds with dyson spheres mined through the dismantlement of planets. It is worth noting that environmentalism, the protection of the environment, as an instrumental good to protect humanity, not an intrinsic good. I do not value nature any more than a vorld that looks like nature, it is the same. We can save astronomical environments, including (and in my opinion, especially) earth. But we should have no qualms about dismantling earth. It is the final solution to wild animal suffering while we're at it. 
+I will not be arguing for EU maximization here, but I think there's a good case to be made for EU maximization, and I'm generally motivated to act in accordance to EU maximization. 
 
-We live for longer, becuase a good life for a longer period of time is even better. Short life is not what makes it good, we can keep a goodness level of $w$ whether or not we die at $T$ or $T* >> T$
+The structure of my own utility function seems to be, by introspection, rather hedonistic. I know that I enjoy pleasure and that I don't enjoy suffering. I support entering Nozick's experience machine, that is to say, entering a machine that simulates experiences exactly the way I want them. I think inventing such a machine would maximize utility, so I will take step towards realizing the invention of such a machine, and have it be able to run for as long as possible to maximize utility over time (we can imagine that at each time-step, some amount of utility is paid out. More time steps = more total utility). 
 
-# Accelerate Technology?
-The goal: Accelerate Technology
+One may argue that it would be a "fake world". However, I recall watching David Chalmers standing on a podium. He held up a glass of water and said "if we're in a simulation, this glass of water is not fake, it is just virtual. We've merely learnt a new property about an object". A virtual world is not fake, it is real, and it's certainly a real experience. A full mind upload into such a system would be good, if I'm in control of a good experience, and needless involuntary suffering is not a part of it. 
 
-The rationality case: I get to climb my preference relation
-The ethics case: Nick Boström's Astronomical Waste article. Avoid suffering. Same with deontological views (allows less lies etc.) and virtue ethics case (we can grow more with technology). Contractarianism? Anyways, moral uncertianty, some probability, yeah. 
+We empower such virtual worlds with Dyson spheres mined through the dismantlement of planets and asteroid belts. It is worth noting that environmentalism, the protection of the environment, as an instrumental good to protect humanity, not an intrinsic good. I do not value nature any more than a virtual world that looks like nature, it is the same. We can save astronomical environments, including (and in my opinion, especially) earth. But we should have no qualms about dismantling earth. It is the final solution to wild animal suffering while we're at it. 
 
-# Minimizing X-Risk
-Some technologies can be dangerous (atom bomb etc.) even threatening all human life (X-risk). Aswell as S-risk. S-risk is likely very rare, uncalculable probability. 
+We live for longer, because a good life for a longer period of time is even better. Short life is not what makes it good, we can keep a goodness level of $w$ whether or not we die at $T$ or $T^* >> T$.
 
-Artificial general intelligence, and artificial superintelligence, can both accelerate technological progress and can be dangerous (X-risk and S-risk).
+So how can that be done? We can consider accelerating technological progress. By reaching a stage of technological development where we can construct Dyson sphere's, virtual worlds and space colonization, the more likely it is for me to survive into this scenario and can live life in virtual worlds. A single technology may be enough to achieve all of this, namely superintelligent artificial intelligence, which can act as an automated research agent, and potentially enter a technological singularity where it self-improves until it is orders of magnitude better than humans.
 
-There's both a rationality case and an ethics case for minimizing risk, and that minimizing risk is more important than technological acceleration.
+It's worth noting that some technologies can be dangerous (for instance, the atom bomb etc.) and could threaten all of human life. Some potential scenarios posit something worse than extinction, called suffering-risks. The way we humans treat animals for cheap meat for instance. Similar processes could happen, perhaps with the rise of some future technology, lead to astronomical suffering. Artificial general intelligence, and artificial superintelligence, can both accelerate technological progress and can could cause extinction risk and astronomical suffering. This is similar to the main argument in Nick Boström's paper "astronomical waste" (though he has a more total utilitarian perspective).
 
-The risk is 2-10% according to papers. We should minimize it. You wouldn't step on a plane with 10% probability of going down!
+There's both a rationality case and an ethics case for minimizing risk, and that minimizing risk is more important than technological acceleration. I think, and I have argued elsewhere, that the probability of human extinction from AI is about 10%, which is unacceptably high. I will work on minimizing this. 
 
-# Policy and AI governance
-EU policy: Fund AI safety, co-operate on global AI pause (realism vs liberalism in IR might impact how feasible this is)
+It is important to note that there are some major political obstacles towards minimizing this risk. One is global cooperation, the other is controlling the tech-sector. It is considered by some that democracies cooperate better with eachother, atleast, some in the liberal tradition of international relations argue for this. I will not make a case here, but it's worth considering as a possibility. At the very least, democratization allows coalitions  of individuals within nations to push for their rights and to minimize power-seeking which could disempower humans from a post superintelligence world. Over the last 15 years, democracy has been dwindling (a progression known as democratic backsliding) where semi-democratic autocracies have become more popular, and with a rising rich-poor wealth gap. If AI doesn't kill of humanity on its own, then perhaps wealthy elites will form a coalition to disempower people outside the wealthy elite, especially as automation kicks in. 
 
-Sending more people to the EU parliament who is concerned about AI safety. Focus on them. Vote on them. Become one of them. 
+The way I will help against this: I work as a web-developer on Flowback, a liquid democracy system that allow users to delegate their votes to other individuals. It is like a direct democracy where users can setup polls and add proposals to some poll and vote on them directly, except that people don't always have the time or energy to be experts on every possible field. A delegate can be changed at will, which allows more fluid changes. Users can also override their delegate. Unlike representative democracies which are static once-every-4-year events where once in power cannot be removed. This allows the electorate more control. It is also combined with a prediction market, where users can bet on what effects proposals will have. This allows users to vote on the consequences of proposals rather than merely the proposal itself. 
 
-How to become one of them? Play the political game, learn politics, study political science, join parties. Form coalitions (logic of coalitions?). Tit-For-Tat?
-
-
-This sucks! I don't really like this! I'm bad with people, I cannot keep track of them, bad at keeping up conversations, bad at lying. I just wanted to study the philosophy of mind and formal logic. Well-well...
-
+I will also engage in potentially getting a PhD in political science or practical philosophy, becoming an expert on AI and AI ethics. Get politically engaged in some political party, at the very least within effective altruism, to find a nice professional community to further this interest. I will continue to work with this until I reach my goal. 

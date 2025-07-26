@@ -1,5 +1,12 @@
 Cool ancient website: http://sl4.org/
 
+>- SL0:  The legendary average person is comfortable with modern technology - not so much the frontiers of modern technology, but the technology used in everyday life.  Most people, TV anchors, journalists, politicians.
+- SL1:  Virtual reality, living to be a hundred, "The Road Ahead", "To Renew America", "Future Shock", the frontiers of modern technology as seen by [Wired](http://www.wired.com) magazine.  Scientists, novelty-seekers, early-adopters, programmers, technophiles.
+- SL2:  Medical immortality, interplanetary exploration, major genetic engineering, and new ("alien") cultures.  The average SF fan.
+- SL3:  Nanotechnology, human-equivalent AI, minor intelligence enhancement, uploading, total body revision, intergalactic exploration. [Extropians](http://www.idiom.com/%7Earkuat/extr/extropy.html) and [transhumanists](http://www.transhuman.com/mirrors/www.aleph.se/Trans/index.html).
+- SL4:  The [Singularity](http://sysopmind.com/singularity.html), [Jupiter Brains](http://www.transhuman.com/mirrors/www.aleph.se/Trans/Words/j.html#JUPITER_BRAIN), Powers, complete mental revision, ultraintelligence, posthumanity, Alpha-Point computing, [Apotheosis](http://sysopmind.com/sing/principles.html#apotheosis), the total evaporation of "life as we know it."  Singularitarians and not much else.
+
+
 
 [Become your true self - Freedom of Form Foundation](https://freedomofform.org/)
 

@@ -14,6 +14,11 @@ Where $P$ represent a probability function with o and a as parameters (this will
 $EU_{CDT}(A) = \Sigma_{i=0}^n P(\square(A\to O_i)) U(O_i)$
 $EU_{EDT}(A) = \Sigma_{i=0}^n P(O_i|A) U(O_i)$
 
+Also
+
+![[Pasted image 20250706151700.png]]
+https://philpapers.org/archive/KOCCFD-2.pdf
+
 One way of telling how they differ is with Newcombs problem.
 Imagine that you enter a room and someone predicts what you're going to do once you enter the room. This prediction is very reliable. Once you enter, two boxes are put in front of you, one is transparent with $1000 and another is opaque. The predictor says that it has put one million dollars if it predicted that you were only going to take the opaque box, but not if it predicted that you would take two boxes. Do you pick juts the opaque box or both boxes?
 
@@ -106,6 +111,34 @@ many similar agents. 15
 (k) Prisoners’ Dilemma (from game theory) also realizes Newcomb’s Prob-
 lem, if each prisoner is confident enough that both reason alike16 (but see
 the chapter by Bermúdez in this volume)."
+
+
+Simpsons Paradox:
+
+"In any large totality of actual trials of the Newcomb Problem, we expect that
+A1 does better on average than A2 . But we can segregate the trials into two
+exhaustive and exclusive subclasses, in each of which A2 does better than A1 .
+Consider the subclass S1 of cases where the agent is predicted to choose A1 .
+Within S1 , agents who choose A1 always get M and agents who choose A2
+always get M þ K: so there the return for A2 exceeds the return for A1 by K.
+Consider the subclass S2 of cases where the agent is predicted to choose A2 .
+Within S2 , agents who choose A1 get nothing and those who choose A2 get K:
+so there too the return for A2 exceeds the return for A1 by K. S1 and S2 are
+exclusive classes that jointly exhaust the class of all trials.
+The statistics governing Newcomb’s Problem therefore make it an example
+of the more general statistical phenomenon known as Simpson’s Paradox.
+A body of statistics is Simpson-paradoxical if a correlation that obtains within
+a population is reversed within each cell of some segregation (or “partition”)
+of that population. One famous real-life example concerns the relative effect-
+iveness of two types of treatment for kidney stones. 6 Overall treatment A
+(minimally invasive) was statistically more effective than treatment B (open
+surgery), that is, the choice of treatment A was positively correlated with
+recovery. But restriction to either of the two types of kidney stone (small or
+large) reverses this correlation: treatment B was more effective than treatment
+A for the treatment of small kidney stones, and treatment B was more
+effective than treatment A for the treatment of large kidney stones. The
+obvious explanation of this is that open surgery was preferred for the more
+difficult-to-treat large kidney stones."
 
 
 Acausal trade, Hyperrationality
@@ -226,6 +259,30 @@ P(onebox []-> onemillion) = 0
 
 
 Quantum mechanics: Retrocausality CDT and problems with EPR correlations and EDT
+
+
+
+
+
+
+Success first decision theories
+
+Instead of beginning with a theory or rationality principles, we may instead select theories based on how well they lead to the highest reward in decision situations. The way this might work in practice is by first considering some decision theory XDT, and then checking XDT on for instance, the smoking lesion problem and whether it yields the highest long-term reward. Doing this for all decision procedures produce the best theory "experimentally" (or more accurately, thought-experimentally). 
+
+
+
+
+
+Thought experiments determine optimal decision theory.
+
+Loke's response on the problem of epistemics:
+
+Meta-level: Make a probability distribution of finished thought experiments and pick that. 
+
+![[Pasted image 20250709002510.png]]
+
+
+Even Nozick himself thought one could set a 50/50 evaluation split on decision procedures. So then the one million is worth taking with such a weighing. Perhaps one can weigh many more theories evenly or by some distribution.
 
 
 

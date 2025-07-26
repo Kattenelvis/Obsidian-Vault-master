@@ -13,3 +13,15 @@ Fusion: combining two brains, two subjects become one.
 
 Hoffman has a mathematical theory for fission and fusion (OF identiy?! Source?!?! I hate my earlier self)
 
+
+
+
+Phenomenal continuity theory:
+
+https://philarchive.org/archive/DUNANA
+https://philpapers.org/rec/DAITPS
+
+Some Problems for the Phenomenal Approach to Personal
+Identity
+Ivar Labukt
+file:///C:/Users/Katte/Downloads/s10670-023-00722-2.pdf

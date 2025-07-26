@@ -1,3 +1,9 @@
+"  
+It's related, but I remember van Frasseen one time arguing that if one accepts standard dutch book reasons to motivate Bayesianism, then the only IBE inferences they can accept is either the ones recoverable from Bayesian reasoning, which are redundant, and any IBE inferences that aren't a special case of Bayesian reasoning are going to violate the very reason someone accepts Bayesianism, hence the argument from Bayesianism to anti-explanationiism"
+
+
+
+
 Bayesian conditionalization is a fundamental concept in Bayesian probability theory, building upon the foundations laid by Dutch book arguments. It provides a formal framework for updating probability beliefs in the face of new evidence. To delve into the technical details of Bayesian conditionalization, it is essential to understand its connection with Dutch book arguments and how these concepts interact to ensure coherence within Bayesian reasoning.
 
 Dutch book arguments highlight the importance of avoiding incoherent sets of probabilities that can lead to guaranteed losses in betting scenarios. A Dutch book is a series of bets that, when taken together, result in a certain loss for the individual regardless of the outcome. By identifying and exploiting inconsistencies in an agent's beliefs, Dutch book arguments demonstrate the necessity of adhering to the principles of probability theory for rational decision-making.
