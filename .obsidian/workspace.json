@@ -78,31 +78,133 @@
             }
           },
           {
-            "id": "76dbe9bf5d200dbf",
+            "id": "d7633254cacba394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Idea (AI Safety textbook)/2. AI and Minds/4. Computational realization.md",
+                "file": "Blog Posts ideas/External World doesn't exist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Computational realization"
+              "title": "External World doesn't exist"
             }
           },
           {
-            "id": "2ebdcbe976d213d9",
+            "id": "8abb824f1ae86b52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Competition.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Competition"
+            }
+          },
+          {
+            "id": "97296fb94da74d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog Posts ideas/Phenomenal Concepts, Qualia Realism, Chalmers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phenomenal Concepts, Qualia Realism, Chalmers"
+            }
+          },
+          {
+            "id": "1350edafd4b89234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview Questions"
+            }
+          },
+          {
+            "id": "9e0705d991d4fef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog Posts WIP/A Phenomenological version of Turing's argument 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Phenomenological version of Turing's argument 1"
+            }
+          },
+          {
+            "id": "622eaa7140b46043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qualia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Qualia"
+            }
+          },
+          {
+            "id": "f6c48b2778eccfea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qualia Research Institute.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Qualia Research Institute"
+            }
+          },
+          {
+            "id": "2c2552b8d441ed73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog Posts WIP/Locationality of pain and pleasure implies problems for hedonism and utilitarianism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Locationality of pain and pleasure implies problems for hedonism and utilitarianism"
+            }
+          },
+          {
+            "id": "f50463e7f22e1031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic of Political Survival.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logic of Political Survival"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -255,6 +357,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -264,44 +367,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ebdcbe976d213d9",
+  "active": "f50463e7f22e1031",
   "lastOpenFiles": [
-    "Blog Posts WIP/EDT vs CDT.md",
+    "Pasted image 20250827213119.png",
+    "Pantheism.md",
     "Blog Posts WIP/Locationality of pain and pleasure implies problems for hedonism and utilitarianism.md",
+    "Logic of Political Survival.md",
+    "Pasted image 20250827013357.png",
+    "Pasted image 20250827012831.png",
+    "History.md",
+    "Interview Questions.md",
+    "Qualia Research Institute.md",
+    "IIT.md",
+    "School/Bachelor Thesis notes.md",
+    "Blog Posts WIP/A Phenomenological version of Turing's argument 1.md",
+    "Blog Posts ideas/Phenomenal Concepts, Qualia Realism, Chalmers.md",
+    "Blog Posts Finished/Uncertain Contractarian Utilitarianism.md",
+    "Blog Posts Finished/Ethics as Rational Choice Theory.md",
+    "Qualia.md",
+    "Anthropic Reasoning.md",
+    "The Lucas-Penrose Argument about Gödel’s Theorem.md",
+    "Competition.md",
+    "The Vienna Circle.md",
+    "Book Idea (Philosophy)/Necessetarianism vs nomonological determinism.md",
+    "Book Idea (Philosophy)/4. Change and Time.md",
+    "Book Idea (Philosophy)/3. Formal Phenomenology.md",
     "Univalent Foundations.md",
+    "Pasted image 20250811225240.png",
+    "Pasted image 20250811224012.png",
+    "Pasted image 20250811223209.png",
+    "Pasted image 20250811222800.png",
+    "Pasted image 20250811221752.png",
+    "Pasted image 20250811220547.png",
+    "Pasted image 20250811220151.png",
+    "Pasted image 20250811215943.png",
+    "Open Science.md",
+    "Error.md",
+    "Blog Posts ideas/External World doesn't exist.md",
     "Book Idea (AI Safety textbook)/2. AI and Minds/4. Computational realization.md",
-    "Blog Posts WIP/Queer Labels as Inductive Hypothesis.md",
-    "Blog Posts WIP/Turing.md",
-    "Blog Posts WIP/Pancomputational Idealism.md",
-    "Analytic Philosophy Organizations.md",
-    "Cognitive Science.md",
-    "Game Theory.md",
-    "The AI philosophy Lab/P(doom) calculation unit.md",
-    "Book Idea (AI Safety textbook)/2. AI and Minds/5. Mind (Other).md",
-    "Book Idea (AI Safety textbook)/2. AI and Minds/Predictive Coding.md",
-    "Book Idea (AI Safety textbook)/2. AI and Minds/Integrated Information Theory.md",
-    "Book Idea (AI Safety textbook)/2. AI and Minds/Functionalism and CTM.md",
-    "Book Idea (AI Safety textbook)/2. AI and Minds/6. Rationality.md",
-    "The AI philosophy Lab/Website.md",
-    "The AI philosophy Lab/Reproduce NARS vs Q-learning.md",
-    "The AI philosophy Lab/Philosophy of AGI Lab research project.md",
-    "Book Idea (AI Safety textbook)/OUTLINE.md",
-    "Book Idea (AI Safety textbook)/3. Narrow AI Models/Phil of Science.md",
-    "Book Idea (AI Safety textbook)/3. Narrow AI Models/Bayesian Models.md",
-    "Book Idea (AI Safety textbook)/3. Narrow AI Models/9. NLP and Language Models.md",
-    "Book Idea (AI Safety textbook)/3. Narrow AI Models/8. Connectionist AI.md",
-    "Book Idea (AI Safety textbook)/3. Narrow AI Models/7. Logic Based AI.md",
-    "Book Idea (AI Safety textbook)/1. Computability and Complexity/2. Church-Turing Thesis.md",
-    "Pasted image 20250720133720.png",
-    "Pasted image 20250720133215.png",
-    "Pasted image 20250720132407.png",
-    "Pasted image 20250720130506.png",
-    "Pasted image 20250720124951.png",
-    "Pasted image 20250720124639.png",
-    "damn 1.png",
-    "damn.png",
-    "Pasted image 20250717224836.png",
-    "Pasted image 20250717224823.png",
     "School/Decision Theory/desktop.ini",
     "School/Int politics/desktop.ini",
     "1. Defeating scepticism and establishing the logical description of the world.pdf"

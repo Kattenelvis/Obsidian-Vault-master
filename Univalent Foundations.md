@@ -59,3 +59,71 @@ two objects a, b : A of the same type A can be understood as the existence of a 
 
 
 ![[Pasted image 20250720133720.png]]
+
+
+
+
+![[Pasted image 20250804215123.png]]
+
+![[Pasted image 20250804215226.png]]
+
+
+![[Pasted image 20250804215525.png]]
+
+
+![[Pasted image 20250804215632.png]]
+
+
+![[Pasted image 20250804220400.png]]
+
+
+![[Pasted image 20250804222854.png]]
+1 is like $\top$
+
+
+![[Pasted image 20250804223150.png]]
+
+
+
+![[Pasted image 20250804224558.png]]
+
+
+![[Pasted image 20250804231647.png]]
+
+![[Pasted image 20250804232242.png]]
+
+
+
+
+# Homotopy Type Theory
+
+Systematic, Semi-formal
+
+![[Pasted image 20250811214501.png]]
+
+![[Pasted image 20250811215443.png]]
+![[Pasted image 20250811215536.png]]
+![[Pasted image 20250811215943.png]]
+
+
+
+![[Pasted image 20250811220151.png]]
+
+
+![[Pasted image 20250811220547.png]]
+
+![[Pasted image 20250811221752.png]]
+
+
+![[Pasted image 20250811222800.png]]
+![[Pasted image 20250811223209.png]]
+
+
+
+
+![[Pasted image 20250811224012.png]]Not just a point but moves in space
+Up to homotopy equivalence
+
+
+![[Pasted image 20250811225240.png]]
+

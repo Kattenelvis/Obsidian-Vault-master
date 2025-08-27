@@ -1,10 +1,4 @@
-
-
-
-[DaylightCTTsabamDec2018.pdf (dijkstrascry.com)](https://dijkstrascry.com/sites/default/files/papers/DaylightCTTsabamDec2018.pdf)
-[The Church-Turing Thesis (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/church-turing/)
-
-It's worth noting that there are many different accounts of the Church-Turing thesis, as described by the SEP:
+There are many different accounts of the Church-Turing thesis, as described by the SEP:
 
 > "Modern reimaginings of the Church-Turing thesis transform it, extending it to fundamental physics, complexity theory, exotic algorithms, and cognitive science. It is important to be aware though that some of the theses nowadays referred to as the Church-Turing thesis are at best _very_ distant relatives of the thesis advanced by Church and Turing."
 
@@ -30,6 +24,8 @@ One way to argue for the thesis is to consider it an empirical hypothesis with p
 So from Principle 4 and a long finite set of effectively computable functions which are also Turing computable with no counter-examples we can derive that all effectively computable functions are Turing computable.
 
 We can strengthen this even more by seeing how other definitions of effectively computable all turn out to be equivalent. Take for instance the lambda calculus. Everything, including numbers, are functions, based on a long row of successors. It turns out that $\lambda$-functions are effectively calculable by a Turing machine, i.e equivalent. Atleast, so far, we only have evidence of effectively computable functions which are both lambda calculable and Turing machine calculable. There have been examples of delayed discovery of the primitive recursive functions which showed that they it could not calculate all effective computations. 
+
+
 ## Turing argument I and III
 For a stronger argument in such a way where can be more certain in the conclusion, we instead consider some "psychological" aspects of humans (or perhaps certain kinds of creatures which can do rule driven activities) which is reminiscent of Turing machine computation. In this sense, it would turn out that all intuitively computable functions for a human is Turing computable. 
 
@@ -47,36 +43,6 @@ But this might turn out to be faulty.
 
 **Turing’s computation theorem**:  
 This account of the essential features of human computation implies Turing’s thesis. Human minds are at a minimum capable of simulating B-L Turing machines.
-
-
-### Turing argument II
-
-Kripke's version:
-All mathematical derivations/effective calculations(?) can be described in first order logic with identity ("Hilberts thesis")
-Every human can perform such derivations ("Turings Thesis")
-By the Completeness theorem, everything derivable is valid
-
-
-
-
-# Gandy's Argument
-
-
-Generalized version of Turing's argument I. 
-
-"Gandy (Turing’s only PhD student) pointed out that Turing’s analysis of human computation does not immediately apply to computing machines strongly dissimilar from Turing machines. (See [Section 4.3](https://plato.stanford.edu/entries/church-turing/#TuriArguI) below for details of Turing’s analysis.) For example, Turing’s analysis does not obviously apply to parallel machines which, unlike a Turing machine, are able to process an arbitrary number of symbols simultaneously. Seeking a generalized form of Turing’s analysis that applies equally well to Turing machines and massively parallel machines, Gandy (1980) stated four axioms governing the behaviour of what he called _discrete deterministic mechanical devices_. (He formulated the axioms in terms of hereditarily finite sets.) Gandy was then able to prove that every device satisfying these axioms can be simulated by a Turing machine: **Discrete deterministic mechanical devices, even massively parallel ones, are no more powerful than Turing machines**, in the sense that whatever computations such a device is able to perform can also be done by the universal Turing machine. (For more on Gandy’s analysis, see [Section 6.4.2](https://plato.stanford.edu/entries/church-turing/#GandArgu).)"
-
-
-1. “A discrete deterministic mechanical device satisfies principles I-IV” (he called this “Thesis P”; Gandy 1980: 126), and
-   
-2. “What can be calculated by a device satisfying principles I-IV is computable” (he labelled this “Theorem”).
-
-
-"However, the Németi computer is a discrete, deterministic mechanical device, and yet is able to calculate functions that are not Turing-machine computable. That is to say, relativistic computers are counterexamples to Gandy’s Thesis P. In brief, the reason for this is that the sense of “deterministic” implicitly specified in Gandy’s Principles (“Gandy-deterministic”) is narrower than the intuitive sense of “deterministic”, where a deterministic system is one obeying laws that involve no randomness or stochasticity. Relativistic computers are deterministic but not Gandy-deterministic. (For a fuller discussion, see Copeland, Shagrir, & Sprevak 2018.)"
-
-"**In conclusion, Gandy’s analysis has made a considerable contribution to the current understanding of machine computation. But, important and illuminating though the Gandy argument is, it certainly does not settle the question whether the Deutsch-Wolfram thesis is true.**"
-
-
 
 
 # A phenomenological version of argument I
@@ -126,6 +92,8 @@ While it might be clear with pixels or atleast for the average human reading thi
 
 The idea might be that, given that idealism, or (something like "metaphysical phenomenalism" where all that exists is phenomenal experience) and the phenomenal experiences of the world update following some rule, in discrete steps, then pancomputationalism, i.e the view that everything is computational, is true. 
 
+
+
 # Hilbert's Thesis
 
 An interesting parallel is Hilbert's thesis, which involve similar arguments in the sense that first order logic has equivalent proof systems.
@@ -156,5 +124,46 @@ Kahle then goes on to discuss the parallel arguments and how they differ.
 [Is there a hillberts thesis.pdf](file:///C:/Users/Katte/Documents/Academic/Philosophy/Is%20there%20a%20hillberts%20thesis.pdf)
 Reinhard Kahle
 https://www.jstor.org/stable/45096844
+
+
+
+
+# Gandy's Argument
+
+
+Generalized version of Turing's argument I. 
+
+"Gandy (Turing’s only PhD student) pointed out that Turing’s analysis of human computation does not immediately apply to computing machines strongly dissimilar from Turing machines. (See [Section 4.3](https://plato.stanford.edu/entries/church-turing/#TuriArguI) below for details of Turing’s analysis.) For example, Turing’s analysis does not obviously apply to parallel machines which, unlike a Turing machine, are able to process an arbitrary number of symbols simultaneously. Seeking a generalized form of Turing’s analysis that applies equally well to Turing machines and massively parallel machines, Gandy (1980) stated four axioms governing the behaviour of what he called _discrete deterministic mechanical devices_. (He formulated the axioms in terms of hereditarily finite sets.) Gandy was then able to prove that every device satisfying these axioms can be simulated by a Turing machine: **Discrete deterministic mechanical devices, even massively parallel ones, are no more powerful than Turing machines**, in the sense that whatever computations such a device is able to perform can also be done by the universal Turing machine. (For more on Gandy’s analysis, see [Section 6.4.2](https://plato.stanford.edu/entries/church-turing/#GandArgu).)"
+
+
+1. “A discrete deterministic mechanical device satisfies principles I-IV” (he called this “Thesis P”; Gandy 1980: 126), and
+   
+2. “What can be calculated by a device satisfying principles I-IV is computable” (he labelled this “Theorem”).
+
+
+"However, the Németi computer is a discrete, deterministic mechanical device, and yet is able to calculate functions that are not Turing-machine computable. That is to say, relativistic computers are counterexamples to Gandy’s Thesis P. In brief, the reason for this is that the sense of “deterministic” implicitly specified in Gandy’s Principles (“Gandy-deterministic”) is narrower than the intuitive sense of “deterministic”, where a deterministic system is one obeying laws that involve no randomness or stochasticity. Relativistic computers are deterministic but not Gandy-deterministic. (For a fuller discussion, see Copeland, Shagrir, & Sprevak 2018.)"
+
+"**In conclusion, Gandy’s analysis has made a considerable contribution to the current understanding of machine computation. But, important and illuminating though the Gandy argument is, it certainly does not settle the question whether the Deutsch-Wolfram thesis is true.**"
+
+
+
+
+### Turing argument II
+
+Turing's version
+
+
+Kripke's version:
+All mathematical derivations/effective calculations(?) can be described in first order logic with identity ("Hilberts thesis")
+Every human can perform such derivations ("Turings Thesis")
+By the Completeness theorem, everything derivable is valid
+
+
+
+
+# Sources
+
+[DaylightCTTsabamDec2018.pdf (dijkstrascry.com)](https://dijkstrascry.com/sites/default/files/papers/DaylightCTTsabamDec2018.pdf)
+[The Church-Turing Thesis (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/church-turing/)
 
 

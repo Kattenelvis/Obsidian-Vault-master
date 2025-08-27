@@ -22,3 +22,26 @@ Objection 1: Inverted Spectrum Argument. My green might be your red.
 Quantifying over qualia such as "All qualia has some feature" or "There exists some qualia with structure $S$" requires second order predicate logic to be quantified over, since qualia's are properties and thus its extension is sets.  
 
 < /idea >
+
+
+
+Set of arguments that I think overwhelmingly demonstrate that qualia is not infallible/known by certianty (and also against Russellian Aquisition theory?)
+
+1. Burden of proof on the other side according to methodological skepticism
+2. Accepting that MoTG is a valid argument and rejecting 'the given' premise.
+3. Frankish argument that evolutionary theory doesn't cohere with knowing qualia with certianty 
+4. Any reliable process of qualia is not 100% reliable
+5. Any process of qualia requires representing qualia and those cognitive processes are not 100% reliable
+
+https://plato.stanford.edu/entries/knowledge-acquaindescrip/
+
+Fumerton says the 
+BonJour vs Frankish: That qualia or aquantaince of qualia (whether the aquantance is a relation or intrinsic feature) is not representational according to BonJour but is to Frankish. If it is not representational then Frankish argument that it's no infallible goes away.
+
+
+
+
+https://www.youtube.com/watch?v=svmyrKS66S4
+
+39-ish minutes in
+Interesting case of the continuity of qualia argument applied to smells. 

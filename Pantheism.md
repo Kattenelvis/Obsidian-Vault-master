@@ -2,3 +2,10 @@
 
 
 Solipsism --> Pantheism?
+
+
+
+$pan_= \leftrightarrow God = The Universe$
+
+
+

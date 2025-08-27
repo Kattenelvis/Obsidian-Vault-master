@@ -1,3 +1,7 @@
+Apparently one can use the SSA to justify thirding in the sleeping beauty problem. But Dutch Books implies halfing. So one the one hand, betting dispositions ought to be half, but the 'true' probability is a third???
+
+
+
 Anthropic Bias by Nick Boström
 
 
